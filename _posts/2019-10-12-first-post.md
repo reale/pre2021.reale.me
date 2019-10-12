@@ -3,7 +3,7 @@ layout: talk
 title:  "Welcome to Jekyll!"
 categories: [talks]
 tags: []
-image: assets/images/pic01.jpg
+image: assets/images/cover.jpg
 ---
 
 # Welcome
