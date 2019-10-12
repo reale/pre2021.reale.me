@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: talk
 title:  "Welcome to Jekyll!"
 categories: [talks]
 tags: []
