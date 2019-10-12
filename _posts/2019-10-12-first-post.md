@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+categories: [talks]
+tags: []
+image: assets/images/pic01.jpg
 ---
 
 # Welcome
