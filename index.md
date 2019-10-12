@@ -42,14 +42,14 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Ipsum sed dolor</h2>
+		<h2>News</h2>
 	</header>
 	<div class="posts">
 	{% for post in site.posts %}
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
-			<h3>{{ post.title }}</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<a href="{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
+			<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+			<p>{{ post.excerpt }}</p>
 			<ul class="actions">
 				<li><a href="{{ post.url }}" class="button">More</a></li>
 			</ul>
