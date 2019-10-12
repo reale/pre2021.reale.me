@@ -1,14 +1,8 @@
 ---
 layout: talk
-title:  "Welcome to Jekyll!"
+title: "eProcurement: i processi di innovazione per le pubbliche amministrazioni e per le imprese"
 categories: [talks]
 tags: []
 image: assets/images/cover.jpg
+location: ANAC, Rome
 ---
-
-
-<li>R. Reale<br>
-<b>eProcurement: i processi di innovazione per le pubbliche amministrazioni e per le imprese</b><br>
-<i>ANAC</i>, Rome<br />
-</p>
-</li>
