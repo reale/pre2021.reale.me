@@ -15,15 +15,19 @@ country: Italy
 phone:
 
 # Social settings
-500px_url:
-facebook_url: https://www.facebook.com/rober.reale
-github_url: https://github.com/reale
-gitlab_url:
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/robertoreale/
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/roberto_reale
+social:
+  500px_url:
+  facebook: rober.reale
+  github: reale
+  gitlab:
+  instagram: robertoreale.ig
+  linkedin: robertoreale
+  pinterest:
+  slack:
+  twitter: roberto_reale
+  google_scholar: 3oTyeNsAAAAJ
+  medium: reale
+  youtube: UCptr2ANwqoW_B4MBRocBsbw
 
 # Build settings
 markdown: kramdown
