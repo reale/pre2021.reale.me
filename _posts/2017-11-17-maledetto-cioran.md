@@ -1,21 +1,10 @@
 ---
 layout: publication
-title: "TITLE"
-categories: [publications]
+title: "Maledetto Cioran"
+categories: [publications, articles]
 tags: []
 image: assets/images/cover.jpg
+publication: PoloniCult
+canonical: https://polonicult.com/maledetto-cioran/
+archive: https://web.archive.org/web/*/https://polonicult.com/maledetto-cioran/
 ---
-<!-- Item: TODO -->
-<li ><p>
-R. Reale<br>
-<b>Maledetto Cioran</b><br>
-<i>PoloniCult</i>, 17/11/2017
-<br />
-<a href="https://polonicult.com/maledetto-cioran/" target="_blank">[PoloniCult]</a>
-<a href="https://web.archive.org/web/*/https://polonicult.com/maledetto-cioran/" target="_blank">[Archive]</a>
-</p>
-<div id="bib_TODO" class="bibtex noshow">
-<pre>
-</pre>
-</div>
-</li>
