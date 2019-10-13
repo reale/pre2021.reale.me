@@ -1,16 +1,11 @@
 ---
 layout: talk
-title:  "Welcome to Jekyll!"
+title: "Identità digitale"
 categories: [talks]
 tags: []
 image: assets/images/cover.jpg
+conference: "Chi siamo online? Dati, strumenti e tutela del nostro io digitale"
+location: Rome
+media:
+  pictures: https://photos.app.goo.gl/Rht3vmezGwPLWVDZ6
 ---
-
-
-<li><p>R. Reale<br>
-<b>Identità digitale</b><br>
-<i>Chi siamo online? Dati, strumenti e tutela del nostro io digitale</i>, Rome, 01/02/2019<br>
-<a href="https://photos.app.goo.gl/Rht3vmezGwPLWVDZ6" target="_blank">[Pictures]</a>
-</p>
-</li>
-</ul>

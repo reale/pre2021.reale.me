@@ -1,14 +1,9 @@
 ---
 layout: talk
-title:  "Welcome to Jekyll!"
+title: "Viduo: exploring digital citizenship"
 categories: [talks]
 tags: []
 image: assets/images/cover.jpg
+others_speakers: [ "A. Poulos" ]
+location: "LUISS Business School, Rome"
 ---
-
-
-<li><p>R. Reale, A. Poulos<br>
-<b>Viduo: exploring digital citizenship</b><br>
-<i>LUISS Business School</i>, Rome, 30/11/2018<br />
-</p>
-</li>
