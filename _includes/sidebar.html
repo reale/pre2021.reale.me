@@ -73,13 +73,11 @@
           <header class="major">
             <h2>Get in touch</h2>
           </header>
-          <p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+          <p>Feel free to drop me a line!</p>
           <ul class="contact">
-            <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
-            <li class="fa-phone">{{ site.phone }}</li>
-            <li class="fa-home">{{ site.street_address }}<br />
-            {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
-            {{ site.country }}</li>
+	    <li class="fa-envelope-o"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+	    <li class="fa-envelope-o"><a href="mailto:{{ site.pec }}">{{ site.pec }}</a></li>
+	    <li class="fa-home">{{ site.city }}, {{ site.county }}</li>
           </ul>
         </section>
 
