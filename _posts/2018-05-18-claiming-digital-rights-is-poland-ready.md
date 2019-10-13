@@ -1,22 +1,12 @@
 ---
 layout: publication
-title: "TITLE"
-categories: [publications]
+title: "Claiming digital rights — Is Poland ready?"
+categories: [publications, articles]
 tags: []
 image: assets/images/cover.jpg
+publication: PoloniCult
+canonical: https://polonicult.com/digital-rights-poland/
+archive: https://web.archive.org/web/*/https://polonicult.com/digital-rights-poland/
+others:
+  medium: https://medium.com/reale/digital-rights-poland-ddffcf6999e8
 ---
-<!-- Item: TODO -->
-<li ><p>
-R. Reale<br>
-<b>Claiming digital rights — Is Poland ready?</b><br>
-<i>PoloniCult</i>, 18/05/2018
-<br />
-<a href="https://polonicult.com/digital-rights-poland/" target="_blank">[PoloniCult]</a>
-<a href="https://medium.com/@robertoreale/digital-rights-poland-ddffcf6999e8" target="_blank">[Medium]</a>
-<a href="https://web.archive.org/web/*/https://polonicult.com/digital-rights-poland/" target="_blank">[Archive]</a>
-</p>
-<div id="bib_TODO" class="bibtex noshow">
-<pre>
-</pre>
-</div>
-</li>
