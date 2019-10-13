@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Cyber: verso una blockchain d'Europa"
-categories: [publications]
+categories: [publications, articles]
 tags: []
 image: assets/images/cover.jpg
 publication: "OFCS Report"
