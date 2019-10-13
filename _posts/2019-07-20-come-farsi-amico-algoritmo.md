@@ -1,21 +1,10 @@
 ---
 layout: publication
-title: "TITLE"
-categories: [publications]
+title: "Come farsi amico l'algoritmo e usare i social per uscire dalla bolla"
+categories: [publications, articles]
 tags: []
 image: assets/images/cover.jpg
+publication: Cieloterradesign
+canonical: http://www.cieloterradesign.com/come-farsi-amico-lalgoritmo-e-usare-i-social-per-uscire-dalla-bolla/
+archive: http://web.archive.org/web/*/http://www.cieloterradesign.com/come-farsi-amico-lalgoritmo-e-usare-i-social-per-uscire-dalla-bolla/
 ---
-<!-- Item: TODO -->
-<li ><p>
-R. Reale<br>
-<b>Come farsi amico l’algoritmo e usare i social per uscire dalla bolla</b><br>
-<i>Cieloterradesign</i>, 20/07/2019
-<br />
-<a href="http://www.cieloterradesign.com/come-farsi-amico-lalgoritmo-e-usare-i-social-per-uscire-dalla-bolla/" target="_blank">[Cieloterradesign]</a>
-<a href="http://web.archive.org/web/*/http://www.cieloterradesign.com/come-farsi-amico-lalgoritmo-e-usare-i-social-per-uscire-dalla-bolla/" target="_blank">[Archive]</a>
-</p>
-<div id="bib_TODO" class="bibtex noshow">
-<pre>
-</pre>
-</div>
-</li>
