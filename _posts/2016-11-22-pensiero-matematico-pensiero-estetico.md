@@ -1,21 +1,10 @@
 ---
 layout: publication
-title: "TITLE"
-categories: [publications]
+title: "Pensiero matematico, pensiero estetico"
+categories: [publications, articles]
 tags: []
 image: assets/images/cover.jpg
+publication: PoloniCult
+canonical: https://polonicult.com/pensiero_matematico_estetico/
+archive: https://web.archive.org/web/*/http://polonicult.com/pensiero_matematico_estetico/
 ---
-<!-- Item: TODO -->
-<li ><p>
-R. Reale<br>
-<b>Pensiero matematico, pensiero estetico</b><br>
-<i>PoloniCult</i>, 22/11/2016
-<br />
-<a href="https://polonicult.com/pensiero_matematico_estetico/" target="_blank">[PoloniCult]</a>
-<a href="https://web.archive.org/web/*/http://polonicult.com/pensiero_matematico_estetico/" target="_blank">[Archive]</a>
-</p>
-<div id="bib_TODO" class="bibtex noshow">
-<pre>
-</pre>
-</div>
-</li>
