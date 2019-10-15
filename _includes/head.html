@@ -19,12 +19,12 @@
 	          {% if page.image.feature %}
 	                  <meta name="twitter:card" content="summary_large_image">
                   <meta name="twitter:image" content=
-                          {% if page.image.feature contains 'http://' %}
-	                                  "{{ page.image.feature }}"
-                          {% elsif page.image.feature contains 'https://' %}
-	                                  "{{ page.image.feature }}"
+                          {% if page.image contains 'http://' %}
+	                                  "{{ page.image }}"
+                          {% elsif page.image contains 'https://' %}
+	                                  "{{ page.image }}"
                           {% else %}
-	                                  "{{ site.url }}/images/{{ page.image.feature }}"
+				  "{{ site.url }}/{{ site.baseurl }}{{ page.image }}"
                           {% endif %}
                   >
           {% else %}
