@@ -1,75 +1,59 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
 <head>
-{% include _head.html %}
-<style>
-  .bottom-three {
-     margin-bottom: 1.5cm;
-   }
-  .bottom-small {
-     margin-bottom: 1cm;
-   }
-</style>
+  {% include head.html %}
 </head>
 
-<body class="page">
+<body>
 
-{% include _browser-upgrade.html %}
+    <!-- Wrapper -->
+    <div id="wrapper">
 
-{% include _navigation.html %}
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
 
-{% if page.image.feature %}
-  <div class="image-wrap">
-  <img src=
-    {% if page.image.feature contains 'http://' %}
-      "{{ page.image.feature }}"
-    {% elsif page.image.feature contains 'https://' %}
-      "{{ page.image.feature }}"
-    {% else %}
-      "{{ site.url }}/images/{{ page.image.feature }}"
-    {% endif %}
-  alt="{{ page.title }} feature image">
-  {% if page.image.credit %}
-    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
-  {% endif %}
-  </div><!-- /.image-wrap -->
-{% endif %}
-<div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
-  </div>
-  <article>
-    <h1>{{ page.title }}</h1>
-    <div class="article-wrap">
-      <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/roberto+en@reale.me" method="post">
-        <fieldset id="fs-frm-inputs">
-          <label for="full-name">Your Name</label>
-          <input type="text" name="name" id="full-name" placeholder="Your Name" required="">
-          <label for="email-address">Email Address</label>
-          <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-          <label for="message">Message</label>
-          <textarea rows="5" name="message" id="message" required=""></textarea>
-          <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-        </fieldset>
-        <input type="submit" value="Submit">
-      </form>
-    </div><!-- /.article-wrap -->
-    {% if site.disqus_shortname and page.comments %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
-    {% endif %}
-  </article>
-</div><!-- /#index -->
+                {% include header.html %}
 
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
+                <section>
+                	<header class="main">
+                		<h1>{{ page.title }}</h1>
+                	</header>
 
-{% include _scripts.html %}          
+                  {% if page.image %}
+                	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
+                  {% endif %}
+
+		    <div>
+		      <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/roberto+en@reale.me" method="post">
+			<fieldset id="fs-frm-inputs">
+			  <label for="full-name">Your Name</label>
+			  <input type="text" name="name" id="full-name" placeholder="Your Name" required="">
+			  <label for="email-address">Email Address</label>
+			  <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+			  <label for="message">Message</label>
+			  <textarea rows="5" name="message" id="message" required=""></textarea>
+			  <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+			</fieldset>
+			<input type="submit" value="Submit">
+		      </form>
+		    </div>
+
+              </div>
+          </div>
+
+          {% include sidebar.html %}
+
+      </div>
+
+      {% include footer.html %}
 
 </body>
+
 </html>
