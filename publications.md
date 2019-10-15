@@ -2,13 +2,12 @@
 layout: page
 ---
 
-{% for category in site.categories.publications %}
 <section>
 	<header class="major">
-		<h2><a id="{{ category }}">{{ category }}</a></h2>
+		<h2><a id="articles">Articles</a></h2>
 	</header>
 	<div class="posts">
-	{% for post in category %}
+	{% for post in site.categories.articles %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -20,5 +19,3 @@ layout: page
 	{% endfor %}
 	</div>
 </section>
-
-{% endfor %}
