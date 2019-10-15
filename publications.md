@@ -5,10 +5,10 @@ layout: page
 {% for category in site.categories.publications %}
 <section>
 	<header class="major">
-		<h2><a id="{{ category[0] }}">{{ category[0] }}</a></h2>
+		<h2><a id="{{ category }}">{{ category }}</a></h2>
 	</header>
 	<div class="posts">
-	{% for post in category[1] %}
+	{% for post in category %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
