@@ -45,7 +45,7 @@ layout: default
 		<h2>News</h2>
 	</header>
 	<div class="posts">
-	{% for post in site.posts %}
+	{% for post in site.posts limit:12 %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
