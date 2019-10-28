@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "DevSecOps: l’approccio agile alla protezione del dominio cibernetico – Parte 1"
-categories: [publications, articles]
+categories: [publications, articles, focus]
 tags: []
 image: assets/images/2019-10-21-devsecops-approccio-agile-protezione-dominio-cibernetico-1.jpg
 coauthors: [ "D. Maniscalco" ]

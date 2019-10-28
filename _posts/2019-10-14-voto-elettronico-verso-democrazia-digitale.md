@@ -1,7 +1,7 @@
 ---
 layout: talk
 title: "Voto Elettronico: Verso una democrazia digitale?"
-categories: [talks]
+categories: [talks, focus]
 tags: []
 image: assets/images/2019-10-14-voto-elettronico-verso-democrazia-digitale.jpg
 conference: "#aperitech Codemotion"
