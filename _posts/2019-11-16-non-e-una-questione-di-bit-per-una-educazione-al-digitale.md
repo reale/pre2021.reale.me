@@ -1,0 +1,11 @@
+---
+layout: talk
+title: "Non è una questione di bit: per un’educazione al digitale"
+categories: [talks]
+tags: []
+image: assets/images/cover.jpg
+conference: "BookSophia Festival della Classicità"
+location: "Massa Lubrense, Italy"
+---
+
+Hannah Arendt in “La condizione umana” ci invita ad occuparci «di ciò che facciamo», ossia del nostro modo di stare nel mondo: qui e adesso, in questo “pezzo” di storia. E allora la dimensione digitale diventa imprescindibile: che non è familiarità con device e smartphone, ma una dimensione profonda dell'essere, rinnovo di paradigmi in cui espressione, cognizione, socialità, lavoro, politica si ritrovano ad essere pratiche antiche mediate da strumenti nuovi. Educare al digitale significa allora educare a un modo consapevole di vivere il proprio ruolo nel tempo presente, come antidoto sì alla tecnocrazia ma anche alla pulsione iconoclasta degli apocalittici: in altre parole, come salvaguardia della democrazia.
