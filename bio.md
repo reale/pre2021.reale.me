@@ -12,6 +12,6 @@ I am a member of standardization bodies at the national and EU level and of seve
 
 By delivering keynotes in conferences and meetings throughout Europe and by conducting an extensive communication campaign, I strive to be a thought leader on digital transformation and its impact on our society and culture.
 
-As the proud founder of Eutopian, a think tank focused on the digital citizenship, I believe in technology as an enabler for democracy.
+As the proud founder of <a href="https://eutopian.eu" target="_blank">Eutopian</a>, a think tank focused on the digital citizenship, I believe in technology as an enabler for democracy.
 
 Currently I live in Rome, Italy.
