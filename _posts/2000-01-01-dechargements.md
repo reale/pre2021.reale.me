@@ -1,6 +1,7 @@
 ---
 layout: publication
 title: "Déchargements"
+permalink: /dechargements/
 categories: [publications, poetry]
 tags: []
 image: assets/images/cover.jpg
