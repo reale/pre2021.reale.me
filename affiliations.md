@@ -7,7 +7,7 @@ layout: page
 		<h2><a id="affiliations">Affiliations</a></h2>
 	</header>
 	<div class="posts">
-	{% for post in site.categories.affiliations %}
+	{% for post in site.categories.affiliation %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
