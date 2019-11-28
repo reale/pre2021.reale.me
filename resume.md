@@ -4,7 +4,7 @@ layout: page
 
 <section>
 	<header class="major">
-		<h2><a id="articles">Resume</a></h2>
+		<h2>Resume</h2>
 	</header>
 	<div class="posts">
 	{% for post in site.categories.resume %}
