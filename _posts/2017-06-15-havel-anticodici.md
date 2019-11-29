@@ -9,6 +9,8 @@ canonical: https://polonicult.com/havel-anticodici/
 archive: https://web.archive.org/web/*/https://polonicult.com/havel-anticodici/
 ---
 
+Opera “oscura” di Václav Havel, gli Anticodici sono un  tassello ostico ma affascinante della grande tradizione europea della ricombinazione linguistica.
+
 ### Scrivere la colpa
 
 Nella colonia penale immaginata da Franz Kafka al reo viene inflitta una punizione esemplare: una macchina dotata di erpice d’acciaio ne incide la schiena, nuda, con la descrizione accurata della colpa commessa. In una scrittura a fil di ago intricata come la mappa di un labirinto, la motivazione della condanna va rivelandosi a mano a mano che il lavoro della macchina procede, mentre le lacerazioni si approfondiscono, si intersecano, ritrovano una loro geometria e nella carne del condannato fatta a brandelli trionfa la logica di un random walk, di un processo che al principio sembra affidato al caso ma finisce per denunciare il determinismo perentorio dell’algoritmo che vi presiede.
