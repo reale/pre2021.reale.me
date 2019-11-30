@@ -4,7 +4,7 @@ title: "Mediterranea"
 permalink: /mediterranea/
 categories: [publications, poetry]
 tags: []
-image: assets/images/2018-08-27-mediterranea.jpg
+image: /assets/images/2018-08-27-mediterranea.jpg
 others:
   amazon: https://www.amazon.it/gp/product/B07GRVW15Z/
   goodreads: https://www.goodreads.com/book/show/41526664-mediterranea

@@ -3,7 +3,7 @@ layout: publication
 title: "Rerum Cognoscere Causas"
 categories: [publications, articles]
 tags: []
-image: assets/images/2019-08-03-rerum-cognoscere-causas.jpg
+image: /assets/images/2019-08-03-rerum-cognoscere-causas.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/rerum-cognoscere-causas-533f304e3423
 ---

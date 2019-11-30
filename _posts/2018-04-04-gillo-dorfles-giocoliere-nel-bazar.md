@@ -3,7 +3,7 @@ layout: publication
 title: "Gillo Dorfles: il giocoliere nel bazar"
 categories: [publications, articles]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/gillo-dorfles-giocoliere-nel-bazar/
 archive: https://web.archive.org/web/*/https://polonicult.com/gillo-dorfles-giocoliere-nel-bazar/

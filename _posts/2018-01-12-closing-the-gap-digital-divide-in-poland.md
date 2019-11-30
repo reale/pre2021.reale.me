@@ -3,7 +3,7 @@ layout: publication
 title: "Closing the Gap. Digital divide and digital cultures in Poland: an introduction"
 categories: [publications, articles]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/digital-divide-poland/
 archive: https://web.archive.org/web/*/https://polonicult.com/digital-divide-poland/

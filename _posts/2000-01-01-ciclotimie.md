@@ -4,5 +4,5 @@ title: "Ciclotimie"
 published: false
 categories: [publications, poetry]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 ---

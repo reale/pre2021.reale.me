@@ -3,7 +3,7 @@ layout: project
 title: "Leaked Shots"
 categories: [projects, photography]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 canonical: https://leakedshots.com/
 others: 
   flickr: https://www.flickr.com/people/leakedshots

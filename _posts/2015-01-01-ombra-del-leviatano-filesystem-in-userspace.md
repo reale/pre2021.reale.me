@@ -3,7 +3,7 @@ layout: talk
 title:  "All'ombra del Leviatano: Filesystem in Userspace"
 categories: [talks]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 conference: "Linux Day 2015"
 location: Rome
 media:

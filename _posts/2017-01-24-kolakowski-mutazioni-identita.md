@@ -3,7 +3,7 @@ layout: publication
 title: "Leszek Kołakowski – mutazioni dell'identità"
 categories: [publications, articles]
 tags: []
-image: assets/images/2017-01-24-kolakowski-mutazioni-identita.jpg
+image: /assets/images/2017-01-24-kolakowski-mutazioni-identita.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/kolakowski/
 archive: https://web.archive.org/web/*/http://polonicult.com/kolakowski/

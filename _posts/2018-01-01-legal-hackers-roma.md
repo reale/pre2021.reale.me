@@ -3,7 +3,7 @@ layout: affiliation
 title: "Legal Hackers Roma"
 categories: [affiliation]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 role: Co-Founder
 ---
 

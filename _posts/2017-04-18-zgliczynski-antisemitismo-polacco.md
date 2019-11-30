@@ -3,7 +3,7 @@ layout: publication
 title: "Stefan Zgliczyński, Gli antisemiti siamo noi"
 categories: [publications, articles]
 tags: []
-image: assets/images/2017-04-18-zgliczynski-antisemitismo-polacco.jpg
+image: /assets/images/2017-04-18-zgliczynski-antisemitismo-polacco.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/zgliczynski_antisemitismo_polacco/
 archive: https://web.archive.org/web/*/http://polonicult.com/zgliczynski_antisemitismo_polacco/

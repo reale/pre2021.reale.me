@@ -3,7 +3,7 @@ layout: publication
 title: "De recta architectura"
 categories: [publications, articles]
 tags: []
-image: assets/images/2017-03-23-de-recta-architectura.jpg
+image: /assets/images/2017-03-23-de-recta-architectura.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/biennale/
 archive: https://web.archive.org/web/*/http://polonicult.com/biennale/

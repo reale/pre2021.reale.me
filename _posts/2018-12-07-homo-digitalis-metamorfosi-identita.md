@@ -3,7 +3,7 @@ layout: talk
 title: "Homo Digitalis: Metamorfosi dell'identità"
 categories: [talks]
 tags: []
-image: assets/images/2018-12-07-homo-digitalis-metamorfosi-identita.jpg
+image: /assets/images/2018-12-07-homo-digitalis-metamorfosi-identita.jpg
 conference: "BookSophia Festival della Classicità"
 location: "Massa Lubrense, Italy"
 media:

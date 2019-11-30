@@ -3,7 +3,7 @@ layout: publication
 title: "Automatic Thoughts. The rise and fall of computers in PRL"
 categories: [publications, articles]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/automatic-thoughts-the-rise-and-fall-of-computers-prl/
 archive: https://web.archive.org/web/*/https://polonicult.com/automatic-thoughts-the-rise-and-fall-of-computers-prl/

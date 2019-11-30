@@ -3,7 +3,7 @@ layout: publication
 title: "Pensiero matematico, pensiero estetico"
 categories: [publications, articles]
 tags: []
-image: assets/images/2016-11-22-pensiero-matematico-pensiero-estetico.jpg
+image: /assets/images/2016-11-22-pensiero-matematico-pensiero-estetico.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/pensiero_matematico_estetico/
 archive: https://web.archive.org/web/*/http://polonicult.com/pensiero_matematico_estetico/

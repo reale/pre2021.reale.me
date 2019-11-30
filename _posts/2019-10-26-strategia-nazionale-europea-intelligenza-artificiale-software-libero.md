@@ -3,7 +3,7 @@ layout: talk
 title: "La strategia nazionale ed europea sull'intelligenza artificiale e il ruolo del software libero"
 categories: [talks]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 other_speakers: [ "F. Sarzana" ]
 conference: "Linux Day 2019"
 location: Rome

@@ -3,7 +3,7 @@ layout: publication
 title: "Zygmunt Bauman, Collateral Damage"
 categories: [publications, articles]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/zygmunt-bauman-collateral-damage/
 archive: https://web.archive.org/web/*/https://polonicult.com/zygmunt-bauman-collateral-damage/

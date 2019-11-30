@@ -3,7 +3,7 @@ layout: publication
 title: "Digitalizzare: sì, ma come?"
 categories: [publications, articles, focus]
 tags: []
-image: assets/images/2019-10-17-digitalizzare-si-ma-come.jpg
+image: /assets/images/2019-10-17-digitalizzare-si-ma-come.jpg
 publication: CryptoRivista
 canonical: https://cryptorivista.com/it/view/digitalizzare-s%C3%AC-ma-come
 archive: https://web.archive.org/web/*/https://cryptorivista.com/it/view/digitalizzare-s%C3%AC-ma-come

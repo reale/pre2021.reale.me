@@ -3,7 +3,7 @@ layout: talk
 title: "La strategia nazionale ed europea sull'intelligenza artificiale e il ruolo del software libero"
 categories: [talks]
 tags: []
-image: assets/images/2019-10-29-icom-non-voglio-mica-la-luna.jpg
+image: /assets/images/2019-10-29-icom-non-voglio-mica-la-luna.jpg
 conference: "Non voglio mica la luca. Le tecnologie digitali al servizio degli italiani"
 location: "I-Com, Rome"
 ---

@@ -3,7 +3,7 @@ layout: talk
 title:  "Fog and the City: an urbanist's perspective"
 categories: [talks]
 tags: []
-image: assets/images/2016-11-27-fog-and-the-city-an-urbanists-perspective.jpg
+image: /assets/images/2016-11-27-fog-and-the-city-an-urbanists-perspective.jpg
 conference: "Linux Day 2016"
 location: Florence
 media:

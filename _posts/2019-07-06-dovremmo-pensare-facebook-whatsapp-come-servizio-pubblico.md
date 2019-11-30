@@ -3,7 +3,7 @@ layout: publication
 title: "Perché dovremmo iniziare a pensare a Facebook e a WhatsApp come a un servizio pubblico"
 categories: [publications, articles]
 tags: []
-image: assets/images/2019-07-06-dovremmo-pensare-facebook-whatsapp-come-servizio-pubblico.jpg
+image: /assets/images/2019-07-06-dovremmo-pensare-facebook-whatsapp-come-servizio-pubblico.jpg
 publication: Cieloterradesign
 canonical: http://www.cieloterradesign.com/facebook-whatsapp-down-servizio-pubblico/
 archive: http://web.archive.org/web/*/http://www.cieloterradesign.com/facebook-whatsapp-down-servizio-pubblico/

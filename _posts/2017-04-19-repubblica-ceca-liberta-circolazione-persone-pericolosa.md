@@ -3,7 +3,7 @@ layout: publication
 title: "Rep. Ceca: “La libertà di circolazione delle persone è pericolosa”"
 categories: [publications, articles]
 tags: []
-image: assets/images/2017-04-19-repubblica-ceca-liberta-circolazione-persone-pericolosa.jpg
+image: /assets/images/2017-04-19-repubblica-ceca-liberta-circolazione-persone-pericolosa.jpg
 publication: "East Journal"
 canonical: http://www.eastjournal.net/archives/82681
 archive: https://web.archive.org/web/*/http://www.eastjournal.net/archives/82681

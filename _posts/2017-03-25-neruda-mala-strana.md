@@ -3,7 +3,7 @@ layout: publication
 title: "Jan Neruda, I racconti di Malá Strana"
 categories: [publications, articles]
 tags: []
-image: assets/images/2017-03-25-neruda-mala-strana.jpg
+image: /assets/images/2017-03-25-neruda-mala-strana.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/neruda_mala_strana/
 archive: https://web.archive.org/web/*/http://polonicult.com/neruda_mala_strana/

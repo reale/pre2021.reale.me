@@ -3,7 +3,7 @@ layout: affiliation
 title: "EU Blockchain Observatory and Forum"
 categories: [affiliation]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 role: Member
 ---
 

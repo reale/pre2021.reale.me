@@ -3,7 +3,7 @@ layout: talk
 title: "Solidity in the Cloud"
 categories: [talks]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 conference: "OpenStack Day"
 location: Rome
 media:

@@ -3,7 +3,7 @@ layout: publication
 title: "The Náměstí"
 categories: [publications, miscellanea]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 publication: "Write the City, issue 3 (Legends)"
 canonical: https://issuu.com/writethecity/docs/legends__wtc__3_
 ---

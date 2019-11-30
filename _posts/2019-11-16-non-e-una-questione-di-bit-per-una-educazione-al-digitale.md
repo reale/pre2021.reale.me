@@ -3,7 +3,7 @@ layout: talk
 title: "Non è una questione di bit: per un’educazione al digitale"
 categories: [talks]
 tags: []
-image: assets/images/2019-11-16-non-e-una-questione-di-bit-per-una-educazione-al-digitale.jpg
+image: /assets/images/2019-11-16-non-e-una-questione-di-bit-per-una-educazione-al-digitale.jpg
 conference: "BookSophia Festival della Classicità"
 location: "Massa Lubrense, Italy"
 media:

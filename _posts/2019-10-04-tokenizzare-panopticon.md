@@ -3,7 +3,7 @@ layout: talk
 title: "Tokenizzare il panopticon. Privacy, sorveglianza e consenso nella società disintermediata"
 categories: [talks]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 conference: "e-privacy 2019 - autumn edition"
 location: Bari
 media:

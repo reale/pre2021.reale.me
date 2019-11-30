@@ -3,7 +3,7 @@ layout: publication
 title: "Nessuno pensa da solo"
 categories: [publications, articles]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 coauthors: [ "S. Greco" ]
 publication: PoloniCult
 canonical: https://polonicult.com/nessuno-pensa-da-solo/

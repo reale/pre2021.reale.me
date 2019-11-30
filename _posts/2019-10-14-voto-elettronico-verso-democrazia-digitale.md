@@ -3,7 +3,7 @@ layout: talk
 title: "Voto Elettronico: Verso una democrazia digitale?"
 categories: [talks, focus]
 tags: []
-image: assets/images/2019-10-14-voto-elettronico-verso-democrazia-digitale.jpg
+image: /assets/images/2019-10-14-voto-elettronico-verso-democrazia-digitale.jpg
 conference: "#aperitech Codemotion"
 location: "HUB LVenture Group e LUISS EnLabs, Rome"
 media:

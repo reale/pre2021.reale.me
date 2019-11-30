@@ -4,7 +4,7 @@ title: "Déchargements"
 permalink: /dechargements/
 categories: [publications, poetry]
 tags: []
-image: assets/images/2018-10-01-dechargements.jpg
+image: /assets/images/2018-10-01-dechargements.jpg
 others:
   amazon: https://www.amazon.it/product/dp/B07HSJW75G/
   goodreads: https://www.goodreads.com/book/show/42182210-d-chargements

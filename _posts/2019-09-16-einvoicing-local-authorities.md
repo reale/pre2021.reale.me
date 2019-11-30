@@ -3,7 +3,7 @@ layout: talk
 title: "eInvoicing for the Local Authorities"
 categories: [talks]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 other_speakers: [ "C. Ciciriello" ]
 location: Palermo
 media:

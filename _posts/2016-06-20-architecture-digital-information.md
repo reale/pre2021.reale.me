@@ -3,7 +3,7 @@ layout: publication
 title: "Architecture and Digital Information"
 categories: [publications, articles]
 tags: []
-image: assets/images/2016-06-20-architecture-digital-information.jpg
+image: /assets/images/2016-06-20-architecture-digital-information.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/architecture-digital-information-4c95fd2c6233
 others:

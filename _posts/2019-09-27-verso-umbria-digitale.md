@@ -3,7 +3,7 @@ layout: talk
 title: "Verso un'Umbria digitale"
 categories: [talks]
 tags: []
-image: assets/images/2019-09-27-verso-umbria-digitale.jpg
+image: /assets/images/2019-09-27-verso-umbria-digitale.jpg
 location: Perugia
 media:
   pictures: https://photos.app.goo.gl/UXT9qKDvPGjNsFSq7

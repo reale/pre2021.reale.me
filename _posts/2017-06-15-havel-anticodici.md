@@ -3,7 +3,7 @@ layout: publication
 title: "Václav Havel, Anticodici"
 categories: [publications, articles]
 tags: []
-image: assets/images/2017-06-15-havel-anticodici.jpg
+image: /assets/images/2017-06-15-havel-anticodici.jpg
 publication: PoloniCult
 canonical: https://polonicult.com/havel-anticodici/
 archive: https://web.archive.org/web/*/https://polonicult.com/havel-anticodici/

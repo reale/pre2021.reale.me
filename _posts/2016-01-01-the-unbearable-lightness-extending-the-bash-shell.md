@@ -3,7 +3,7 @@ layout: talk
 title: "The Unbearable Lightness: Extending the Bash shell"
 categories: [talks]
 tags: []
-image: assets/images/cover.jpg
+image: /assets/images/cover.jpg
 conference: "Linux Day 2016"
 location: Rome
 media:
