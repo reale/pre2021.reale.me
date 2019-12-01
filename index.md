@@ -36,7 +36,7 @@ layout: default
 				<li><a href="{{ site.baseurl }}{{ post.url }}" class="button">More</a></li>
 			</ul>
 		</article>
-		{% endif %}
+		{% endunless %}
 	{% endfor %}
 	</div>
 </section>
