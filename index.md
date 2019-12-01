@@ -27,7 +27,7 @@ layout: default
 	</header>
 	<div class="posts">
 	{% for post in site.posts limit:12 %}
-		{% unless page.categories contains "affiliation" %}
+		{% unless page.hidden_from_news %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
