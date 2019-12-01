@@ -5,6 +5,7 @@ categories: [affiliation]
 tags: []
 image: /assets/images/cover.jpg
 role: Member
+hidden_from_news: true
 ---
 
 Copernicani is an independent association of students, workers, entrepreneurs, professors, researchers and politicians who have decided to turn their ideas into actions, to stimulate a culture of innovation and goad the parties transversally. We want to propose concrete and feasible policies to improve the prospects of our country, aware of the complexity and difficulties of the context.
