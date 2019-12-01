@@ -27,6 +27,7 @@ layout: default
 	</header>
 	<div class="posts">
 	{% for post in site.posts limit:12 %}
+		{% if not page.categories == "affiliation" %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -35,6 +36,7 @@ layout: default
 				<li><a href="{{ site.baseurl }}{{ post.url }}" class="button">More</a></li>
 			</ul>
 		</article>
+		{% endif %}
 	{% endfor %}
 	</div>
 </section>
