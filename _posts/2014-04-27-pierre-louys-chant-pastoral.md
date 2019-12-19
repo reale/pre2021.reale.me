@@ -7,6 +7,8 @@ image: /assets/images/2014-04-27-pierre-louys-chant-pastoral.jpg
 image_alt: "François-Louis Schmied, La forêt"
 ---
 
+Traduzione da Pierre Louÿs / Translation from Pierre Louÿs
+
 <p><em>Il faut chanter un chant pastoral, invoquer<br />
 Pan, dieu du vent d'été. Je garde mon<br />
 troupeau et Sélénis le sien, à l'ombre ronde<br />

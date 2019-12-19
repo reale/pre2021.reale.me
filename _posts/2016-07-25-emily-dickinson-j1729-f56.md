@@ -8,6 +8,8 @@ image_alt: "Margaret MacDonald, Queen of Diamonds"
 description: Una mia traduzione del frammento J1729 (?) / F56 (1859) di Emily Dickinson / An attempt at translating Emily Dickinson's fragment J1729 (?) / F56 (1859)
 ---
 
+Traduzione da Emily Dickinson / Translation from Emily Dickinson
+
 <p><em>I've got an arrow here.<br />
 Loving the hand that sent it<br />
 I the dart revere.</em></p>

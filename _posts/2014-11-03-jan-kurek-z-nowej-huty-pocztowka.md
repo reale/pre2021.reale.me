@@ -7,6 +7,8 @@ image: /assets/images/2014-11-03-jan-kurek-z-nowej-huty-pocztowka.jpg
 image_alt: "Robert Kosieradzki, Nowa Huta"
 ---
 
+Traduzione da Jan Kurek / Translation from Jan Kurek
+
 <p><em>Co dzień przesuwa się ku mnie bliżej Nowa Huta.<br />
 Co dzień bmach rośnie w niebo wyżej — Nowa Huta.<br />
 Co noc nad Kombinatem — łuna.</em></p>

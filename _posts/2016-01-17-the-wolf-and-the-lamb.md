@@ -7,6 +7,8 @@ image: /assets/images/2016-01-17-the-wolf-and-the-lamb.jpg
 image_alt: "Otto Dix, Der Krieg"
 ---
 
+Traduzione da Fedro / Translation from Phaedrus
+
 <p><em>Ad rivum eundem lupus et agnus venerant,<br />
 siti compulsi. Superior stabat lupus,<br />
 longeque inferior agnus. Tunc fauce improba<br />

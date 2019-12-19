@@ -3,10 +3,12 @@ layout: publication
 title: Wisława Szymborska, Tortury
 categories: [publications, poetry, translations]
 tags: []
-image: /assets/images/cover.jpg
+image: /assets/images/2016-10-31-wislawa-szymborska-tortury.jpg
 image_alt: "Lucio Fontana, La Lune en Rodage"
 description: Un mio esercizio di traduzione da Wisława Szymborska / An attempt of mine at translating Wisława Szymborska into Italian
 ---
+
+Traduzione da Wisława Szymborska / Translation from Wisława Szymborska
 
 <p><em>Nic się nie zmieniło.<br />
 Ciało jest bolesne,<br />

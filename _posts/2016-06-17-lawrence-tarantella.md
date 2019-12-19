@@ -7,6 +7,8 @@ image: /assets/images/2016-06-17-lawrence-tarantella.jpg
 image_alt: "Franz von Stuck, Wind und Welle"
 ---
 
+Traduzione da D. H. Lawrence / Translation from D. H. Lawrence
+
 <p><em>Sad as he sits on the white sea-stone<br />
 And the suave sea chuckles, and turns to the moon,<br />
 And the moon significant smiles at the cliffs and the boulders.<br />
