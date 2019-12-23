@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "De Bello Latino: guerra sul fronte delle lingue morte"
-categories: [publications, translations]
+categories: [publications, translations, misc]
 tags: []
 image: /assets/images/cover.jpg
 original_authors: [ "N. Kuc" ]

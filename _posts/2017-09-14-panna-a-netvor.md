@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Di belle e di bestie – su Panna a netvor"
-categories: [publications, articles]
+categories: [publications, articles, misc]
 tags: []
 image: /assets/images/cover.jpg
 publication: PoloniCult

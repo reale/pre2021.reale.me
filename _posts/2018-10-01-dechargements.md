@@ -2,7 +2,7 @@
 layout: publication
 title: "Déchargements"
 permalink: /dechargements/
-categories: [publications, poetry]
+categories: [publications, poetry, misc]
 tags: []
 image: /assets/images/2018-10-01-dechargements.jpg
 others:

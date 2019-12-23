@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Leaked Shots"
-categories: [projects, photography]
+categories: [projects, photography, misc]
 tags: []
 image: /assets/images/cover.jpg
 canonical: https://leakedshots.com/

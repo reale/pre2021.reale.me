@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Joseph Roth, viaggio ai confini dell'impero"
-categories: [publications, articles]
+categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2017-06-27-roth-viaggio-confini-impero.jpg
 publication: PoloniCult

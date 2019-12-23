@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Krzysztof Kieślowski dietro le quinte"
-categories: [publications, articles]
+categories: [publications, articles, misc]
 tags: []
 image: /assets/images/cover.jpg
 publication: PoloniCult

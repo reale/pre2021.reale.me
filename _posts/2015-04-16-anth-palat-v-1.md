@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: Anth. Palat. V, 1
-categories: [publications, poetry, translations]
+categories: [poetry, translations, misc]
 tags: []
 image: /assets/images/2015-04-16-anth-palat-v-1.jpg
 image_alt: "Edward Hopper, Summer Evening"

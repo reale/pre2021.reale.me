@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: Wisława Szymborska, Na powitanie budowy socjalistycznego miasta
-categories: [publications, poetry, translations]
+categories: [poetry, translations, misc]
 tags: []
 image: /assets/images/2014-06-02-wislawa-szymborska-na-powitanie-budowy-socjalistycznego-miasta.jpg
 image_alt: "Nova Huta (Kraków)"

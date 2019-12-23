@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Galizia, Viaggio nel cuore scomparso della Mitteleuropa"
-categories: [publications, articles]
+categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2017-05-09-galizia-pollack.jpg
 publication: PoloniCult

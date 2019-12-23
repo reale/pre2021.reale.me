@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "On Dikanda, or How to arrange the East"
-categories: [publications, articles]
+categories: [publications, articles, misc]
 tags: []
 image: /assets/images/cover.jpg
 publication: PoloniCult

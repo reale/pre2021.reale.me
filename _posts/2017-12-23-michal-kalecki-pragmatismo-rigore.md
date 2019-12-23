@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Michał Kalecki, tra pragmatismo e rigore"
-categories: [publications, articles]
+categories: [publications, articles, misc]
 tags: []
 image: /assets/images/cover.jpg
 publication: PoloniCult

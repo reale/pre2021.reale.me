@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "De recta architectura"
-categories: [publications, articles]
+categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2017-03-23-de-recta-architectura.jpg
 publication: PoloniCult

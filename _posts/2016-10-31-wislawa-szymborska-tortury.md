@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: Wisława Szymborska, Tortury
-categories: [publications, poetry, translations]
+categories: [poetry, translations, misc]
 tags: []
 image: /assets/images/2016-10-31-wislawa-szymborska-tortury.jpg
 image_alt: "Lucio Fontana, La Lune en Rodage"

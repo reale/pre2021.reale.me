@@ -2,7 +2,7 @@
 layout: publication
 title: "Mediterranea"
 permalink: /mediterranea/
-categories: [publications, poetry]
+categories: [publications, poetry, misc]
 tags: []
 image: /assets/images/2018-08-27-mediterranea.jpg
 others:

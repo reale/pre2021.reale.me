@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: The Wolf and the Lamb
-categories: [publications, poetry, translations]
+categories: [poetry, translations, misc]
 tags: []
 image: /assets/images/2016-01-17-the-wolf-and-the-lamb.jpg
 image_alt: "Otto Dix, Der Krieg"

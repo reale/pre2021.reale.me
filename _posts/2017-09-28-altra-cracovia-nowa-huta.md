@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "L'altra Cracovia: Nowa Huta"
-categories: [publications, articles]
+categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2017-09-28-altra-cracovia-nowa-huta.jpg
 publication: PoloniCult

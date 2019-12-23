@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Ostatnia rodzina, o del lasciar tracce"
-categories: [publications, articles]
+categories: [publications, articles, misc]
 tags: []
 image: /assets/images/cover.jpg
 publication: PoloniCult

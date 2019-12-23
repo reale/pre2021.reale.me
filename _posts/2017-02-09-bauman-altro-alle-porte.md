@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Zygmunt Bauman – L'altro alle porte"
-categories: [publications, articles`]
+categories: [publications, articles, misc]
 tags: []
 image: /assets/images/cover.jpg
 publication: PoloniCult

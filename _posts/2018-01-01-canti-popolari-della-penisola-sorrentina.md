@@ -2,7 +2,7 @@
 layout: publication
 title: "Canti popolari della Penisola Sorrentina"
 permalink: /sorrento/
-categories: [publications, poetry]
+categories: [publications, poetry, misc]
 tags: []
 image: /assets/images/2018-01-01-canti-popolari-della-penisola-sorrentina.jpg
 canonical: https://robertoreale.gitbooks.io/sorrento/

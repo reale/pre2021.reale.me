@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Roman Ingarden – L'opera d'arte letteraria"
-categories: [publications, articles]
+categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2016-12-20-roman-ingarden-opera-arte-letteraria.jpg
 publication: PoloniCult

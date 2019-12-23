@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Il processo atto creativo. Annotazioni"
-categories: [publications, articles]
+categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2013-07-13-il-processo-atto-creativo-annotazioni.jpg
 publication: LEGGEweb
