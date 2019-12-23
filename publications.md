@@ -8,6 +8,7 @@ layout: page
 	</header>
 	<div class="posts">
 	{% for post in site.categories.articles %}
+		{% unless post.categories contains 'misc' %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -16,6 +17,7 @@ layout: page
 				<li><a href="{{ post.url }}" class="button">More</a></li>
 			</ul>
 		</article>
+		{% endunless %}
 	{% endfor %}
 	</div>
 </section>
