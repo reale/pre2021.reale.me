@@ -32,6 +32,7 @@ social:
 # Facebook settings
 fb:
   app_id: 1180025952207409
+  locale: en_US
 
 # Build settings
 markdown: kramdown
