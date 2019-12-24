@@ -1,6 +1,7 @@
 # Site settings
 title: Roberto Reale
 subtitle:
+title_image: /assets/images/cover.jpg
 email: roberto@reale.me
 pec: reale.roberto@pec.it
 description: "Roberto Reale's website"
