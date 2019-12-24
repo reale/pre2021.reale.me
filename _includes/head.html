@@ -86,20 +86,7 @@
 	          <meta name="twitter:creator" content="@{{ site.social.twitter }}">
 	  {% endif %}
 
-	  <!-- Open Graph -->
-	  <meta property="fb:app_id" content="{{ site.fb.app_id }}">
-	  <meta property="og:locale" content="en_US">
-	  <meta property="og:type" content="article">
-	  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-	  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-	  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-	  <meta property="og:site_name" content="{{ site.title }}">
-          {% if page.image contains 'http://' %}
-	    <meta property="og:image" content="{{ page.image }}">
-          {% elsif page.image contains 'https://' %}
-	    <meta property="og:image" content="{{ page.image }}">
-          {% else %}
-            <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.image }}">
-          {% endif %}
+<!-- Open Graph -->
+{% include open-graph.html %}
 
 </head>
