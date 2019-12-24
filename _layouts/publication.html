@@ -42,6 +42,13 @@
                   {% endif %}
                 {{ content }}
 
+		{% unless page.comments == false %}
+			{% if site.disqus_shortname %}
+			        <div id="disqus_thread"></section>
+		      {% endif %}
+		{% endunless %}
+
+
               </div>
           </div>
 
