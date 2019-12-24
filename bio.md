@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Me in a Nutshell
+permalink: /about/
 image: assets/images/cover.jpg
 ---
 
