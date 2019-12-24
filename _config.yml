@@ -35,6 +35,9 @@ fb:
   app_id: 1180025952207409
   locale: en_US
 
+# Google Analytics
+ga_measurement_id: G-L7KNWCTXLY
+
 # Build settings
 markdown: kramdown
 
