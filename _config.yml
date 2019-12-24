@@ -34,6 +34,10 @@ fb:
   app_id: 1180025952207409
   locale: en_US
 
+# Twitter settings
+twitter:
+  username: roberto_reale
+
 # Build settings
 markdown: kramdown
 
