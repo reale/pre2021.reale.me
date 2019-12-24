@@ -29,6 +29,10 @@ social:
   medium: reale
   youtube: UCptr2ANwqoW_B4MBRocBsbw
 
+# Facebook settings
+fb:
+  app_id: 1180025952207409
+
 # Build settings
 markdown: kramdown
 
