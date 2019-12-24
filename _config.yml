@@ -38,6 +38,9 @@ fb:
 # Google Analytics
 ga_measurement_id: G-L7KNWCTXLY
 
+# Flattr ID
+flattr_id: 6200gj
+
 # Build settings
 markdown: kramdown
 
