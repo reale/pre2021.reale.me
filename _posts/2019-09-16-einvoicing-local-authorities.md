@@ -6,9 +6,9 @@ tags: []
 image: /assets/images/2019-09-16-einvoicing-local-authorities.jpg
 other_speakers: [ "C. Ciciriello" ]
 location: Palermo
+canonical: http://localgov.einvoicingireland-project.eu/media.html
+archive: http://web.archive.org/web/*/http://localgov.einvoicingireland-project.eu/media.html
 media:
-  canonical: http://localgov.einvoicingireland-project.eu/media.html
-  archive: http://web.archive.org/web/*/http://localgov.einvoicingireland-project.eu/media.html
   pictures: https://photos.app.goo.gl/zS1cKG2am3gdnEjS9
 ---
 
