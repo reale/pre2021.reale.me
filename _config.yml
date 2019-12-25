@@ -34,6 +34,7 @@ social:
 fb:
   app_id: 1180025952207409
   locale: en_US
+  pixel_id: 809031996113072
 
 # Google Analytics
 ga_measurement_id: G-L7KNWCTXLY
