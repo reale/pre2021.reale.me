@@ -9,3 +9,22 @@
 {% unless page.comments == false %}
   {% include disqus.html %}
 {% endunless %}
+
+<!-- Cookie Consent -->
+<!-- https://www.osano.com/cookieconsent/download/ -->
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#f56a6a"
+    },
+    "button": {
+      "background": "#000000"
+    }
+  },
+  "showLink": false,
+  "position": "top",
+  "static": true
+});
+</script>
