@@ -3,7 +3,7 @@ layout: talk
 title: "eProcurement: i processi di innovazione per le pubbliche amministrazioni e per le imprese"
 categories: [talks]
 tags: []
-image: /assets/images/cover.jpg
+image: /assets/images/2018-09-11-eprocurement-innovazione-pa-imprese.png
 other_speakers: [ "A. Cirillo", "E. Mariotti", "F. Massimi" ]
 location: "Agenzia per l'Italia digitale, Rome"
 media:
