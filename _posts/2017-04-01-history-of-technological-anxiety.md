@@ -3,7 +3,7 @@ layout: talk
 title: "The History of Technological Anxiety and the Future of Economic Growth: Is This Time Different?"
 categories: [talks]
 tags: []
-image: /assets/images/cover.jpg
+image: /assets/images/2017-04-01-history-of-technological-anxiety.png
 other_speakers: [ "N. Boescu", "G. Caviglia", "V. Gentili", "N. Picone" ]
 location: "LUISS Business School, Rome"
 media:
