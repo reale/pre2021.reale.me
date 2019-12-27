@@ -3,7 +3,7 @@ layout: talk
 title: "Blockchain for Business"
 categories: [talks]
 tags: []
-image: /assets/images/cover.jpg
+image: /assets/images/2019-05-03-blockchain-for-business.jpg
 location: "San Mauro Torinese, Italy"
 media:
   pictures: https://photos.app.goo.gl/awWzgWU6nwZABw67A
