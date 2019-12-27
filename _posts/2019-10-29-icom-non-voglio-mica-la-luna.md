@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "La strategia nazionale ed europea sull'intelligenza artificiale e il ruolo del software libero"
+title: "I-Com, tavoli di lavoro sulle tecnologie digitali"
 categories: [talks]
 tags: []
 image: /assets/images/2019-10-29-icom-non-voglio-mica-la-luna.jpg
