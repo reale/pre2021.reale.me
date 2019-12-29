@@ -52,4 +52,5 @@ markdown: kramdown
 # Jekyll plugins
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
   - jekyll-sitemap
