@@ -25,21 +25,29 @@
                 		<h1>{{ page.title }}</h1>
                 	</header>
 
-                  {% if page.image %}
-                	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
-                  {% endif %}
-                  {% if page.conference %}
-			<span><em>{{ page.conference }}</em></span>
-                  {% endif %}
-                  {% if page.location %}
-			<span>{{ page.location }}</span>
-                  {% endif %}
-                  {% if page.media.pictures %}
-			  <span><a href="{{ page.media.pictures }}" target="_blank">[Pictures]</a></span>
-                  {% endif %}
-                  {% if page.media.website %}
-			  <span><a href="{{ page.media.website }}" target="_blank">[Website]</a></span>
-                  {% endif %}
+		<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
+
+		<table>
+			<caption>Parameters</caption>
+
+			<tr>
+				<td>Source</td>
+				<td><a href="{{ page.source }}" target="_blank">{{ page.source }}</a></td>
+			</tr>
+			<tr>
+				<td>Stopwords</td>
+				<td>{{ page.stopwords }}</td>
+			</tr>
+			<tr>
+				<td>Tool</td>
+				<td><a href="{{ page.tool }}" target="_blank">{{ page.tool }}</a></td>
+			</tr>
+			<tr>
+				<td>Raw</td>
+				<td><a href="{{ page.raw | absolute_url}}" target="_blank">{{ page.raw }}</a></td>
+			</tr>
+		</table>
+
                 {{ content }}
 
               </div>
