@@ -5,7 +5,7 @@ categories: [publications, articles]
 tags: []
 image: /assets/images/2019-05-06-human-centric-decentralization-interview-nonnis.jpg
 publication: "Eventual Consistency"
-archive: https://medium.com/reale/human-centric-decentralization-7bf61ce6ad63
+canonical: https://medium.com/reale/human-centric-decentralization-7bf61ce6ad63
 ---
 
 William Nonnis has been a professional Full Stack Developer since 2000. He has developed a large portfolio of applications and websites for the Italian Ministry of Defense and other public administrations.
