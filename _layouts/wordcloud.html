@@ -1,64 +1,62 @@
 <!DOCTYPE HTML>
 <!--
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+    Editorial by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 
-{% include head.html %}
+    {% include head.html %}
 
-<body>
+    <body>
 
-    <!-- Wrapper -->
-    <div id="wrapper">
+        <!-- Wrapper -->
+        <div id="wrapper">
 
-        <!-- Main -->
-        <div id="main">
-            <div class="inner">
+            <!-- Main -->
+            <div id="main">
+                <div class="inner">
 
-                {% include header.html %}
+                    {% include header.html %}
 
-                <!-- Content -->
-                <section>
-                	<header class="main">
-                		<h1>{{ page.title }}</h1>
-                	</header>
+                    <!-- Content -->
+                    <section>
+                        <header class="main">
+                            <h1>{{ page.title }}</h1>
+                        </header>
 
-		<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
+                        <span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
 
-		<table>
-			<caption>Parameters</caption>
+                        <table>
+                            <tr>
+                                <td>Source</td>
+                                <td><a href="{{ page.source }}" target="_blank">{{ page.source }}</a></td>
+                            </tr>
+                            <tr>
+                                <td>Stopwords</td>
+                                <td><a href="{{ page.stopwords }}" target="_blank">{{ page.stopwords }}</a></td>
+                            </tr>
+                            <tr>
+                                <td>Tool</td>
+                                <td><a href="{{ page.tool }}" target="_blank">{{ page.tool }}</a></td>
+                            </tr>
+                            <tr>
+                                <td>Raw</td>
+                                <td><a href="{{ page.raw | absolute_url}}" target="_blank">{{ page.raw | absolute_url }}</a></td>
+                            </tr>
+                        </table>
 
-			<tr>
-				<td>Source</td>
-				<td><a href="{{ page.source }}" target="_blank">{{ page.source }}</a></td>
-			</tr>
-			<tr>
-				<td>Stopwords</td>
-				<td><a href="{{ page.stopwords }}" target="_blank">{{ page.stopwords }}</a></td>
-			</tr>
-			<tr>
-				<td>Tool</td>
-				<td><a href="{{ page.tool }}" target="_blank">{{ page.tool }}</a></td>
-			</tr>
-			<tr>
-				<td>Raw</td>
-				<td><a href="{{ page.raw | absolute_url}}" target="_blank">{{ page.raw | absolute_url }}</a></td>
-			</tr>
-		</table>
+                        {{ content }}
 
-                {{ content }}
+                </div>
+            </div>
 
-              </div>
-          </div>
+            {% include sidebar.html %}
 
-          {% include sidebar.html %}
+        </div>
 
-      </div>
+        {% include footer.html %}
 
-      {% include footer.html %}
-
-</body>
+    </body>
 
 </html>
