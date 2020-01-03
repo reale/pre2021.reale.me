@@ -28,19 +28,19 @@
                   {% if page.image %}
                 	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
                   {% endif %}
-                  {% if page.conference %}
-			<span><em>{{ page.conference }}</em></span>
-                  {% endif %}
-                  {% if page.location %}
-			<span>{{ page.location }}</span>
-                  {% endif %}
-                  {% if page.media.pictures %}
-			  <span><a href="{{ page.media.pictures }}" target="_blank">[Pictures]</a></span>
-                  {% endif %}
-                  {% if page.media.website %}
-			  <span><a href="{{ page.media.website }}" target="_blank">[Website]</a></span>
-                  {% endif %}
                 {{ content }}
+
+		<table>
+			{% if page.publication %}
+			<tr>
+				<td>First published on</td>
+				{% if page.canonical %}
+				<td><a href="{{ page.canonical }}" target="_blank">{{ page.publication }}</a></td>
+				{% else }
+				<td>{{ page.publication }}</td>
+			</tr>
+			{% endif %}
+		</table>
 
 		{% unless page.comments == false %}
 			{% if site.disqus_shortname %}
