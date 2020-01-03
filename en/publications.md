@@ -1,6 +1,9 @@
 ---
 layout: page
+title: Publications
 lang: en
+ref: publications
+permalink: /en/publications
 ---
 
 <section>
