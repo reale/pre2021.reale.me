@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: en
 ---
 
 <section>
@@ -14,7 +15,7 @@ layout: page
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 			<p>{{ post.excerpt }}</p>
 			<ul class="actions">
-				<li><a href="{{ post.url }}" class="button">More</a></li>
+				<li><a href="{{ post.url }}" class="button">{{ site.data.label.read-more[page.lang] }}</a></li>
 			</ul>
 		</article>
 		{% endunless %}
