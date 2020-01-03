@@ -1,5 +1,7 @@
 # reale.me
 
+![Uptime Robot](https://img.shields.io/uptimerobot/status/m780960492-c804829046b7e1c4637ce079)
+
 Source code of my personal website [reale.me](https://reale.me).
 
 The site is built upon [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).
