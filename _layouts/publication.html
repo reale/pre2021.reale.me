@@ -41,14 +41,25 @@
                                 {% endif %}
                             </tr>
                             {% endif %}
+                            {% if page.archive %}
+                            <tr>
+                                <td>Archived on</td>
+                                <td><a href="{{ page.archive }}" target="_blank">Internet Archive</a></td>
+                            </tr>
+                            {% endif %}
+                            {% if page.coauthors %}
+                            <tr>
+                                <td>Coauthors</td>
+                                <td>{% for author in page.coauthors %}{{ author }}{% endfor %}</td>
+                            </tr>
+                            {% endif %}
                         </table>
 
                         {% unless page.comments == false %}
                         {% if site.disqus_shortname %}
                         <div id="disqus_thread"></section>
-                    {% endif %}
-                    {% endunless %}
-
+                        {% endif %}
+                        {% endunless %}
 
                         </div>
                 </div>
