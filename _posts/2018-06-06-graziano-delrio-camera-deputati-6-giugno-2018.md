@@ -1,5 +1,5 @@
 ---
-layout: wordlcoud
+layout: wordcloud
 title: "Dichiarazione di voto di Graziano Delrio alla Camera dei deputati del 6 giugno 2018"
 categories: [datalab, wordcloud]
 tags: []
