@@ -1,5 +1,10 @@
 ---
 layout: default
+title: Homepage
+description: Homepage
+lang: en
+ref: homepage
+permalink: /en/
 ---
 
 <!-- Section -->
