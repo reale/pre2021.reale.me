@@ -1,5 +1,9 @@
 ---
 layout: page
+title: Misc
+lang: en
+ref: misc
+permalink: /en/misc
 ---
 
 <section>
