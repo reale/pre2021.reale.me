@@ -7,9 +7,6 @@ permalink: /en/talks
 ---
 
 <section>
-	<header class="major">
-		<h2>Talks</h2>
-	</header>
 	<div class="posts">
 	{% for post in site.categories.talks %}
 		<article>
