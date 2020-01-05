@@ -28,18 +28,7 @@
                         {% if page.image %}
                         <span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
                         {% endif %}
-                        {% if page.conference %}
-                        <span><em>{{ page.conference }}</em></span>
-                        {% endif %}
-                        {% if page.location %}
-                        <span>{{ page.location }}</span>
-                        {% endif %}
-                        {% if page.media.pictures %}
-                        <span><a href="{{ page.media.pictures }}" target="_blank">[Pictures]</a></span>
-                        {% endif %}
-                        {% if page.media.website %}
-                        <span><a href="{{ page.media.website }}" target="_blank">[Website]</a></span>
-                        {% endif %}
+
                         {{ content }}
 
                 </div>
