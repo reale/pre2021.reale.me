@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Me in a Nutshell
+lang: en
+ref: about
 permalink: /about/
 image: assets/images/cover.jpg
 ---
