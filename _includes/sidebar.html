@@ -9,20 +9,20 @@
           </header>
           <ul>
             <li><a href="{{ '' | absolute_url }}">Homepage</a></li>
-	    <li><a href="{{ 'en/resume' | absolute_url }}">Resume</a></li>
-	    <li><a href="{{ 'en/talks' | absolute_url }}">Talks</a></li>
+            <li><a href="{{ page.lang }}/{{ 'resume' | absolute_url }}">Resume</a></li>
+            <li><a href="{{ page.lang }}/{{ 'talks' | absolute_url }}">Talks</a></li>
             <li>
               <span class="opener">Publications</span>
               <ul>
-                <li><a href="{{ 'en/publications#articles' | absolute_url }}">Articles</a></li>
+                <li><a href="{{ page.lang }}/{{ 'publications#articles' | absolute_url }}">Articles</a></li>
               </ul>
             </li>
             <li>
               <span class="opener">Projects</span>
               <ul>
-                <li><a href="{{ 'en/projects#egov' | absolute_url }}">E-government</a></li>
-                <li><a href="{{ 'en/projects#blockchain' | absolute_url }}">Blockchain</a></li>
-                <li><a href="{{ 'en/projects#software' | absolute_url }}">Software</a></li>
+                <li><a href="{{ page.lang }}/{{ 'projects#egov' | absolute_url }}">E-government</a></li>
+                <li><a href="{{ page.lang }}/{{ 'projects#blockchain' | absolute_url }}">Blockchain</a></li>
+                <li><a href="{{ page.lang }}/{{ 'projects#software' | absolute_url }}">Software</a></li>
               </ul>
             </li>
             <li>
@@ -31,9 +31,9 @@
                 <li><a href="{{ 'datalab.html#wordcloud' | absolute_url }}">Wordcloud</a></li>
               </ul>
             </li>
-	    <li><a href="{{ 'affiliations.html' | absolute_url }}">Affiliations</a></li>
-	    <li><a href="{{ 'en/misc' | absolute_url }}">Misc</a></li>
-	    <li><a href="{{ 'en/contacts' | absolute_url }}">Contacts</a></li>
+            <li><a href="{{ 'affiliations.html' | absolute_url }}">Affiliations</a></li>
+            <li><a href="{{ page.lang }}/{{ 'misc' | absolute_url }}">Misc</a></li>
+            <li><a href="{{ page.lang }}/{{ 'contacts' | absolute_url }}">Contacts</a></li>
             <li><a href="it/">Italiano</a></li>
           </ul>
         </nav>
