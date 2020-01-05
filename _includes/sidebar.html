@@ -9,20 +9,20 @@
           </header>
           <ul>
             <li><a href="{{ '' | absolute_url }}">Homepage</a></li>
-            <li><a href="{{ page.lang }}/{{ 'resume' | absolute_url }}">Resume</a></li>
-            <li><a href="{{ page.lang }}/{{ 'talks' | absolute_url }}">Talks</a></li>
+            <li><a href="{{ page.lang | append: '/resume' | absolute_url }}">Resume</a></li>
+            <li><a href="{{ page.lang | append: '/talks' | absolute_url }}">Talks</a></li>
             <li>
               <span class="opener">Publications</span>
               <ul>
-                <li><a href="{{ page.lang }}/{{ 'publications#articles' | absolute_url }}">Articles</a></li>
+                <li><a href="{{ page.lang | append: '/publications#articles' | absolute_url }}">Articles</a></li>
               </ul>
             </li>
             <li>
               <span class="opener">Projects</span>
               <ul>
-                <li><a href="{{ page.lang }}/{{ 'projects#egov' | absolute_url }}">E-government</a></li>
-                <li><a href="{{ page.lang }}/{{ 'projects#blockchain' | absolute_url }}">Blockchain</a></li>
-                <li><a href="{{ page.lang }}/{{ 'projects#software' | absolute_url }}">Software</a></li>
+                <li><a href="{{ page.lang | append: '/projects#egov' | absolute_url }}">E-government</a></li>
+                <li><a href="{{ page.lang | append: '/projects#blockchain' | absolute_url }}">Blockchain</a></li>
+                <li><a href="{{ page.lang | append: '/projects#software' | absolute_url }}">Software</a></li>
               </ul>
             </li>
             <li>
@@ -32,8 +32,8 @@
               </ul>
             </li>
             <li><a href="{{ 'affiliations.html' | absolute_url }}">Affiliations</a></li>
-            <li><a href="{{ page.lang }}/{{ 'misc' | absolute_url }}">Misc</a></li>
-            <li><a href="{{ page.lang }}/{{ 'contacts' | absolute_url }}">Contacts</a></li>
+            <li><a href="{{ page.lang | append: '/misc' | absolute_url }}">Misc</a></li>
+            <li><a href="{{ page.lang | append: '/contacts' | absolute_url }}">Contacts</a></li>
             <li><a href="it/">Italiano</a></li>
           </ul>
         </nav>
