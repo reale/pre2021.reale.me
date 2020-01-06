@@ -46,6 +46,11 @@ flattr_id: 6200gj
 # Disqus shortname
 disqus_shortname: reale
 
+# Iubenda
+iubenda:
+  en: 20569279
+  it: 59057786
+
 # Build settings
 markdown: kramdown
 
