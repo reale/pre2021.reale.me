@@ -8,7 +8,7 @@ permalink: /it/datalab
 
 <section>
 	<header class="major">
-		<h2><a id="wordcloud">Wordcloud</a></h2>
+		<h2><a id="wordclouds">Wordclouds</a></h2>
 	</header>
 	<div class="posts">
 	{% for post in site.categories.wordcloud %}

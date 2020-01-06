@@ -4,11 +4,12 @@ title: Data Lab
 lang: en
 ref: datalab
 permalink: /en/datalab
+redirect_from: /datalab/wordcloud/
 ---
 
 <section>
 	<header class="major">
-		<h2><a id="wordcloud">Wordcloud</a></h2>
+		<h2><a id="wordclouds">Wordclouds</a></h2>
 	</header>
 	<div class="posts">
 	{% for post in site.categories.wordcloud %}
