@@ -1,11 +1,12 @@
 ---
 layout: page
+title: Affiliazioni
+lang: it
+ref: affiliations
+permalink: /it/affiliations
 ---
 
 <section>
-	<header class="major">
-		<h2><a id="affiliations">Affiliations</a></h2>
-	</header>
 	<div class="posts">
 	{% for post in site.categories.affiliation %}
 		<article>
@@ -13,7 +14,7 @@ layout: page
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 			<p>{{ post.excerpt }}</p>
 			<ul class="actions">
-				<li><a href="{{ post.url }}" class="button">More</a></li>
+				<li><a href="{{ post.url }}" class="button">{{ site.data.labels.read-more[page.lang] }}</a></li>
 			</ul>
 		</article>
 	{% endfor %}
