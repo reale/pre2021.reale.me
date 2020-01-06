@@ -1,8 +1,50 @@
 ---
 ## Labels
+affiliations:
+    en: "Affiliations"
+    it: "Affiliazioni"
+articles:
+    en: "Articles"
+    it: "Articoli"
+blockchain:
+    en: "Blockchain"
+    it: "Blockchain"
+contacts:
+    en: "Contacts"
+    it: "Contatti"
+datalab:
+    en: "Data Lab"
+    it: "Data Lab"
+egov:
+    en: "E-government"
+    it: "E-government"
+homepage:
+    en: "Homepage"
+    it: "Home"
 learn-more:
-  en: "Learn More"
-  it: "Leggi"
+    en: "Learn More"
+    it: "Leggi"
+misc:
+    en: "Misc"
+    it: "Misc"
+projects:
+    en: "Projects"
+    it: "Progetti"
+publications:
+    en: "Publications"
+    it: "Pubblicazioni"
 read-more:
-  en: "More"
-  it: "Leggi"
+    en: "More"
+    it: "Leggi"
+resume:
+    en: "Resume"
+    it: "CV"
+software:
+    en: "Software"
+    it: "Software"
+talks:
+    en: "Talks"
+    it: "Talk"
+wordclouds:
+    en: "Wordclouds"
+    it: "Wordcloud"

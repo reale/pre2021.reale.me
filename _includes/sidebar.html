@@ -8,32 +8,32 @@
             <h2>Menu</h2>
           </header>
           <ul>
-            <li><a href="{{ '' | absolute_url }}">Homepage</a></li>
-            <li><a href="{{ page.lang | append: '/resume' | absolute_url }}">Resume</a></li>
-            <li><a href="{{ page.lang | append: '/talks' | absolute_url }}">Talks</a></li>
+            <li><a href="{{ '' | absolute_url }}">{{ site.data.labels.homepage[page.lang] }}</a></li>
+            <li><a href="{{ page.lang | append: '/resume' | absolute_url }}">{{ site.data.labels.resume[page.lang] }}</a></li>
+            <li><a href="{{ page.lang | append: '/talks' | absolute_url }}">{{ site.data.labels.talks[page.lang] }}</a></li>
             <li>
-              <span class="opener">Publications</span>
+              <span class="opener">{{ site.data.labels.publications[page.lang] }}</span>
               <ul>
-                <li><a href="{{ page.lang | append: '/publications#articles' | absolute_url }}">Articles</a></li>
+                <li><a href="{{ page.lang | append: '/publications#articles' | absolute_url }}">{{ site.data.labels.articles[page.lang] }}</a></li>
               </ul>
             </li>
             <li>
-              <span class="opener">Projects</span>
+              <span class="opener">{{ site.data.labels.projects[page.lang] }}</span>
               <ul>
-                <li><a href="{{ page.lang | append: '/projects#egov' | absolute_url }}">E-government</a></li>
-                <li><a href="{{ page.lang | append: '/projects#blockchain' | absolute_url }}">Blockchain</a></li>
-                <li><a href="{{ page.lang | append: '/projects#software' | absolute_url }}">Software</a></li>
+                <li><a href="{{ page.lang | append: '/projects#egov' | absolute_url }}">{{ site.data.labels.egov[page.lang] }}</a></li>
+                <li><a href="{{ page.lang | append: '/projects#blockchain' | absolute_url }}">{{ site.data.labels.blockchain[page.lang] }}</a></li>
+                <li><a href="{{ page.lang | append: '/projects#software' | absolute_url }}">{{ site.data.labels.software[page.lang] }}</a></li>
               </ul>
             </li>
             <li>
-              <span class="opener">Data Lab</span>
+              <span class="opener">{{ site.data.labels.datalab[page.lang] }}</span>
               <ul>
-                <li><a href="{{ page.lang | append: '/datalab#wordclouds' | absolute_url }}">Wordcloud</a></li>
+                <li><a href="{{ page.lang | append: '/datalab#wordclouds' | absolute_url }}">{{ site.data.labels.wordclouds[page.lang] }}</a></li>
               </ul>
             </li>
-            <li><a href="{{ page.lang | append: '/affiliations' | absolute_url }}">Affiliations</a></li>
-            <li><a href="{{ page.lang | append: '/misc' | absolute_url }}">Misc</a></li>
-            <li><a href="{{ page.lang | append: '/contacts' | absolute_url }}">Contacts</a></li>
+            <li><a href="{{ page.lang | append: '/affiliations' | absolute_url }}">{{ site.data.labels.affiliations[page.lang] }}</a></li>
+            <li><a href="{{ page.lang | append: '/misc' | absolute_url }}">{{ site.data.labels.misc[page.lang] }}</a></li>
+            <li><a href="{{ page.lang | append: '/contacts' | absolute_url }}">{{ site.data.labels.contacts[page.lang] }}</a></li>
             <li><a href="/it/">Italiano</a></li>
           </ul>
         </nav>
