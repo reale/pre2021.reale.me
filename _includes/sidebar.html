@@ -1,75 +1,75 @@
 <!-- Sidebar -->
-  <div id="sidebar">
+<div id="sidebar">
     <div class="inner">
 
-      <!-- Menu -->
+        <!-- Menu -->
         <nav id="menu">
-          <header class="major">
-            <h2>Menu</h2>
-          </header>
-          <ul>
-            <li><a href="{{ '' | absolute_url }}">{{ site.data.labels.homepage[page.lang] }}</a></li>
-            <li><a href="{{ page.lang | append: '/resume' | absolute_url }}">{{ site.data.labels.resume[page.lang] }}</a></li>
-            <li><a href="{{ page.lang | append: '/talks' | absolute_url }}">{{ site.data.labels.talks[page.lang] }}</a></li>
-            <li>
-              <span class="opener">{{ site.data.labels.publications[page.lang] }}</span>
-              <ul>
-                <li><a href="{{ page.lang | append: '/publications#articles' | absolute_url }}">{{ site.data.labels.articles[page.lang] }}</a></li>
-              </ul>
-            </li>
-            <li>
-              <span class="opener">{{ site.data.labels.projects[page.lang] }}</span>
-              <ul>
-                <li><a href="{{ page.lang | append: '/projects#egov' | absolute_url }}">{{ site.data.labels.egov[page.lang] }}</a></li>
-                <li><a href="{{ page.lang | append: '/projects#blockchain' | absolute_url }}">{{ site.data.labels.blockchain[page.lang] }}</a></li>
-                <li><a href="{{ page.lang | append: '/projects#software' | absolute_url }}">{{ site.data.labels.software[page.lang] }}</a></li>
-              </ul>
-            </li>
-            <li>
-              <span class="opener">{{ site.data.labels.datalab[page.lang] }}</span>
-              <ul>
-                <li><a href="{{ page.lang | append: '/datalab#wordclouds' | absolute_url }}">{{ site.data.labels.wordclouds[page.lang] }}</a></li>
-              </ul>
-            </li>
-            <li><a href="{{ page.lang | append: '/affiliations' | absolute_url }}">{{ site.data.labels.affiliations[page.lang] }}</a></li>
-            <li><a href="{{ page.lang | append: '/misc' | absolute_url }}">{{ site.data.labels.misc[page.lang] }}</a></li>
-            <li><a href="{{ page.lang | append: '/contacts' | absolute_url }}">{{ site.data.labels.contacts[page.lang] }}</a></li>
-            <li><a href="/it/">Italiano</a></li>
-          </ul>
+            <header class="major">
+                <h2>Menu</h2>
+            </header>
+            <ul>
+                <li><a href="{{ '' | absolute_url }}">{{ site.data.labels.homepage[page.lang] }}</a></li>
+                <li><a href="{{ page.lang | append: '/resume' | absolute_url }}">{{ site.data.labels.resume[page.lang] }}</a></li>
+                <li><a href="{{ page.lang | append: '/talks' | absolute_url }}">{{ site.data.labels.talks[page.lang] }}</a></li>
+                <li>
+                    <span class="opener">{{ site.data.labels.publications[page.lang] }}</span>
+                    <ul>
+                        <li><a href="{{ page.lang | append: '/publications#articles' | absolute_url }}">{{ site.data.labels.articles[page.lang] }}</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="opener">{{ site.data.labels.projects[page.lang] }}</span>
+                    <ul>
+                        <li><a href="{{ page.lang | append: '/projects#egov' | absolute_url }}">{{ site.data.labels.egov[page.lang] }}</a></li>
+                        <li><a href="{{ page.lang | append: '/projects#blockchain' | absolute_url }}">{{ site.data.labels.blockchain[page.lang] }}</a></li>
+                        <li><a href="{{ page.lang | append: '/projects#software' | absolute_url }}">{{ site.data.labels.software[page.lang] }}</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="opener">{{ site.data.labels.datalab[page.lang] }}</span>
+                    <ul>
+                        <li><a href="{{ page.lang | append: '/datalab#wordclouds' | absolute_url }}">{{ site.data.labels.wordclouds[page.lang] }}</a></li>
+                    </ul>
+                </li>
+                <li><a href="{{ page.lang | append: '/affiliations' | absolute_url }}">{{ site.data.labels.affiliations[page.lang] }}</a></li>
+                <li><a href="{{ page.lang | append: '/misc' | absolute_url }}">{{ site.data.labels.misc[page.lang] }}</a></li>
+                <li><a href="{{ page.lang | append: '/contacts' | absolute_url }}">{{ site.data.labels.contacts[page.lang] }}</a></li>
+                <li><a href="/it/">Italiano</a></li>
+            </ul>
         </nav>
 
-      <!-- Section -->
+        <!-- Section -->
         <section>
-          <header class="major">
-            <h2>Focus</h2>
-          </header>
-          <div class="mini-posts">
-          {% for post in site.categories.focus %}
-            <article>
-              <a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
-	      <p>{{ post.excerpt }}</p>
-            </article>
-          {% endfor %}
-          </div>
+            <header class="major">
+                <h2>Focus</h2>
+            </header>
+            <div class="mini-posts">
+                {% for post in site.categories.focus %}
+                <article>
+                    <a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
+                    <p>{{ post.excerpt }}</p>
+                </article>
+                {% endfor %}
+            </div>
         </section>
 
-      <!-- Section -->
+        <!-- Section -->
         <section>
-          <header class="major">
-            <h2>Get in touch</h2>
-          </header>
-          <p>Feel free to drop me a line!</p>
-          <ul class="contact">
-	    <li class="fa-envelope-o"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-	    <li class="fa-envelope-o"><a href="mailto:{{ site.pec }}">{{ site.pec }}</a></li>
-	    <li class="fa-home">{{ site.city }}, {{ site.country }}</li>
-          </ul>
+            <header class="major">
+                <h2>Get in touch</h2>
+            </header>
+            <p>Feel free to drop me a line!</p>
+            <ul class="contact">
+                <li class="fa-envelope-o"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                <li class="fa-envelope-o"><a href="mailto:{{ site.pec }}">{{ site.pec }}</a></li>
+                <li class="fa-home">{{ site.city }}, {{ site.country }}</li>
+            </ul>
         </section>
 
-      <!-- Footer -->
+        <!-- Footer -->
         <footer id="footer">
-		<p class="copyright">&copy; {{ site.title }}. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>, <a href="https://reale.me">Roberto Reale</a>. <a href="https://www.iubenda.com/privacy-policy/20569279" title="Privacy Policy ">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script></p>
+            <p class="copyright">&copy; {{ site.title }}. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>, <a href="https://reale.me">Roberto Reale</a>. <a href="https://www.iubenda.com/privacy-policy/20569279" title="Privacy Policy ">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script></p>
         </footer>
 
     </div>
-  </div>
+</div>
