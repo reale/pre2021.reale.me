@@ -24,9 +24,18 @@ datalab:
 egov:
     en: "E-government"
     it: "E-government"
+english:
+    en: "English"
+    it: "Inglese"
 homepage:
     en: "Homepage"
     it: "Home"
+italian:
+    en: "Italian"
+    it: "Italiano"
+language:
+    en: "Language"
+    it: "Lingua"
 learn-more:
     en: "Learn More"
     it: "Leggi"
