@@ -6,6 +6,12 @@ affiliations:
 articles:
     en: "Articles"
     it: "Articoli"
+bio-excerpt:
+    en: "I describe myself as an Innovation Manager with more than 10 years of experience in e-government projects and digital transformation of critical industries at the national and EU level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities), and 20 years of exposure to ICT engineering and management (including open-source projects)."
+    it: "Sono un manager dell’innovazione con oltre 10 anni di esperienza in progetti di e-government e trasformazione digitale di settori strategici in ambito nazionale e UE (organi parlamentari, finanza pubblica, procurement, infrastrutture critiche, servizi pubblici) e 20 anni di esperienza in sviluppo, progettazione e gestione di piattaforme ICT."
+bio-header:
+    en: "Me in a Nutshell"
+    it: "Io in breve"
 blockchain:
     en: "Blockchain"
     it: "Blockchain"

@@ -2,11 +2,11 @@
 <section id="banner">
     <div class="content">
         <header>
-            <h1>Me in a Nutshell</h1>
+            <h1>{{ site.data.labels.bio-header[page.lang] }}</h1>
         </header>
-        <p>I describe myself as an Innovation Manager with more than 10 years of experience in e-government projects and digital transformation of critical industries at the national and EU level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities), and 20 years of exposure to ICT engineering and management (including open-source projects).</p>
+        <p>{{ site.data.labels.bio-excerpt[page.lang] }}</p>
         <ul class="actions">
-            <li><a href="{{ '/about/' | absolute_url }}" class="button big">Learn More</a></li>
+            <li><a href="{{ '/about/' | absolute_url }}" class="button big">{{ site.data.labels.learn-more[page.lang] }}</a></li>
         </ul>
     </div>
     <span class="image object">
