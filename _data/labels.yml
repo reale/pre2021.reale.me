@@ -2,70 +2,97 @@
 ## Labels
 affiliations:
     en: "Affiliations"
+    fr: "Affiliations"
     it: "Affiliazioni"
 articles:
     en: "Articles"
+    fr: "Articles"
     it: "Articoli"
 bio-excerpt:
     en: "I describe myself as an Innovation Manager with more than 10 years of experience in e-government projects and digital transformation of critical industries at the national and EU level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities), and 20 years of exposure to ICT engineering and management (including open-source projects)."
+    fr: "I describe myself as an Innovation Manager with more than 10 years of experience in e-government projects and digital transformation of critical industries at the national and EU level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities), and 20 years of exposure to ICT engineering and management (including open-source projects)."
     it: "Sono un manager dell’innovazione con oltre 10 anni di esperienza in progetti di e-government e trasformazione digitale di settori strategici in ambito nazionale e UE (organi parlamentari, finanza pubblica, procurement, infrastrutture critiche, servizi pubblici) e 20 anni di esperienza in sviluppo, progettazione e gestione di piattaforme ICT."
 bio-header:
     en: "Me in a Nutshell"
+    fr: "Me in a Nutshell"
     it: "Io in breve"
 blockchain:
     en: "Blockchain"
+    fr: "Blockchain"
     it: "Blockchain"
 contacts:
     en: "Contacts"
+    fr: "Contacts"
     it: "Contatti"
 cookieconsent-dismiss:
     en: "Got it!"
+    fr: "Got it!"
     it: "Ho capito!"
 cookieconsent-message:
     en: "This website uses cookies to ensure you get the best experience on our website."
+    fr: "This website uses cookies to ensure you get the best experience on our website."
     it: "Questo sito Web utilizza i cookie per assicurarti una esperienza di navigazione soddisfacente."
 datalab:
     en: "Data Lab"
+    fr: "Data Lab"
     it: "Data Lab"
 egov:
     en: "E-government"
+    fr: "E-government"
     it: "E-government"
 english:
     en: "English"
+    fr: "English"
     it: "Inglese"
+french:
+    en: "French"
+    fr: "Français"
+    it: "Francese"
 homepage:
     en: "Homepage"
+    fr: "Homepage"
     it: "Home"
 italian:
     en: "Italian"
+    fr: "Italian"
     it: "Italiano"
 language:
     en: "Language"
+    fr: "Language"
     it: "Lingua"
 learn-more:
     en: "Learn More"
+    fr: "Learn More"
     it: "Leggi"
 misc:
     en: "Misc"
+    fr: "Misc"
     it: "Misc"
 projects:
     en: "Projects"
+    fr: "Projects"
     it: "Progetti"
 publications:
     en: "Publications"
+    fr: "Publications"
     it: "Pubblicazioni"
 read-more:
     en: "More"
+    fr: "More"
     it: "Leggi"
 resume:
     en: "Resume"
+    fr: "Resume"
     it: "CV"
 software:
     en: "Software"
+    fr: "Software"
     it: "Software"
 talks:
     en: "Talks"
+    fr: "Talks"
     it: "Talk"
 wordclouds:
     en: "Wordclouds"
+    fr: "Wordclouds"
     it: "Wordcloud"
