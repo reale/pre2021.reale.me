@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Io in breve
+title: Moi en bref
 lang: fr
 ref: about
 permalink: /about/
