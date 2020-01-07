@@ -1,9 +1,9 @@
 ---
 layout: page
 title: CV
-lang: it
+lang: fr
 ref: resume
-permalink: /it/resume
+permalink: /fr/resume
 ---
 
 <section>

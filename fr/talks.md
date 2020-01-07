@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Talks
-lang: it
+lang: fr
 ref: talks
-permalink: /it/talks
+permalink: /fr/talks
 ---
 
 <section>

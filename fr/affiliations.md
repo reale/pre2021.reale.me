@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Affiliazioni
-lang: it
+lang: fr
 ref: affiliations
-permalink: /it/affiliations
+permalink: /fr/affiliations
 ---
 
 <section>

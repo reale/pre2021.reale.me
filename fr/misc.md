@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Misc
-lang: it
+lang: fr
 ref: misc
-permalink: /it/misc
+permalink: /fr/misc
 ---
 
 <section>

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Progetti
-lang: it
+lang: fr
 ref: projects
-permalink: /it/projects
+permalink: /fr/projects
 ---
 
 <section>

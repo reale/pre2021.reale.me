@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Pubblicazioni
-lang: it
+lang: fr
 ref: publications
-permalink: /it/publications
+permalink: /fr/publications
 ---
 
 <section>

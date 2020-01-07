@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Io in breve
-lang: it
+lang: fr
 ref: about
 permalink: /about/
 image: assets/images/cover.jpg

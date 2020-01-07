@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Data Lab
-lang: it
+lang: fr
 ref: datalab
-permalink: /it/datalab
+permalink: /fr/datalab
 ---
 
 <section>

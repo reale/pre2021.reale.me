@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Contatti
-lang: it
+lang: fr
 ref: contacts
-permalink: /it/contacts
+permalink: /fr/contacts
 tags: [contatti]
 comments: false
 ---

@@ -2,9 +2,9 @@
 layout: default
 title: Home
 description: Home
-lang: it
+lang: fr
 ref: homepage
-permalink: /it/
+permalink: /fr/
 ---
 
 <!-- Section -->
