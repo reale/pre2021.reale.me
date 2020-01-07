@@ -18,6 +18,12 @@ blockchain:
 contacts:
     en: "Contacts"
     it: "Contatti"
+cookieconsent-dismiss:
+    en: "Got it!"
+    it: "Ho capito!"
+cookieconsent-message:
+    en: "This website uses cookies to ensure you get the best experience on our website."
+    it: "Questo sito Web utilizza i cookie per assicurarti una esperienza di navigazione soddisfacente."
 datalab:
     en: "Data Lab"
     it: "Data Lab"

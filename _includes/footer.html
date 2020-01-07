@@ -27,8 +27,8 @@ window.cookieconsent.initialise({
   "position": "top",
   "static": true,
   "content": {
-    "message": "This website uses cookies to ensure you get the best experience on our website.",
-    "dismiss": "Got it!"
+    "message": "{{ site.data.labels.cookieconsent-message[page.lang] }}",
+    "dismiss": "{{ site.data.labels.cookieconsent-dismiss[page.lang] }}"
   }
 });
 </script>
