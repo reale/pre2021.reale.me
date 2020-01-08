@@ -2,6 +2,7 @@
 layout: talk
 title:  "All'ombra del Leviatano: Filesystem in Userspace"
 lang: it
+ref: filesystem-in-userspace
 categories: [talks]
 tags: []
 image: /assets/images/2015-10-24-ombra-del-leviatano-filesystem-in-userspace.png

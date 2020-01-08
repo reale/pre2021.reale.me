@@ -2,6 +2,7 @@
 layout: talk
 title:  "Fog and the City: an urbanist's perspective"
 lang: it
+ref: fog-and-the-city
 categories: [talks]
 tags: []
 image: /assets/images/2016-11-27-fog-and-the-city-an-urbanists-perspective.jpg
