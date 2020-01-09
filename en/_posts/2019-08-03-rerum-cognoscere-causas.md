@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Rerum Cognoscere Causas"
+lang: en
+ref: rerum-cognoscere-causas
 categories: [publications, articles]
 tags: []
 image: /assets/images/2019-08-03-rerum-cognoscere-causas.jpg
