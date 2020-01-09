@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Perché dovremmo iniziare a pensare a Facebook e a WhatsApp come a un servizio pubblico"
+lang: it
+ref: do-we-need-social-network-contract
 categories: [publications, articles]
 tags: []
 image: /assets/images/2019-07-06-dovremmo-pensare-facebook-whatsapp-come-servizio-pubblico.jpg
@@ -21,7 +23,7 @@ Ma non è forse così? Ammettiamolo: non possiamo più permetterci di fare a men
 
 Quello che accade alla più grande piattaforma digitale al mondo non può essere trattato come un normale disservizio: è il tessuto stesso della nostra società che ne risente, è l’economia globale che ne soffre. Del resto, Facebook (non diversamente da altri giganti dell’high-tech) ha sempre raccontato se stesso come iniziativa ben diversa da un business tradizionale:
 
-* nel primo trimestre del 2019, il chief security officer ha dichiarato a Business Insider che Facebook è un’infrastruttura critica per la democrazia 
+* nel primo trimestre del 2019, il chief security officer ha dichiarato a Business Insider che Facebook è un’infrastruttura critica per la democrazia
 * nel suo manifesto del 2017 Building Global Community, Zuckerberg ha esplicitamente descritto l’infrastruttura di Facebook come uno strumento per combattere il terrorismo, le pandemie e il cambiamento climatico;
 * nella sua lettera pre-IPO del 2012, ancora Zuckerberg ha dichiarato che Facebook non è nato per essere un’azienda, ma per realizzare una missione sociale: rendere il mondo più aperto e connesso.
 
