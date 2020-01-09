@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Building a better future. Interview with Emilia Garito"
+lang: en
+ref: interview-garito
 categories: [publications, articles]
 tags: []
 image: /assets/images/2019-06-24-building-better-future-interview-garito.jpg
