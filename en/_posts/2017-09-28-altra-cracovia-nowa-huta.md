@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "L'altra Cracovia: Nowa Huta"
+lang: it
+ref: nowa-huta
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2017-09-28-altra-cracovia-nowa-huta.jpg
@@ -9,7 +11,7 @@ canonical: https://polonicult.com/laltra-cracovia-nowa-huta/
 archive: https://web.archive.org/web/*/http://polonicult.com/laltra-cracovia-nowa-huta/
 ---
 
-###Cos’è Nowa Huta
+### Cos’è Nowa Huta
 
 Nowa Huta è tante cose.
 
@@ -45,7 +47,7 @@ In Italia non conosciamo esiti di pari rilievo nella pianificazione congiunta de
 
 Nowa Huta aspira invece, sin dalla fondazione, ad essere il nuovo centro cittadino, anzi la nuova Cracovia; ai fasti polverosi del nucleo storico opponendo la razionalità rigorosa, i nuovi criteri di progettazione e produzione, l’audacia e la generosità della concezione socialista. Tanto che persino una voce cauta nei confronti delle ideologie com’è quella di Wisława Szymborska presta orecchio alle voci di entusiasmo nel suo Saluto al cantiere della città socialista (Na powitanie budowy socjalistycznego miasta), che mette conto leggere per intero (trad. di chi scrive):
 
- 
+
 Di asfalto e di volontà tenace
 si faranno larghe le strade.
 Di mattoni e di orgogliosa audacia
