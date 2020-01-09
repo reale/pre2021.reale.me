@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "La Blockchain a Napoli"
+lang: it
+ref: blockchain-in-naples
 categories: [publications, articles]
 tags: []
 coauthors: [ "G. Clemente" ]
