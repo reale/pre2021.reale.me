@@ -8,17 +8,29 @@ permalink: /en/resume
 
 <section>
 	<header class="major">
-		<h2>Resume</h2>
+		<h2><a id="experience">Experience</a></h2>
 	</header>
 	<div class="posts">
-	{% for post in site.categories.resume %}
+	{% for post in site.categories.experience %}
 		<article>
-			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
-			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+			<h3>{{ post.title }}</h3>
+			<p>{{ post.employer }} ({{ post.period }})</p>
 			<p>{{ post.excerpt }}</p>
-			<ul class="actions">
-				<li><a href="{{ post.url }}" class="button">{{ site.data.labels.read-more[page.lang] }}</a></li>
-			</ul>
+		</article>
+	{% endfor %}
+	</div>
+</section>
+
+<section>
+	<header class="major">
+		<h2><a id="teaching">Teaching</a></h2>
+	</header>
+	<div class="posts">
+	{% for post in site.categories.teaching %}
+		<article>
+			<h3>{{ post.title }}</h3>
+			<p>{{ post.employer }} ({{ post.period }})</p>
+			<p>{{ post.excerpt }}</p>
 		</article>
 	{% endfor %}
 	</div>
