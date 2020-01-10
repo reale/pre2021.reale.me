@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Architecture and Digital Information"
+lang: en
+ref: architecture-digital-information
 categories: [publications, articles]
 tags: []
 image: /assets/images/2016-06-20-architecture-digital-information.jpg
