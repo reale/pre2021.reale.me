@@ -11,7 +11,8 @@ permalink: /en/resume
 		<h2><a id="experience">Experience</a></h2>
 	</header>
 	<div class="posts">
-	{% for post in site.categories.experience %}
+    {% assign experiences = site.categories.experience | where: "lang", page.lang | where_exp: "page", "page.order != nil" | sort: "order" %}
+	{% for post in experiences %}
 		<article>
 			<h3>{{ post.title }}</h3>
 			<p>{{ post.employer }} ({{ post.period }})</p>
