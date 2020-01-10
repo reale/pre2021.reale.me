@@ -1,6 +1,7 @@
 ---
 layout: publication
 title: "Sul valore educativo delle leggi"
+lang: it
 categories: [publications, articles]
 tags: []
 image: /assets/images/2013-04-29-sul-valore-educativo-delle-leggi.jpg

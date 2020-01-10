@@ -1,6 +1,7 @@
 ---
 layout: publication
 title: "Danubio, il fiume europeo"
+lang: it
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2014-02-06-danubio-il-fiume-europeo.jpg

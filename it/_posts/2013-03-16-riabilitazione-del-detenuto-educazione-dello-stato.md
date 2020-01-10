@@ -1,6 +1,7 @@
 ---
 layout: publication
 title: "Riabilitazione del detenuto, educazione dello Stato"
+lang: it
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2013-03-16-riabilitazione-del-detenuto-educazione-dello-stato.jpg

@@ -1,6 +1,7 @@
 ---
 layout: publication
 title: "Incidente in cantiere"
+lang: it
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2013-10-28-incidente-in-cantiere.jpg
