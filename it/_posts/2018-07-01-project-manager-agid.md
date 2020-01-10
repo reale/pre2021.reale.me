@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: "Project Manager"
-lang: en
+lang: it
 ref: project-manager-agid
 categories: [resume, experience]
 tags: []
