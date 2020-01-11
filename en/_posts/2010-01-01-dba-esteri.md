@@ -6,7 +6,9 @@ ref: dba-esteri
 categories: [resume, experience]
 tags: []
 image: /assets/images/cover.jpg
-employer: "Ministero degli Affari Esteri e della Cooperazione Internazionale"
+employer:
+    name: "Ministero degli Affari Esteri e della Cooperazione Internazionale"
+    website: https://www.esteri.it/
 period: "2010 - 2014"
 order: 1
 ---
