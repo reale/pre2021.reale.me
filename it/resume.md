@@ -13,10 +13,10 @@ permalink: /it/resume
 	<div class="posts">
     {% assign experiences = site.categories.experience | where: "lang", page.lang | where_exp: "page", "page.order != nil" | sort: "order" | reverse %}
 	{% for post in experiences %}
-		<article>
-			<h3>{{ post.title }}</h3>
-			<p>{{ post.employer }} ({{ post.period }})</p>
-			<p>{{ post.excerpt }}</p>
+        <article>
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            <p><a href="{{ post.employer.website }}" target="_blank">{{ post.employer.name }}</a> ({{ post.period }})</p>
+            <p>{{ post.excerpt }}</p>
 		</article>
 	{% endfor %}
 	</div>
