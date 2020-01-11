@@ -15,7 +15,7 @@ permalink: /en/resume
 	{% for post in experiences %}
 		<article>
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-			<p><a href="{{ post.employer.website }}" target="_blank">{{ post.employer }}</a> ({{ post.period }})</p>
+			<p><a href="{{ post.employer.website }}" target="_blank">{{ post.employer.name }}</a> ({{ post.period }})</p>
 			<p>{{ post.excerpt }}</p>
 		</article>
 	{% endfor %}
