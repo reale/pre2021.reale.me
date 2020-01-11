@@ -44,6 +44,10 @@ english:
     en: "English"
     fr: "English"
     it: "Inglese"
+experience:
+    en: "Experience"
+    fr: "Experience"
+    it: "Incarichi"
 french:
     en: "French"
     fr: "Français"
@@ -92,6 +96,10 @@ talks:
     en: "Talks"
     fr: "Talks"
     it: "Talk"
+teaching:
+    en: "Teaching"
+    fr: "Teaching"
+    it: "Docenze"
 wordclouds:
     en: "Wordclouds"
     fr: "Wordclouds"

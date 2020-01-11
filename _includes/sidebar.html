@@ -9,7 +9,13 @@
             </header>
             <ul>
                 <li><a href="{{ '' | absolute_url }}">{{ site.data.labels.homepage[page.lang] }}</a></li>
-                <li><a href="{{ page.lang | append: '/resume' | absolute_url }}">{{ site.data.labels.resume[page.lang] }}</a></li>
+                <li>
+                    <span class="opener">{{ site.data.labels.resume[page.lang] }}</span>
+                    <ul>
+                        <li><a href="{{ page.lang | append: '/resume#experience' | absolute_url }}">{{ site.data.labels.experience[page.lang] }}</a></li>
+                        <li><a href="{{ page.lang | append: '/resume#teaching' | absolute_url }}">{{ site.data.labels.teaching[page.lang] }}</a></li>
+                    </ul>
+                </li>
                 <li><a href="{{ page.lang | append: '/talks' | absolute_url }}">{{ site.data.labels.talks[page.lang] }}</a></li>
                 <li>
                     <span class="opener">{{ site.data.labels.publications[page.lang] }}</span>
