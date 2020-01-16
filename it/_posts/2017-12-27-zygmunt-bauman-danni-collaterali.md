@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Zygmunt Bauman, Danni collaterali"
+lang: it
+ref: zygmunt-bauman-collateral-damage
 categories: [publications, articles]
 tags: []
 image: /assets/images/2017-12-27-zygmunt-bauman-danni-collaterali.jpg
