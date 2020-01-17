@@ -55,8 +55,8 @@
                             </tr>
                             {% endif %}
 
-                            {% assign posts_in_other_langs = site.posts | where: "ref", page.ref | sort: 'lang' | reverse %}
-                            {% if posts_in_other_langs.size > 0 %}
+                            {% assign pages_in_other_langs = site.pages | where: "ref", page.ref | sort: 'lang' | reverse %}
+                            {% if pages_in_other_langs.size > 0 %}
                             <tr>
                                 <td>Also available in</td>
                                 <td>{% for linked_page in pages_in_other_langs %}<a href="{{ linked_page | absolute_url }}">{{ linked_page.lang }}</a>{% endfor %}</td>
