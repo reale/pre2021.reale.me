@@ -1,6 +1,7 @@
 ---
 layout: publication
 title: "Come farsi amico l'algoritmo e usare i social per uscire dalla bolla"
+lang: it
 categories: [publications, articles]
 tags: []
 image: /assets/images/2019-07-20-come-farsi-amico-algoritmo.jpg
