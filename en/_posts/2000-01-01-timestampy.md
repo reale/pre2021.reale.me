@@ -1,6 +1,8 @@
 ---
 layout: project
 title: "TimestamPy"
+lang: en
+ref: timestampy
 categories: [projects, blockchain, focusprojects]
 tags: []
 image: /assets/images/cover.jpg

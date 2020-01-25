@@ -2,6 +2,7 @@
 layout: project
 title: "Leaked Shots"
 lang: en
+ref: leakedshots
 categories: [projects, photography, misc]
 tags: []
 image: /assets/images/2017-01-01-leakedshots.jpg

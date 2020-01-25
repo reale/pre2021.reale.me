@@ -1,6 +1,8 @@
 ---
 layout: project
 title: "RPNparser"
+lang: en
+ref: rpnparser
 categories: [projects, software]
 tags: []
 image: /assets/images/cover.jpg

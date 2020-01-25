@@ -1,6 +1,8 @@
 ---
 layout: project
 title: "GNU findutils"
+lang: en
+ref: findutils
 categories: [projects, software]
 tags: []
 image: /assets/images/cover.jpg

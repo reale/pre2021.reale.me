@@ -1,6 +1,8 @@
 ---
 layout: project
 title: "stopwords-nap"
+lang: en
+ref: stopwords-nap
 categories: [projects, linguistics]
 tags: []
 image: /assets/images/cover.jpg

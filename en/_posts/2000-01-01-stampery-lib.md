@@ -1,6 +1,8 @@
 ---
 layout: project
 title: "stampery-lib"
+lang: en
+ref: stampery-lib
 categories: [projects, software]
 tags: []
 image: /assets/images/cover.jpg
