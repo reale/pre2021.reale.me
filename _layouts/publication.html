@@ -55,12 +55,14 @@
                             </tr>
                             {% endif %}
 
-                            {% assign posts_in_other_langs = site.posts | where: "ref", post.ref | sort: 'lang' | reverse %}
-                            {% if posts_in_other_langs.size > 0 %}
-                            <tr>
-                                <td>Also available in</td>
-                                <td>{% for linked_post in posts_in_other_langs %}<a href="{{ linked_post | absolute_url }}">{{ linked_post.lang }}</a>{% endfor %}</td>
-                            </tr>
+                            {% if page.ref %}
+                                {% assign posts_in_other_langs = site.posts | where: "ref", page.ref | sort: 'lang' | reverse %}
+                                {% if posts_in_other_langs.size > 0 %}
+                                <tr>
+                                    <td>Also available in</td>
+                                    <td>{% for linked_post in posts_in_other_langs %}<a href="{{ linked_post | absolute_url }}">{{ linked_post.lang }}</a>{% endfor %}</td>
+                                </tr>
+                                {% endif %}
                             {% endif %}
 
                         </table>
