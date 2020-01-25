@@ -47,7 +47,8 @@ permalink: /en/projects
 		<h2><a id="software">Software</a></h2>
 	</header>
 	<div class="posts">
-	{% for post in site.categories.software %}
+    {% assign software = site.categories.software | where: "lang", page.lang | where_exp: "page", "page.order != nil" | sort: "order" | reverse %}
+	{% for post in software %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
