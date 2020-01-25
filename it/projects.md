@@ -11,7 +11,8 @@ permalink: /it/projects
 		<h2><a id="egov">E-government</a></h2>
 	</header>
 	<div class="posts">
-	{% for post in site.categories.egov %}
+    {% assign egov = site.categories.egov | where: "lang", page.lang | sort: "order" | reverse %}
+	{% for post in egov %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -29,7 +30,8 @@ permalink: /it/projects
 		<h2><a id="blockchain">Blockchain</a></h2>
 	</header>
 	<div class="posts">
-	{% for post in site.categories.blockchain %}
+    {% assign blockchain = site.categories.blockchain | where: "lang", page.lang | sort: "order" | reverse %}
+	{% for post in blockchain %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -47,7 +49,7 @@ permalink: /it/projects
 		<h2><a id="software">Software</a></h2>
 	</header>
 	<div class="posts">
-    {% assign software = site.categories.software | where: "lang", page.lang | where_exp: "page", "page.order != nil" | sort: "order" | reverse %}
+    {% assign software = site.categories.software | where: "lang", page.lang | sort: "order" | reverse %}
 	{% for post in software %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
