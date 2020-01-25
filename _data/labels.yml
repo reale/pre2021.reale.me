@@ -26,11 +26,11 @@ contacts:
     it: "Contatti"
 cookieconsent-dismiss:
     en: "Got it!"
-    fr: "Got it!"
+    fr: "Je suis d'accord!"
     it: "Ho capito!"
 cookieconsent-message:
-    en: "This website uses cookies to ensure you get the best experience on our website."
-    fr: "This website uses cookies to ensure you get the best experience on our website."
+    en: "This website uses cookies to ensure that you get the best navigation experience."
+    fr: "Ce site Web utilise des cookies pour vous assurer la meilleure expérience de navigation."
     it: "Questo sito Web utilizza i cookie per assicurarti una esperienza di navigazione soddisfacente."
 datalab:
     en: "Data Lab"
@@ -42,23 +42,23 @@ egov:
     it: "E-government"
 english:
     en: "English"
-    fr: "English"
+    fr: "Anglais"
     it: "Inglese"
 experience:
-    en: "Experience"
-    fr: "Experience"
-    it: "Incarichi"
+    en: "Work experience"
+    fr: "Expérience professionnelle"
+    it: "Esperienza professionale"
 french:
     en: "French"
     fr: "Français"
     it: "Francese"
 homepage:
     en: "Homepage"
-    fr: "Homepage"
+    fr: "Page d'accueil"
     it: "Home"
 italian:
     en: "Italian"
-    fr: "Italian"
+    fr: "Italien"
     it: "Italiano"
 language:
     en: "Language"
@@ -66,7 +66,7 @@ language:
     it: "Lingua"
 learn-more:
     en: "Learn More"
-    fr: "Learn More"
+    fr: "En savoir plus"
     it: "Leggi"
 misc:
     en: "Misc"
@@ -74,7 +74,7 @@ misc:
     it: "Misc"
 projects:
     en: "Projects"
-    fr: "Projects"
+    fr: "Projets"
     it: "Progetti"
 publications:
     en: "Publications"
@@ -82,7 +82,7 @@ publications:
     it: "Pubblicazioni"
 read-more:
     en: "More"
-    fr: "More"
+    fr: "Plus"
     it: "Leggi"
 resume:
     en: "Resume"
@@ -90,7 +90,7 @@ resume:
     it: "CV"
 software:
     en: "Software"
-    fr: "Software"
+    fr: "Logiciels"
     it: "Software"
 talks:
     en: "Talks"
@@ -98,9 +98,9 @@ talks:
     it: "Talk"
 teaching:
     en: "Teaching"
-    fr: "Teaching"
+    fr: "Enseignement"
     it: "Docenze"
 wordclouds:
     en: "Wordclouds"
-    fr: "Wordclouds"
+    fr: "Mot nuages"
     it: "Wordcloud"
