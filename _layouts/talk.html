@@ -50,6 +50,12 @@
                                 <td><a href="{{ page.media.pictures }}" target="_blank">Google Photos</a></td>
                             </tr>
                             {% endif %}
+                            {% if page.canonical %}
+                            <tr>
+                                <td>Website</td>
+                                <td><a href="{{ page.canonical }}" target="_blank">{{ page.canonical }}</a></td>
+                            </tr>
+                            {% endif %}
                             {% if page.media.website %}
                             <tr>
                                 <td>Website</td>
