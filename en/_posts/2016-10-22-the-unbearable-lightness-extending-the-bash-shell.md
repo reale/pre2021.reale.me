@@ -1,12 +1,15 @@
 ---
 layout: talk
 title: "The Unbearable Lightness: Extending the Bash shell"
+lang: en
+ref: linux-day-2016
 categories: [talks]
 tags: []
 image: /assets/images/2016-10-22-the-unbearable-lightness-extending-the-bash-shell.png
 conference: "Linux Day 2016"
 location: Rome
-canonical: https://reale.me/linux-day-2016
+canonical: https://reale.github.io/linux-day-2016/
+permalink: /linux-day-2016
 media:
   pictures: https://photos.app.goo.gl/KWYStD6HvPhY6evP9
   slideshare: https://www.slideshare.net/robertoreale/the-unbearable-lightness-extending-the-bash-shell
