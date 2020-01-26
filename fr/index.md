@@ -31,7 +31,8 @@ permalink: /fr/
 		<h2>News</h2>
 	</header>
 	<div class="posts">
-	{% for post in site.posts limit:12 %}
+    {% assign posts = site.posts | where: "lang", page.lang %}
+	{% for post in posts limit:12 %}
 		{% unless post.hidden_from_news == true %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
