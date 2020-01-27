@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Governing Information Security"
+lang: it
+ref: governing-information-security
 categories: [talk]
 tags: []
 image: /assets/images/2019-12-03-governance-cybersecurity.png

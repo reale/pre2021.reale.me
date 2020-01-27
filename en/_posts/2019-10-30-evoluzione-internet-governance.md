@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Evoluzione della Governance di Internet: Il ruolo delle comunità epistemiche e della società civile"
+lang: it
+ref: igf2019-internet-governance
 categories: [talks]
 tags: []
 image: /assets/images/cover.jpg

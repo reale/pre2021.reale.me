@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Food for thought. Preserving the value of Made in Italy in the digital era. Interview with Simona Riccio"
+lang: en
+ref: interview-riccio
 categories: [publications, articles]
 tags: []
 image: /assets/images/2019-07-09-food-for-thought-interview-riccio.jpg

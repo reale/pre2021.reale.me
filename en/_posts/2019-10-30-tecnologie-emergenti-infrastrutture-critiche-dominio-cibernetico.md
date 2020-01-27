@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Tecnologie emergenti, infrastrutture critiche e dominio cibernetico"
+lang: it
+ref: igf2019-tecnologie-emergenti
 categories: [talks]
 tags: []
 image: /assets/images/cover.jpg

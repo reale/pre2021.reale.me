@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "I-Com, tavoli di lavoro sulle tecnologie digitali"
+lang: it
+ref: icom-non-voglio-mica-la-luna
 categories: [talks]
 tags: []
 image: /assets/images/2019-10-29-icom-non-voglio-mica-la-luna.jpg

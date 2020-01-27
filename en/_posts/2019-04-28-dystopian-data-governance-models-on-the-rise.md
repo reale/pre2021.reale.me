@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Dystopian data governance models on the rise?"
+lang: en
+ref: dystopian-data-governance-models
 categories: [publications, articles]
 tags: []
 image: /assets/images/2019-04-28-dystopian-data-governance-models-on-the-rise.png

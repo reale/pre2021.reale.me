@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "On factfulness"
+lang: en
+ref: factfulness
 categories: [publications, articles]
 tags: []
 image: /assets/images/2019-04-17-on-factfulness.jpg

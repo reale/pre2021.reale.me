@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Non è una questione di bit: per un’educazione al digitale"
+lang: it
+ref: booksophia-2019
 categories: [talks]
 tags: []
 image: /assets/images/2019-11-16-non-e-una-questione-di-bit-per-una-educazione-al-digitale.jpg
