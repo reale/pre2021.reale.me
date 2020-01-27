@@ -79,8 +79,6 @@ and the oldest of the cities that will be.
 
 and the oldest for a future far to come.
 
-fb_2015-12-09T09-13-51_1272878259404296
-
 The rejection of vernacular elements, perceived as obsolete or inadequate to express the socialist Gospel, is a direct consequence of a strong urgency of refounding the history. There is, of course, a risk: that of losing the track of a formal as well as of anthropological continuity. As Greg Castillo writes in Soviet Orientalism9:
 
 While the proponents of Socialist Realism found beauty in local ornament, they had no patience for indigenous urban form. Even the bards of the new folklore rallied against the native city.
