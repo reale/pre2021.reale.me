@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Voto Elettronico: Verso una democrazia digitale?"
+lang: it
+ref: voto-elettronico-democrazia-digitale
 categories: [talks, focus]
 tags: []
 image: /assets/images/2019-10-14-voto-elettronico-verso-democrazia-digitale.jpg

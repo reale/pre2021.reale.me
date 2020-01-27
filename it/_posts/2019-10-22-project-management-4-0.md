@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Project management 4.0: verso una governance agile della trasformazione digitale"
+lang: it
+ref: smau-milano-2019
 categories: [talks]
 tags: []
 image: /assets/images/2019-10-22-project-management-4-0.png

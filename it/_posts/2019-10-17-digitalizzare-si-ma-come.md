@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Digitalizzare: sì, ma come?"
+lang: it
+ref: digitalizzare-si-ma-come
 categories: [publications, articles, focus]
 tags: []
 image: /assets/images/2019-10-17-digitalizzare-si-ma-come.jpg

@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Tokenizzare il panopticon. Privacy, sorveglianza e consenso nella società disintermediata"
+lang: it
+ref: eprivacy-2019
 categories: [talks]
 tags: []
 image: /assets/images/cover.jpg

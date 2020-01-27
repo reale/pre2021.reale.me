@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "La strategia nazionale ed europea sull'intelligenza artificiale e il ruolo del software libero"
+lang: it
+ref: linux-day-2019
 categories: [talks]
 tags: []
 image: /assets/images/2019-10-26-strategia-nazionale-europea-intelligenza-artificiale-software-libero.jpg

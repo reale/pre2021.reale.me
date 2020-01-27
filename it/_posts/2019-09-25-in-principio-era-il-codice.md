@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "In principio era il codice"
+lang: it
+ref: in-principio-era-il-codice
 categories: [talks]
 tags: []
 image: /assets/images/cover.jpg
