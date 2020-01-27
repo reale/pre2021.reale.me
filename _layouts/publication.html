@@ -60,7 +60,7 @@
                                 {% if posts_in_other_langs.size > 0 %}
                                 <tr>
                                     <td>{{ site.data.labels.also-available[page.lang] }}</td>
-                                    <td>{% for linked_post in posts_in_other_langs %}<a href="{{ linked_post | absolute_url }}">{{ site.data.languages[linked_post.lang].icon }} {{ site.data.languages[linked_post.lang].label }}<</a>{% endfor %}</td>
+                                    <td>{% for linked_post in posts_in_other_langs %}<a href="{{ linked_post | absolute_url }}">{{ site.data.languages[linked_post.lang].icon }} {{ site.data.languages[linked_post.lang].label }}</a>{% endfor %}</td>
                                 </tr>
                                 {% endif %}
                             {% endif %}
