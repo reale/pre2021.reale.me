@@ -4,6 +4,14 @@ affiliations:
     en: "Affiliations"
     fr: "Affiliations"
     it: "Affiliazioni"
+also-available:
+    en: "Also available in"
+    fr: "Aussi disponible en"
+    it: "Disponibile anche in"
+archived:
+    en: "Archived on"
+    fr: "Version archive"
+    it: "Pagina archiviata"
 articles:
     en: "Articles"
     fr: "Articles"
@@ -20,6 +28,10 @@ blockchain:
     en: "Blockchain"
     fr: "Blockchain"
     it: "Blockchain"
+coauthors:
+    en: "Coauthors"
+    fr: "Coauteurs"
+    it: "Coautori"
 contacts:
     en: "Contacts"
     fr: "Contacts"
@@ -48,6 +60,10 @@ experience:
     en: "Work experience"
     fr: "Expérience professionnelle"
     it: "Esperienza professionale"
+first-published:
+    en: "First published on"
+    fr: "Première publication"
+    it: "Pubblicato su"
 french:
     en: "French"
     fr: "Français"

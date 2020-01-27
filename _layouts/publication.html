@@ -34,7 +34,7 @@
                         <table>
                             {% if page.publication %}
                             <tr>
-                                <td>First published on</td>
+                                <td>{{ site.data.labels.first-published[page.lang] }}</td>
                                 {% if page.canonical %}
                                 <td><a href="{{ page.canonical }}" target="_blank">{{ page.publication }}</a></td>
                                 {% else %}
@@ -44,13 +44,13 @@
                             {% endif %}
                             {% if page.archive %}
                             <tr>
-                                <td>Archived on</td>
+                                <td>{{ site.data.labels.archived[page.lang] }}</td>
                                 <td><a href="{{ page.archive }}" target="_blank">Internet Archive</a></td>
                             </tr>
                             {% endif %}
                             {% if page.coauthors %}
                             <tr>
-                                <td>Coauthors</td>
+                                <td>{{ site.data.labels.coauthors[page.lang] }}</td>
                                 <td>{% for author in page.coauthors %}{{ author }}{% endfor %}</td>
                             </tr>
                             {% endif %}
@@ -59,7 +59,7 @@
                                 {% assign posts_in_other_langs = site.posts | where_exp: "post", "post.ref == page.ref" | where_exp: "post", "post.lang != page.lang" | sort: 'lang' | reverse %}
                                 {% if posts_in_other_langs.size > 0 %}
                                 <tr>
-                                    <td>Also available in</td>
+                                    <td>{{ site.data.labels.also-available[page.lang] }}</td>
                                     <td>{% for linked_post in posts_in_other_langs %}<a href="{{ linked_post | absolute_url }}">{{ linked_post.lang }}</a>{% endfor %}</td>
                                 </tr>
                                 {% endif %}
