@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Relazione annuale del Garante Privacy, Antonello Soro"
+lang: it
+ref: antonello-soro-discorso-relazione-2017-10-luglio-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Relazione annuale del Garante Privacy, Antonello Soro"

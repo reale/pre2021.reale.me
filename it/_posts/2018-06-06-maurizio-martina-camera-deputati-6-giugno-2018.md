@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Discorso di Maurizio Martina alla Camera dei deputati del 6 giugno 2018"
+lang: it
+ref: maurizio-martina-camera-deputati-6-giugno-2018
 categories: [datalab, wordcloud]
 tags: []
 description: Discorso di Maurizio Martina alla Camera dei deputati, seduta n. 12 di mercoledì 6 giugno 2018

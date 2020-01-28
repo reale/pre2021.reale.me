@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Comunicato stampa del Presidente Conte, 24 agosto 2018"
+lang: it
+ref: comunicato-stampa-conte-24-agosto-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Comunicato stampa del Presidente Conte, 24 agosto 2018"

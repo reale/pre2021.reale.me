@@ -1,7 +1,8 @@
 ---
 layout: wordcloud
 title: "Intervista di Pierre Moscovici a Il Sole 24 Ore, 31 agosto 2018"
-status: publish
+lang: it
+ref: intervista-pierre-moscovici-sole-24-ore-31-agosto-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Intervista di Pierre Moscovici a Il Sole 24 Ore, 31 agosto 2018"

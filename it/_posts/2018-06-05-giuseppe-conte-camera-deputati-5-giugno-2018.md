@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Discorso di Giuseppe Conte alla Camera dei deputati, 5 giugno 2018"
+lang: it
+ref: giuseppe-conte-camera-deputati-5-giugno-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Discorso di Giuseppe Conte alla Camera dei deputati, 5 giugno 2018"

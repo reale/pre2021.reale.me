@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Repubblica: Il primo editoriale di Carlo Verdelli"
+lang: it
+ref: repubblica-editoriale-carlo-verdelli
 categories: [datalab, wordcloud]
 tags: []
 description: "Repubblica: Il primo editoriale di Carlo Verdelli"

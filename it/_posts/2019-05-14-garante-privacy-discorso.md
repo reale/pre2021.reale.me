@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Garante per la protezione dei dati personali, Discorso del Presidente, 7 maggio 2019"
+lang: it
+ref: garante-privacy-discorso
 categories: [datalab, wordcloud]
 tags: []
 description: "Garante per la protezione dei dati personali, Discorso del Presidente, 7 maggio 2019"

@@ -1,7 +1,8 @@
 ---
 layout: wordcloud
 title: "Decreto Sicurezza"
-status: publish
+lang: it
+ref: decreto-sicurezza
 categories: [datalab, wordcloud]
 tags: []
 description: "Decreto Sicurezza"

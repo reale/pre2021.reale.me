@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Midterm election results according to NBC News"
+lang: en
+ref: nbcnews-midterm-elections-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Midterm election results according to NBC News"

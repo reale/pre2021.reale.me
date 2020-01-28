@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Repubblica: L'ultimo editoriale di Mario Calabresi"
+lang: it
+ref: repubblica-editoriale-mario-calabresi
 categories: [datalab, wordcloud]
 tags: []
 description: "Repubblica: L'ultimo editoriale di Mario Calabresi"

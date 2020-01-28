@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Dichiarazione di voto di Graziano Delrio alla Camera dei deputati del 6 giugno 2018"
+lang: it
+ref: graziano-delrio-camera-deputati-6-giugno-2018
 categories: [datalab, wordcloud]
 tags: []
 description: Dichiarazione di voto di Graziano Delrio alla Camera dei deputati, seduta n. 12 di mercoledì 6 giugno 2018

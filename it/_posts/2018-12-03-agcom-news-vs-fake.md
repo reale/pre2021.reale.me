@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "AGCOM: News vs. fake nel sistema dell'informazione"
+lang: it
+ref: agcom-news-vs-fake
 categories: [datalab, wordcloud]
 tags: []
 description: "AGCOM: News vs. fake nel sistema dell'informazione"

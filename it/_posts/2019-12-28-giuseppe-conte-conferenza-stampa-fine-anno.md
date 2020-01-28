@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Conferenza stampa di fine anno del Presidente Conte"
+lang: it
+ref: giuseppe-conte-conferenza-stampa-fine-anno
 categories: [datalab, wordcloud]
 tags: []
 description: "Conferenza stampa di fine anno del Presidente Conte"

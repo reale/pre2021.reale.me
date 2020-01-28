@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Bilancio di previsione dello Stato per l'anno finanziario 2019 e bilancio pluriennale per il triennio 2019-2021 (XVIII Legislatura - Atto Senato n. 981)"
+lang: it
+ref: bilancio-previsione-stato-2019-atto-senato-981
 categories: [datalab, wordcloud]
 tags: []
 description: "Bilancio di previsione dello Stato per l'anno finanziario 2019 e bilancio pluriennale per il triennio 2019-2021 (XVIII Legislatura - Atto Senato n. 981)"

@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Replica di Giuseppe Conte alla Camera dei deputati, 6 giugno 2018"
+lang: it
+ref: giuseppe-conte-camera-deputati-6-giugno-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Replica di Giuseppe Conte alla Camera dei deputati, 6 giugno 2018"

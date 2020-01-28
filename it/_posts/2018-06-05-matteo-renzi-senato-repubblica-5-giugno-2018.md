@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Discorso di Matteo Renzi al Senato della Repubblica, 5 giugno 2018"
+lang: it
+ref: matteo-renzi-senato-repubblica-5-giugno-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Discorso di Matteo Renzi al Senato della Repubblica, 5 giugno 2018"

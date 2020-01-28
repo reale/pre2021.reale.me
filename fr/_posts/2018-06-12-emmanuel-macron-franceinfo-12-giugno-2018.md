@@ -1,9 +1,11 @@
 ---
 layout: wordcloud
-title: "Frammenti della dichiarazione di Emmanuel Macron del 12 giugno 2018"
+title: "Emmanuel Macron dénonce le cynisme et l'irresponsabilité de l'Italie"
+lang: fr
+ref: emmanuel-macron-franceinfo-12-giugno-2018
 categories: [datalab, wordcloud]
 tags: []
-description: "Frammenti della dichiarazione di Emmanuel Macron del 12 giugno 2018"
+description: "Emmanuel Macron dénonce le cynisme et l'irresponsabilité de l'Italie"
 image: /assets/images/2018-06-12-emmanuel-macron-franceinfo-12-giugno-2018.jpg
 source: https://www.francetvinfo.fr/monde/europe/migrants/aquarius-macron-denonce-le-cynisme-et-l-irresponsabilite-de-l-italie_2798157.html
 stopwords: https://raw.githubusercontent.com/stopwords-iso/stopwords-fr/master/stopwords-fr.txt

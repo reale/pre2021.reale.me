@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "European Commission’s Draft Ethics guidelines for trustworthy AI"
+lang: en
+ref: ec-draft-ethics-guidelines-for-trustworthy-ai
 categories: [datalab, wordcloud]
 tags: []
 description: "European Commission’s Draft Ethics guidelines for trustworthy AI"

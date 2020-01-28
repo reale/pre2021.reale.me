@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Intervento di Luigi Di Maio all'Internet Day 2018, Camera dei deputati"
+lang: it
+ref: luigi-di-maio-internet-day-26-giugno-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Intervento di Luigi Di Maio all'Internet Day 2018, Camera dei deputati"

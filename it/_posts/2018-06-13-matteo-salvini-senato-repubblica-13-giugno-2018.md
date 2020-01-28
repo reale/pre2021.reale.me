@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Informativa di Matteo Salvini al Senato della Repubblica del 13 giugno 2018"
+lang: it
+ref: matteo-salvini-senato-repubblica-13-giugno-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Informativa di Matteo Salvini al Senato della Repubblica sulla vicenda della nave Aquarius, XI seduta pubblica del 13 giugno 2018"

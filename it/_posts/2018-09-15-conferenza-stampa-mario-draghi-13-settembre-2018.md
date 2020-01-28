@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Conferenza stampa di Mario Draghi del 13 settembre 2018"
+lang: it
+ref: conferenza-stampa-mario-draghi-13-settembre-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Conferenza stampa di Mario Draghi del 13 settembre 2018"

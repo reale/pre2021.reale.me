@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Mario Draghi, Sovereignty in a globalised world"
+lang: en
+ref: mario-draghi-sovereignty-in-a-globalised-world
 categories: [datalab, wordcloud]
 tags: []
 description: "Speech by Mario Draghi, President of the ECB, on the award of Laurea honoris causa in law from Università degli Studi di Bologna, Bologna, 22 February 201"

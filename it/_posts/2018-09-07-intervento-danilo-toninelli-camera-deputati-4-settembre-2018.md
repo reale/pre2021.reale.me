@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Intervento di Danilo Toninelli sul crollo del ponte Morandi di Genova del 14 agosto 2018, 4 settembre 2018"
+lang: it
+ref: intervento-danilo-toninelli-camera-deputati-4-settembre-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Intervento di Danilo Toninelli sul crollo del ponte Morandi di Genova del 14 agosto 2018, 4 settembre 2018"

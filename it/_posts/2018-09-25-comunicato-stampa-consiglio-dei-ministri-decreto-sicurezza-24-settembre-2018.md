@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Comunicato stampa del Consiglio dei Ministri su Decreto Sicurezza e Immigrazione, 24 settembre 2018"
+lang: it
+ref: comunicato-stampa-consiglio-dei-ministri-decreto-sicurezza-24-settembre-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Comunicato stampa del Consiglio dei Ministri su Decreto Sicurezza e Immigrazione, 24 settembre 2018"

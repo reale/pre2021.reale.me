@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Messaggio di fine anno del Presidente della Repubblica Sergio Mattarella"
+lang: it
+ref: messaggio-fine-anno-mattarella
 categories: [datalab, wordcloud]
 tags: []
 description: "Messaggio di fine anno del Presidente della Repubblica Sergio Mattarella"

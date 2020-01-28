@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Decreto-legge: disposizioni urgenti in materia di reddito di cittadinanza e di pensioni"
+lang: it
+ref: disposizioni-urgenti-in-materia-di-reddito-di-cittadinanza-e-di-pensioni
 categories: [datalab, wordcloud]
 tags: []
 description: "Decreto-legge: disposizioni urgenti in materia di reddito di cittadinanza e di pensioni"

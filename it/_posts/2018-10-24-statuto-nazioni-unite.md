@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Statuto delle Nazioni Unite"
+lang: it
+ref: statuto-nazioni-unite
 categories: [datalab, wordcloud]
 tags: []
 description: "Statuto delle Nazioni Unite"

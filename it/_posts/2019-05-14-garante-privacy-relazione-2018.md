@@ -1,6 +1,8 @@
 ---
 layout: wordcloud
 title: "Garante per la protezione dei dati personali, Relazione annuale 2018"
+lang: it
+ref: garante-privacy-relazione-2018
 categories: [datalab, wordcloud]
 tags: []
 description: "Garante per la protezione dei dati personali, Relazione annuale 2018"
