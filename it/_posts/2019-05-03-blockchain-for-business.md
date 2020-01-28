@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Blockchain for Business"
+lang: it
+ref: blockchain-for-business-torino
 categories: [talks]
 tags: []
 image: /assets/images/2019-05-03-blockchain-for-business.jpg

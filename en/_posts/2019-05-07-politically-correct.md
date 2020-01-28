@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Politically correct. Sentiment analysis of Italian political texts"
+lang: en
+ref: ddi2019
 categories: [talks]
 tags: []
 image: /assets/images/2019-05-07-politically-correct.jpg

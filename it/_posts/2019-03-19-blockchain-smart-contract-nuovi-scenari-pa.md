@@ -1,11 +1,13 @@
 ---
 layout: publication
 title: "Blockchain e smart contract, i nuovi scenari per la pubblica amministrazione"
+lang: en
+ref: blockchain-smart-contract-nuovi-scenari-pa
 categories: [publications, articles]
 tags: []
 image: /assets/images/2019-03-19-blockchain-smart-contract-nuovi-scenari-pa.jpg
 publication: Key4biz
-canonical: https://www.key4biz.it/blockchain-e-smart-contract-i-nuovi-scenari-per-la-pubblica-amministrazione/250198/ 
+canonical: https://www.key4biz.it/blockchain-e-smart-contract-i-nuovi-scenari-per-la-pubblica-amministrazione/250198/
 archive: http://web.archive.org/web/*/https://www.key4biz.it/blockchain-e-smart-contract-i-nuovi-scenari-per-la-pubblica-amministrazione/250198/
 ---
 
