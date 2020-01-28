@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Identità digitale"
+lang: it
+ref: chi-siamo-online
 categories: [talks]
 tags: []
 image: /assets/images/2019-02-01-chi-siamo-online.jpg

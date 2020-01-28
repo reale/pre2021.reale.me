@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Homo Digitalis: Metamorfosi dell'identità"
+lang: it
+ref: booksophia-2018
 categories: [talks]
 tags: []
 image: /assets/images/2018-12-07-homo-digitalis-metamorfosi-identita.jpg
