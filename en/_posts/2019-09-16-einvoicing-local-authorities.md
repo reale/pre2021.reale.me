@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "eInvoicing for the Local Authorities"
+lang: en
+ref: einvoicing-local-authorities
 categories: [talks]
 tags: []
 image: /assets/images/2019-09-16-einvoicing-local-authorities.jpg

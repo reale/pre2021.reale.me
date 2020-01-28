@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Cyber: verso una blockchain d'Europa"
+lang: it
+ref: cyber-verso-blockchain-europa
 categories: [publications, articles]
 tags: []
 image: /assets/images/2019-09-02-cyber-verso-blockchain-europa.png
@@ -16,7 +18,7 @@ Le tecnologie blockchain vengono tradizionalmente distinte in pubbliche (o permi
 La EBSI prevede oggi un’architettura basata su blockchain supervisionate: gli Stati Membri gestiranno i nodi EBSI a livello nazionale, i quali saranno in grado di creare e trasmettere transazioni. L’architettura di ciascun nodo sarà poi composta da due “layer” principali:
 
 * un livello di API (interfacce applicative programmabili) per ciascuno dei casi d’uso individuati, per consentire alle applicazioni aziendali di interfacciarsi con il nodo;
-* un livello infrastrutturale con funzionalità comuni a tutti i casi d’uso. 
+* un livello infrastrutturale con funzionalità comuni a tutti i casi d’uso.
 
 Abbandonando una visione angusta e “manichea” della tecnologia, che non ha mai senso né in termini ingegneristici né in termini di governance e di sensibilità alle reali esigenze del mercato comune europeo, è nostra opinione  che il miglior risultato lo si ottiene combinando blockchain supervisionate (più flessibili, più economiche e di più agevole “penetrazione” nei modelli e nei processi della pubblica amministrazione, anche dal punto di vista della tutela dei dati personali) e blockchain supervisionate, per loro natura più sicure e più resistenti al tampering (alterazione dei dati), in grado di implementare un controllo distribuito e quindi di incarnare la rappresentazione digitale di un soggetto terzo garante dell’integrità transazionale.
 

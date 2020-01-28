@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Cybersecurity, risk management e sovranità del dato in architetture decentralizzate"
+lang: it
+ref: cybersecurity-risk-management-architetture-decentralizzate
 categories: [talks]
 tags: []
 image: /assets/images/cover.jpg

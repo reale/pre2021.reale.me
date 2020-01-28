@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Cybersecurity: è il momento di fare sul serio"
+lang: it
+ref: cybersecurity-momento-di-fare-sul-serio
 categories: [talks]
 tags: []
 image: /assets/images/cover.jpg
