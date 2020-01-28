@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Blockchain, data sovereignty e sicurezza nazionale"
+lang: it
+ref: blockchain-data-sovereignty-sicurezza-nazionale
 categories: [talks]
 tags: []
 image: /assets/images/2019-06-10-blockchain-data-sovereignty-sicurezza-nazionale.jpg

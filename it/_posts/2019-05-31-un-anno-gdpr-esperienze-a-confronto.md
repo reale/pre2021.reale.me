@@ -1,6 +1,8 @@
 ---
 layout: talk
 title: "Un anno di GDPR: esperienze a confronto"
+lang: it
+ref: gdpr-esperienze-a-confronto
 categories: [talks]
 tags: []
 image: /assets/images/2019-05-31-un-anno-gdpr-esperienze-a-confronto.jpg

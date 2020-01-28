@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Sense and Sensibility of the Digital Transformation. Interview with Andrea Lisi"
+lang: en
+ref: interview-lisi
 categories: [publications, articles]
 tags: []
 image: /assets/images/2019-06-17-sense-sensibility-digital-transformation-interview-lisi.jpg

@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Project management and leadership as key tools for digital transformation. Interview with Marisa Ciarlo"
+lang: en
+ref: interview-ciarlo
 categories: [publications, articles]
 tags: []
 image: /assets/images/2019-05-30-project-management-leadership-digital-transformation-interview-ciarlo.jpg
