@@ -1,7 +1,9 @@
 ---
 layout: talk
 title: "Intervista con Lucio Esposito"
-categories: [talks]
+lang: it
+ref: interview-esposito
+categories: [talks, misc]
 tags: []
 image: /assets/images/cover.jpg
 conference: "BookSophia Festival della Classicità"
