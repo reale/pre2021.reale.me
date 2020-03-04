@@ -20,7 +20,8 @@
                 <li>
                     <span class="opener">{{ site.data.labels.publications[page.lang] }}</span>
                     <ul>
-                        <li><a href="{{ page.lang | append: '/publications#articles' | absolute_url }}">{{ site.data.labels.articles[page.lang] }}</a></li>
+                        <li><a href="{{ page.lang | append: '/articles#same-language' | absolute_url }}">{{ site.data.labels.articles-same-language[page.lang] }}</a></li>
+                        <li><a href="{{ page.lang | append: '/articles#other-languages' | absolute_url }}">{{ site.data.labels.articles-other-languages[page.lang] }}</a></li>
                     </ul>
                 </li>
                 <li>
