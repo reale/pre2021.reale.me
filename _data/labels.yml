@@ -16,6 +16,14 @@ articles:
     en: "Articles"
     fr: "Articles"
     it: "Articoli"
+articles-other-languages:
+    en: "Articles in other languages"
+    fr: "Articles dans d'autres langues"
+    it: "Articoli in altre lingue"
+articles-same-language:
+    en: "Articles in English"
+    fr: "Articles en français"
+    it: "Articoli in italiano"
 bio-excerpt:
     en: "I describe myself as an Innovation Manager with more than 10 years of experience in e-government projects and digital transformation of critical industries at the national and EU level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities), and 20 years of exposure to ICT engineering and management (including open-source projects)."
     fr: "Je suis un manager de l'innovation avec plus de 10 ans d'expérience dans des projets de gouvernement électronique et de transformation numérique des industries critiques au niveau national et européen (organes parlementaires, finances publiques, achats, infrastructures stratégiques, services publics), et 20 ans de exposition à l'ingénierie et à la gestion des TIC (y compris les projets open source)."

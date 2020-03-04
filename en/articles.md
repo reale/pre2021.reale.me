@@ -1,0 +1,49 @@
+---
+layout: page
+title: Articles
+lang: en
+ref: articles
+permalink: /en/articles
+---
+
+<section>
+	<header class="major">
+		<h2><a id="same-language">{{ site.data.labels.articles-same-language[page.lang] }}</a></h2>
+	</header>
+	<div class="posts">
+	{% assign posts = site.categories.articles | where: "lang", page.lang %}
+	{% for post in posts %}
+		{% unless post.categories contains 'misc' %}
+		<article>
+			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
+			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+			<p>{{ post.excerpt }}</p>
+			<ul class="actions">
+				<li><a href="{{ post.url }}" class="button">{{ site.data.labels.read-more[page.lang] }}</a></li>
+			</ul>
+		</article>
+		{% endunless %}
+	{% endfor %}
+	</div>
+</section>
+
+<section>
+	<header class="major">
+		<h2><a id="other-languages">{{ site.data.labels.articles-other-languages[page.lang] }}</a></h2>
+	</header>
+	<div class="posts">
+	{% assign posts = site.categories.articles | where_exp: "post", "post.lang != page.lang" %}
+	{% for post in posts %}
+		{% unless post.categories contains 'misc' %}
+		<article>
+			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
+			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+			<p>{{ post.excerpt }}</p>
+			<ul class="actions">
+				<li><a href="{{ post.url }}" class="button">{{ site.data.labels.read-more[page.lang] }}</a></li>
+			</ul>
+		</article>
+		{% endunless %}
+	{% endfor %}
+	</div>
+</section>
