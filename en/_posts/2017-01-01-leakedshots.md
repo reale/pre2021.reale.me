@@ -12,7 +12,6 @@ others:
   instagram: https://www.instagram.com/leakedshots
   facebook: https://www.facebook.com/leakedshots
   twitter: https://www.twitter.com/leakedshots
-  medium: https://medium.com/leakedshots
   source: https://github.com/reale/leakedshots
 ---
 
