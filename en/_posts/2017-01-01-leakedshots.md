@@ -6,7 +6,7 @@ ref: leakedshots
 categories: [projects, photography, misc]
 tags: []
 image: /assets/images/2017-01-01-leakedshots.jpg
-canonical: https://leakedshots.com/
+canonical: https://leakedshots.reale.me/
 others:
   flickr: https://www.flickr.com/people/leakedshots
   instagram: https://www.instagram.com/leakedshots
