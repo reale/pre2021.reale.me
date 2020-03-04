@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Blockchain e smart contract, i nuovi scenari per la pubblica amministrazione"
-lang: en
+lang: it
 ref: blockchain-smart-contract-nuovi-scenari-pa
 categories: [publications, articles]
 tags: []

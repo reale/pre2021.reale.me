@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Claiming digital rights — Is Poland ready?"
+lang: en
+ref: claiming-digital-rights-is-poland-ready
 categories: [publications, articles]
 tags: []
 image: /assets/images/2018-05-18-claiming-digital-rights-is-poland-ready.jpg

@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "How to Grow our Professional Network in Four Tips"
+lang: en
+ref: how-to-grow-our-professional-network-in-four-tips
 categories: [publications, articles]
 tags: []
 image: /assets/images/2015-05-10-how-to-grow-our-professional-network-in-four-tips.jpg
