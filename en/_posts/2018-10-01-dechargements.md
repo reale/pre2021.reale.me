@@ -1,8 +1,9 @@
 ---
 layout: publication
 title: "Déchargements"
-permalink: /dechargements/
-categories: [publications, poetry, misc]
+lang: en
+ref: dechargements
+categories: [publications, poetry]
 tags: []
 image: /assets/images/2018-10-01-dechargements.jpg
 others:
@@ -12,10 +13,10 @@ others:
   github: https://github.com/reale/dechargements
 ---
 
-«Il nucleo pulsante e ossessivo di questa quarantina di componimenti consiste in una resa dei conti senza ipocrisie con il desiderio, la sua pressante cogenza, le sue improvvise e insopprimibili accensioni.» (Marco Russo)
+«The pulsating, obsessive core of these forty compositions consists in a showdown without hypocrisy with desire, its pressing cogency, its sudden and irrepressible ignitions.» (Marco Russo)
 
 <ul>
-  <li>Acquista su <a href="https://www.amazon.it/dp/B07HSJW75G/">Amazon</a></li>
-  <li>Recensisci su <a href="https://www.goodreads.com/book/show/42182210-d-chargements">Goodreads</a></li>
-  <li><a href="https://github.com/reale/dechargements">Archivio del progetto</a></li>
+  <li>Buy it on <a href="https://www.amazon.it/dp/B07HSJW75G/">Amazon</a></li>
+  <li>Review it on <a href="https://www.goodreads.com/book/show/42182210-d-chargements">Goodreads</a></li>
+  <li><a href="https://github.com/reale/dechargements">Project archive</a></li>
 </ul>
