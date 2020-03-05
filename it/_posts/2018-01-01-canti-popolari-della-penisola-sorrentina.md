@@ -4,7 +4,7 @@ title: "Canti popolari della Penisola Sorrentina"
 lang: it
 ref: sorrento
 permalink: /sorrento/
-categories: [publications, poetry, misc]
+categories: [publications, poetry]
 tags: []
 image: /assets/images/2018-01-01-canti-popolari-della-penisola-sorrentina.jpg
 canonical: https://sorrento.reale.me/
