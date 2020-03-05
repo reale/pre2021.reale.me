@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Polonia, lo stato incentiva il disboscamento. La protesta delle madri"
+lang: it
+ref: poland-deforestation
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2017-05-18-polonia-stato-incentiva-disboscamento.jpg

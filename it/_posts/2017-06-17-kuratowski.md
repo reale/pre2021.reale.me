@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Kazimierz Kuratowski, la fondazione dell'infinito"
+lang: it
+ref: kuratowski
 categories: [publications, articles]
 tags: []
 image: /assets/images/2017-06-17-kuratowski.jpg

@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Václav Havel, Anticodici"
+lang: it
+ref: havel-antikody
 categories: [publications, articles]
 tags: []
 image: /assets/images/2017-06-15-havel-anticodici.jpg

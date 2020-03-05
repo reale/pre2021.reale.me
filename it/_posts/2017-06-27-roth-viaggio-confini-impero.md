@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Joseph Roth, viaggio ai confini dell'impero"
+lang: it
+ref: roth-galicia
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2017-06-27-roth-viaggio-confini-impero.jpg
