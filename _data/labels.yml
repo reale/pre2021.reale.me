@@ -64,6 +64,10 @@ english:
     en: "English"
     fr: "Anglais"
     it: "Inglese"
+essays-poetry:
+    en: "Essays and Poetry"
+    fr: "Essais et poésie"
+    it: "Saggi e poesie"
 experience:
     en: "Work experience"
     fr: "Expérience professionnelle"
