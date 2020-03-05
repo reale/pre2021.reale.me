@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Nessuno pensa da solo"
+lang: it
+ref: vygotsky
 categories: [publications, articles]
 tags: []
 image: /assets/images/2018-04-27-nessuno-pensa-da-solo.jpg

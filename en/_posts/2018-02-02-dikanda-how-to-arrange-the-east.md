@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "On Dikanda, or How to arrange the East"
+lang: en
+ref: dikanda
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2018-02-02-dikanda-how-to-arrange-the-east.jpg

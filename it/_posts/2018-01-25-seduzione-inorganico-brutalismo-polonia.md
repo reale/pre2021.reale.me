@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "La seduzione dell'inorganico. Il brutalismo in Polonia"
+lang: it
+ref: brutalism-poland
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2018-01-25-seduzione-inorganico-brutalismo-polonia.jpg

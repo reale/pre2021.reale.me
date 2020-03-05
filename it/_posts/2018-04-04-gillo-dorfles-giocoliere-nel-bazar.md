@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Gillo Dorfles: il giocoliere nel bazar"
+lang: it
+ref: dorfles
 categories: [publications, articles]
 tags: []
 image: /assets/images/2018-04-04-gillo-dorfles-giocoliere-nel-bazar.jpg

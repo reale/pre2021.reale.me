@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Ritratti: Samuel Eilenberg"
+lang: it
+ref: eilenberg
 categories: [publications, articles]
 tags: []
 image: /assets/images/2018-06-08-ritratti-samuel-eilenberg.jpg
