@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Henryk Grynberg, Monolog polsko-żydowski"
+lang: it
+ref: grynberg
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2017-10-24-henryk-grynberg-monolog-polsko-zydowski.jpg

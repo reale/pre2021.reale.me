@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Michał Kalecki, tra pragmatismo e rigore"
+lang: it
+ref: kalecki
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2017-12-23-michal-kalecki-pragmatismo-rigore.jpg

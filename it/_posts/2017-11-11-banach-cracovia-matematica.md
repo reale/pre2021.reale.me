@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "S. Banach – se da Cracovia si rifonda la matematica"
+lang: it
+ref: banach-krakow
 categories: [publications, articles]
 tags: []
 image: /assets/images/2017-11-11-banach-cracovia-matematica.jpg

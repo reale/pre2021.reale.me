@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Ostatnia rodzina, o del lasciar tracce"
+lang: it
+ref: ostatnia-rodzina
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2017-11-24-ostatnia-rodzina-del-lasciar-tracce.jpg
