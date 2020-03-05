@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Jan Neruda, I racconti di Malá Strana"
+lang: it
+ref: neruda-mala-strana
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2017-03-25-neruda-mala-strana.jpg

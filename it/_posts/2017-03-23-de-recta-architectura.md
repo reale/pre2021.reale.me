@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "De recta architectura"
+lang: it
+ref: de-recta-architectura
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2017-03-23-de-recta-architectura.jpg

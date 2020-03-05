@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Pensiero matematico, pensiero estetico"
+lang: it
+ref: math-poland
 categories: [publications, articles, misc]
 tags: []
 image: /assets/images/2016-11-22-pensiero-matematico-pensiero-estetico.jpg
