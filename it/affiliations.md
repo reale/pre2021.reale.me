@@ -8,7 +8,8 @@ permalink: /it/affiliations
 
 <section>
 	<div class="posts">
-	{% for post in site.categories.affiliation %}
+	{% assign posts = site.categories.affiliation | where: "lang", page.lang %}
+	{% for post in posts %}
 		<article>
 			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
