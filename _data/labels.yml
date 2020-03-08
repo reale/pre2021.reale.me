@@ -100,6 +100,10 @@ misc:
     en: "Misc"
     fr: "Misc"
     it: "Misc"
+my-role:
+    en: "My role"
+    fr: "Mon rôle"
+    it: "Ruolo"
 projects:
     en: "Projects"
     fr: "Projets"
@@ -128,6 +132,10 @@ teaching:
     en: "Teaching"
     fr: "Enseignement"
     it: "Docenze"
+website:
+    en: "Website"
+    fr: "Site Internet"
+    it: "Website"
 wordclouds:
     en: "Wordclouds"
     fr: "Mot nuages"

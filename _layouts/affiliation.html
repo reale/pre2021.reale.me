@@ -31,6 +31,24 @@
 
                         {{ content }}
 
+                        <table>
+                            {% if page.website %}
+                            <tr>
+                                <td>{{ site.data.labels.website[page.lang] }}</td>
+                                <td><a href="{{ page.website }}" target="_blank"></a>{{ page.title }}</td>
+                            </tr>
+                            {% endif %}
+                            {% if page.role %}
+                            <tr>
+                                <td>{{ site.data.labels.my-role[page.lang] }}</td>
+                                <td>{{ page.role }}</td>
+                            </tr>
+                            {% endif %}
+                        </table>
+
+                        {% unless page.comments == false %}
+                        <div id="disqus_thread"></section>
+                        {% endunless %}
                 </div>
             </div>
 
