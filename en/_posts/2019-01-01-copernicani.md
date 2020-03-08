@@ -1,10 +1,13 @@
 ---
 layout: affiliation
 title: "Copernicani"
+lang: en
+ref: copernicani
 categories: [affiliation]
 tags: []
-image: /assets/images/cover.jpg
+image: /assets/images/2019-01-01-copernicani.png
 role: Member
+website: https://copernicani.it/
 hidden_from_news: true
 ---
 
