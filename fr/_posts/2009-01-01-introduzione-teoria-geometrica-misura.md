@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Una introduzione alla teoria geometrica della misura"
-lang: en
+lang: fr
 ref: bachelor-thesis
 categories: [publications, theses]
 tags: []
@@ -13,4 +13,4 @@ others:
   issuu: https://issuu.com/roberto-reale/docs/una_introduzione_alla_teoria_geomet
 ---
 
-In this thesis we introduce the fundamental concepts of the geometric measure theory: a discipline that on the one hand represents a source of interesting problems per se, such as those concerning minimal surfaces, and on the other it is one of the most powerful tools of which mathematical analysis has today. The applications in fact range from the calculation of variations to the theory of partial differential equations.
+Dans cette thèse, nous introduisons les concepts fondamentaux de la théorie géométrique de la mesure: une discipline qui d'une part représente une source de problèmes intéressants en soi, tels que ceux concernant les surfaces minimales, et d'autre part c'est l'un des outils les plus puissants de que l'analyse mathématique a aujourd'hui. Les applications vont en effet du calcul des variations à la théorie des équations aux dérivées partielles.
