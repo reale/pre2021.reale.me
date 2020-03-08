@@ -1,6 +1,8 @@
 ---
 layout: publication
 title: "Una introduzione alla teoria geometrica della misura"
+lang: it
+ref: bachelor-thesis
 categories: [publications, theses]
 tags: []
 image: /assets/images/cover.jpg
