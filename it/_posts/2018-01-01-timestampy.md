@@ -5,7 +5,7 @@ lang: it
 ref: timestampy
 categories: [projects, blockchain, focusprojects]
 tags: []
-image: /assets/images/2018-01-01-timestampy.md
+image: /assets/images/2018-01-01-timestampy.png
 icon: fa-signal
 others:
   github: https://github.com/reale/timestampy
