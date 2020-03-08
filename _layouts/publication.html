@@ -42,16 +42,37 @@
                                 {% endif %}
                             </tr>
                             {% endif %}
-                            {% if page.archive %}
-                            <tr>
-                                <td>{{ site.data.labels.archived[page.lang] }}</td>
-                                <td><a href="{{ page.archive }}" target="_blank">Internet Archive</a></td>
-                            </tr>
-                            {% endif %}
+
                             {% if page.coauthors %}
                             <tr>
                                 <td>{{ site.data.labels.coauthors[page.lang] }}</td>
                                 <td>{% for author in page.coauthors %}{{ author }}{% endfor %}</td>
+                            </tr>
+                            {% endif %}
+
+                            {% if page.academia %}
+                            <tr>
+                                <td>{{ site.data.labels.read-on[page.lang] }}</td>
+                                <td><a href="{{ page.academia }}" target="_blank">Academia</a></td>
+                            </tr>
+                            {% endif %}
+                            {% if page.issuu %}
+                            <tr>
+                                <td>{{ site.data.labels.read-on[page.lang] }}</td>
+                                <td><a href="{{ page.issuu }}" target="_blank">Academia</a></td>
+                            </tr>
+                            {% endif %}
+                            {% if page.github %}
+                            <tr>
+                                <td>{{ site.data.labels.project-repo[page.lang] }}</td>
+                                <td><a href="{{ page.github }}" target="_blank">GitHub</a></td>
+                            </tr>
+                            {% endif %}
+
+                            {% if page.archive %}
+                            <tr>
+                                <td>{{ site.data.labels.archived[page.lang] }}</td>
+                                <td><a href="{{ page.archive }}" target="_blank">Internet Archive</a></td>
                             </tr>
                             {% endif %}
 

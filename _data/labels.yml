@@ -104,6 +104,10 @@ my-role:
     en: "My role"
     fr: "Mon rôle"
     it: "Ruolo"
+project-repo:
+    en: "Project repository"
+    fr: "Repository de projet"
+    it: "Repository di progetto"
 projects:
     en: "Projects"
     fr: "Projets"
@@ -116,6 +120,10 @@ read-more:
     en: "More"
     fr: "Plus"
     it: "Leggi"
+read-on:
+    en: "Read on"
+    fr: "Lire su"
+    it: "Leggi su"
 resume:
     en: "Resume"
     fr: "Resume"
