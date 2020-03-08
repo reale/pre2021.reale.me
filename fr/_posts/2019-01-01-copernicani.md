@@ -1,7 +1,7 @@
 ---
 layout: affiliation
 title: "Copernicani"
-lang: en
+lang: fr
 ref: copernicani
 categories: [affiliation]
 tags: []
