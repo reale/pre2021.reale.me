@@ -7,9 +7,14 @@ categories: [projects, blockchain, focusprojects]
 tags: []
 image: /assets/images/cover.jpg
 icon: fa-signal
-canonical: https://timestampy.reale.me/
 others:
   github: https://github.com/reale/timestampy
+redirect_from: /timestampy/
 ---
 
-Automatic timestamp generation on the blockchain.
+TimestamPy uses the blockchain, via the [OpenTimestamps](https://opentimestamps.org/) project, to automatically generate a timestamp every time any document is created, modified or moved into a local folder.
+
+- Powered by the blockchain
+- Written in Python
+- Secure by design
+- Configurable
