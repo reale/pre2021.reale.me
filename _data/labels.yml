@@ -132,6 +132,14 @@ teaching:
     en: "Teaching"
     fr: "Enseignement"
     it: "Docenze"
+technical-books:
+    en: "Technical books"
+    fr: "Livres techniques"
+    it: "Libri"
+theses:
+    en: "Theses"
+    fr: "Thèses"
+    it: "Tesi"
 website:
     en: "Website"
     fr: "Site Internet"
