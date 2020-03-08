@@ -8,6 +8,7 @@ tags: []
 image: /assets/images/2018-01-01-canti-popolari-della-penisola-sorrentina.jpg
 canonical: https://sorrento.reale.me/
 others:
+  gitbook: https://sorrento.reale.me/
   amazon: https://www.amazon.it/gp/product/B079G61WY6/
   kobo: https://www.kobo.com/ebook/canti-popolari-della-penisola-sorrentina
   goodreads: https://www.goodreads.com/book/show/38310952-canti-popolari-della-penisola-sorrentina
@@ -19,8 +20,3 @@ Les _Canti popolari della Penisola Sorrentina_ font partie d'un projet plus vast
 L'auteur a ensuite ajouté un travail de «traduction» en italien au travail de numérisation, avec un double objectif: d'une part, rendre ces textes attractifs pour un public plus large; d'autre part, se consacrer à un exercice personnel pour approfondir la langue, le style et la culture dont les chansons sont l'expression.
 
 La photo de couverture est de Francesco Saverio Gargiulo.
-
-* Lire [en ligne](https://sorrento.reale.me/)
-* Acheter sur [Amazon](https://www.amazon.it/gp/product/B079G61WY6/) ou [Kobo](https://www.kobo.com/ebook/canti-popolari-della-penisola-sorrentina )
-* Examen sur [Goodreads](https://www.goodreads.com/book/show/38310952-popolari-popolari-della-penisola-sorrentina)
-* Contribuer au projet sur [GitHub](https://github.com/reale/sorrento)
