@@ -108,6 +108,10 @@ my-role:
     en: "My role"
     fr: "Mon rôle"
     it: "Ruolo"
+project-media:
+    en: "Project media"
+    fr: "Project media"
+    it: "Project media"
 project-repo:
     en: "Project repository"
     fr: "Repository de projet"
