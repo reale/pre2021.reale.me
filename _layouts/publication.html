@@ -50,6 +50,18 @@
                             </tr>
                             {% endif %}
 
+                            {% if page.others.amazon %}
+                            <tr>
+                                <td>{{ site.data.labels.buy-on[page.lang] }}</td>
+                                <td><a href="{{ page.others.amazon }}" target="_blank">Amazon</a></td>
+                            </tr>
+                            {% endif %}
+                            {% if page.others.goodreads %}
+                            <tr>
+                                <td>{{ site.data.labels.write-review-on[page.lang] }}</td>
+                                <td><a href="{{ page.others.goodreads }}" target="_blank">Goodreads</a></td>
+                            </tr>
+                            {% endif %}
                             {% if page.others.academia %}
                             <tr>
                                 <td>{{ site.data.labels.read-on[page.lang] }}</td>

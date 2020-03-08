@@ -36,6 +36,10 @@ blockchain:
     en: "Blockchain"
     fr: "Blockchain"
     it: "Blockchain"
+buy-on:
+    en: "Buy on"
+    fr: "Acheter sur"
+    it: "Acquista su"
 coauthors:
     en: "Coauthors"
     fr: "Coauteurs"
@@ -156,3 +160,7 @@ wordclouds:
     en: "Wordclouds"
     fr: "Mot nuages"
     it: "Wordcloud"
+write-review-on:
+    en: "Write a review on"
+    fr: "Écrire un avis sur"
+    it: "Recensisci su"
