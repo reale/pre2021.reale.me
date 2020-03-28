@@ -95,6 +95,13 @@
                             </tr>
                             {% endif %}
 
+                            {% if page.media.podcast %}
+                            <tr>
+                                <td>{{ site.data.labels.podcast[page.lang] }}</td>
+                                <td><a href="{{ page.media.podcast }}" target="_blank">{{ site.data.labels.podcast[page.lang] }}</a></td>
+                            </tr>
+                            {% endif %}
+
                             {% if page.archive %}
                             <tr>
                                 <td>{{ site.data.labels.archived[page.lang] }}</td>
