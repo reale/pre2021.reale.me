@@ -7,7 +7,7 @@ categories: [publications, articles]
 tags: []
 image: /assets/images/2020-03-25-data-not-dates.jpg
 publication: Facebook
-canonical: https://www.facebook.com/rober.reale/posts/2587223891519776
+canonical: https://www.facebook.com/rober.reale/posts/2590758117833020
 ---
 
 Nessuno è così sprovveduto da credere che non ci sia urgenza di progettare fin da subito il dopo, di tracciare già oggi la strada per tornare a una qualche forma di normalità per quando avremo intravisto la luce fuori dal tunnel. Una strada che sarà, ne siamo coscienti tutti, una strada in salita, di quelle dove chi è più debole rischia di non farcela.

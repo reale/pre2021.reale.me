@@ -7,7 +7,7 @@ categories: [publications, articles]
 tags: []
 image: /assets/images/2020-03-25-data-not-dates.jpg
 publication: Facebook
-canonical: https://www.facebook.com/rober.reale/posts/2587223891519776
+canonical: https://www.facebook.com/rober.reale/posts/2590758117833020
 ---
 
 Nobody, I am sure, can be so absent-minded as to believe that there is no urgency to plan the aftermath, to trace the road back to (some form of) business as usual, for when we will be able to get a glimspe of light at the end the tunnel. A road which will be quite a steep one, and which will put the weakest among us at the risk of not making it.
