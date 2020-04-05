@@ -7,7 +7,7 @@ permalink: /about/
 image: assets/images/cover.jpg
 ---
 
-Je suis un manager de l'innovation avec plus de 10 ans d'expérience dans des projets de gouvernement électronique et de transformation numérique des industries critiques au niveau national et européen (organes parlementaires, finances publiques, achats, infrastructures stratégiques, services publics), et 20 ans de exposition à l'ingénierie et à la gestion des TIC (y compris les projets open source).
+Je suis un manager de l'innovation avec plus de 10 ans d'expérience dans des projets de gouvernement électronique et de transformation numérique des industries critiques au niveau national et européen (organes parlementaires, finances publiques, achats, infrastructures stratégiques, services publics), et 20 ans d'expérience dans l'ingénierie et la gestion des TIC.
 
 Étant donné que je considère les projets à grande échelle comme l'interaction complexe de nombreux domaines différents, je recherche une implication constante dans toutes les facettes de la transformation numérique: technologie, financement, organisation, sécurité, communication, gouvernance, élaboration des politiques, société, environnement.
 

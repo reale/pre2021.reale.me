@@ -7,7 +7,7 @@ permalink: /about/
 image: assets/images/cover.jpg
 ---
 
-I describe myself as an Innovation Manager with more than 10 years of experience in e-government projects and digital transformation of critical industries at the national and EU level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities), and 20 years of experience in ICT engineering and management (including open-source projects).
+I am an Innovation Manager with more than 10 years of experience in e-government projects and digital transformation of critical industries at the national and EU level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities), and 20 years of experience in ICT engineering and management.
 
 Since I view large-scale projects as the complex interplay of many different areas, I seek constant involvement in all facets of the digital transformation: technology, financing, organization, security, communication, governance, policymaking, society, environment.
 
