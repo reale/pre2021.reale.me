@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Misc
+title: Random Writings
 lang: it
 ref: misc
-permalink: /it/misc
+permalink: /it/random-writings
 ---
 
 <section>

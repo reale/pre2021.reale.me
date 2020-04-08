@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Misc
-lang: en
+title: Book Reviews
+lang: fr
 ref: misc
-permalink: /en/misc
+permalink: /fr/book-reviews
 ---
 
 <section>
 	<ul>
-	{% for post in site.categories.misc %}
+	{% for post in site.categories.book-reviews %}
 		<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 	</ul>

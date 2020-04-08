@@ -36,6 +36,10 @@ blockchain:
     en: "Blockchain"
     fr: "Blockchain"
     it: "Blockchain"
+book-reviews:
+    en: "Book Reviews"
+    fr: "Book Reviews"
+    it: "Book Reviews"
 buy-on:
     en: "Buy on"
     fr: "Acheter sur"
@@ -128,6 +132,10 @@ publications:
     en: "Publications"
     fr: "Publications"
     it: "Pubblicazioni"
+random-writings:
+    en: "Random Writings"
+    fr: "Random Writings"
+    it: "Random Writings"
 read-more:
     en: "More"
     fr: "Plus"
@@ -160,6 +168,10 @@ theses:
     en: "Theses"
     fr: "Thèses"
     it: "Tesi"
+trivie:
+    en: "Trivia"
+    fr: "Trivia"
+    it: "Trivia"
 website:
     en: "Website"
     fr: "Site Internet"

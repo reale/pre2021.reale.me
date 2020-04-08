@@ -42,7 +42,13 @@
                     </ul>
                 </li>
                 <li><a href="{{ page.lang | append: '/affiliations' | absolute_url }}">{{ site.data.labels.affiliations[page.lang] }}</a></li>
-                <li><a href="{{ page.lang | append: '/misc' | absolute_url }}">{{ site.data.labels.misc[page.lang] }}</a></li>
+                <li>
+                    <span class="opener">{{ site.data.labels.trivia[page.lang] }}</span>
+                    <ul>
+                        <li><a href="{{ page.lang | append: '/book-reviews' | absolute_url }}">{{ site.data.labels.book-reviews[page.lang] }}</a></li>
+                        <li><a href="{{ page.lang | append: '/random-writings' | absolute_url }}">{{ site.data.labels.random-writings[page.lang] }}</a></li>
+                    </ul>
+                </li>
                 <li><a href="{{ page.lang | append: '/contacts' | absolute_url }}">{{ site.data.labels.contacts[page.lang] }}</a></li>
                 <li>
                     <span class="opener">{{ site.data.labels.language[page.lang] }}</span>
