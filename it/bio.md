@@ -2,7 +2,7 @@
 layout: page
 title: Io in breve
 lang: it
-ref: about
+ref: bio
 permalink: /it/bio
 image: assets/images/cover.jpg
 ---

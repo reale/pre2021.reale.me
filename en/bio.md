@@ -2,7 +2,7 @@
 layout: page
 title: Me in a Nutshell
 lang: en
-ref: about
+ref: bio
 permalink: /en/bio
 image: assets/images/cover.jpg
 ---

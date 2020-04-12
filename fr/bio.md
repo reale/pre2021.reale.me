@@ -2,7 +2,7 @@
 layout: page
 title: Moi en bref
 lang: fr
-ref: about
+ref: bio
 permalink: /fr/bio
 image: assets/images/cover.jpg
 ---
