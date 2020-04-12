@@ -104,14 +104,26 @@ learn-more:
     en: "Learn More"
     fr: "En savoir plus"
     it: "Leggi"
+me-in-a-nutshell:
+    en: "Me in a Nutshell"
+    fr: "Moi en bref"
+    it: "Io in breve"
 misc:
     en: "Misc"
     fr: "Misc"
     it: "Misc"
+my-failures:
+    en: "My Failures"
+    fr: "Mes échecs"
+    it: "I miei fallimenti"
 my-role:
     en: "My role"
     fr: "Mon rôle"
     it: "Ruolo"
+my-story:
+    en: "My Story"
+    fr: "Mon histoire"
+    it: "La mia storia"
 podcast:
     en: "Podcast"
     fr: "Podcast"
@@ -176,6 +188,10 @@ website:
     en: "Website"
     fr: "Site Internet"
     it: "Website"
+who-i-am:
+    en: "Who I am"
+    fr: "Qui je suis"
+    it: "Chi sono"
 wordclouds:
     en: "Wordclouds"
     fr: "Mot nuages"
