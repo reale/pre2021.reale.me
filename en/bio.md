@@ -3,7 +3,7 @@ layout: page
 title: Me in a Nutshell
 lang: en
 ref: about
-permalink: /about/
+permalink: /en/bio
 image: assets/images/cover.jpg
 ---
 

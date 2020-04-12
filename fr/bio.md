@@ -3,7 +3,7 @@ layout: page
 title: Moi en bref
 lang: fr
 ref: about
-permalink: /about/
+permalink: /fr/bio
 image: assets/images/cover.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Io in breve
 lang: it
 ref: about
-permalink: /about/
+permalink: /it/bio
 image: assets/images/cover.jpg
 ---
 

@@ -6,7 +6,7 @@
         </header>
         <p>{{ site.data.labels.bio-excerpt[page.lang] }}</p>
         <ul class="actions">
-            <li><a href="{{ '/about/' | absolute_url }}" class="button big">{{ site.data.labels.learn-more[page.lang] }}</a></li>
+            <li><a href="{{ page.lang | append '/bio' | absolute_url }}" class="button big">{{ site.data.labels.learn-more[page.lang] }}</a></li>
         </ul>
     </div>
     <span class="image object">
