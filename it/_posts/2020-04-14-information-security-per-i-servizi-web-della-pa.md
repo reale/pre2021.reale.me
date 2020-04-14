@@ -11,11 +11,11 @@ canonical: https://ofcs.report/cyber/information-security-per-i-servizi-web-dell
 archive: http://web.archive.org/web/*/https://ofcs.report/cyber/information-security-per-i-servizi-web-della-pa/
 ---
 
-### Premessa
-
 La cura della sicurezza informatica è un **processo olistico** che attraversa
 tutte le fasi di un progetto ICT, coinvolgendo figure professionali ad ampio
 spettro.
+
+### Premessa
 
 La partita, oggi, si gioca su campi impensabili sino a qualche anno fa, e
 richiede la messa in opera di contromisure e **tecniche di prevenzione ad ampio
