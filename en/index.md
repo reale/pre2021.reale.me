@@ -13,7 +13,8 @@ permalink: /
 		<h2>Featured Projects</h2>
 	</header>
 	<div class="features">
-	{% for post in site.categories.focusprojects limit:4 %}
+	{% assign posts = site.categories.articles | where: "lang", page.lang %}
+	{% for post in posts limit:4 %}
 		<article>
 			<span class="icon {{ post.icon }}"></span>
 			<div class="content">
