@@ -80,6 +80,10 @@ experience:
     en: "Work experience"
     fr: "Expérience professionnelle"
     it: "Esperienza professionale"
+featured-projects:
+    en: "Featured Projects"
+    fr: "Featured Projects"
+    it: "Progetti in evidenza"
 first-published:
     en: "First published on"
     fr: "Première publication"
@@ -124,6 +128,10 @@ my-story:
     en: "My Story"
     fr: "Mon histoire"
     it: "La mia storia"
+news:
+    en: "News"
+    fr: "News"
+    it: "News"
 podcast:
     en: "Podcast"
     fr: "Podcast"

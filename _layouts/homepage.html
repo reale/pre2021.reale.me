@@ -5,10 +5,10 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Featured Projects</h2>
+        <h2>{{ site.data.labels.featured-projects[page.lang] }}</h2>
 	</header>
 	<div class="features">
-	{% assign posts = site.categories.articles | where: "lang", page.lang %}
+	{% assign posts = site.categories.focusprojects | where: "lang", page.lang %}
 	{% for post in posts limit:4 %}
 		<article>
 			<span class="icon {{ post.icon }}"></span>
@@ -24,7 +24,7 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>News</h2>
+        <h2>{{ site.data.labels.news[page.lang] }}</h2>
 	</header>
 	<div class="posts">
     {% assign posts = site.posts | where: "lang", page.lang %}
@@ -35,7 +35,7 @@ layout: default
 			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 			<p>{{ post.excerpt }}</p>
 			<ul class="actions">
-				<li><a href="{{ site.baseurl }}{{ post.url }}" class="button">More</a></li>
+                <li><a href="{{ site.baseurl }}{{ post.url }}" class="button">{{ site.data.labels.read-more[page.lang] }}</a></li>
 			</ul>
 		</article>
 		{% endunless %}
