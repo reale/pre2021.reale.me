@@ -36,6 +36,10 @@ blockchain:
     en: "Blockchain"
     fr: "Blockchain"
     it: "Blockchain"
+blog:
+    en: "Blog"
+    fr: "Blog"
+    it: "Blog"
 book-reviews:
     en: "Book Reviews"
     fr: "Book Reviews"
