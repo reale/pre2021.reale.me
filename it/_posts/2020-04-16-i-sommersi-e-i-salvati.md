@@ -7,7 +7,7 @@ categories: [publications, articles, focus]
 tags: []
 image: /assets/images/2020-04-16-i-sommersi-e-i-salvati.jpg
 publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/da-questa-crisi-mi-pare-ormai-evidente-che-ne-usciranno-bene-due-categorie-di-soggetti-quelli-che-b85b330abee6?source=friends_link&sk=2866c152b174908e5e66b33f2463bce3
+canonical: https://medium.com/coerenza/da-questa-crisi-mi-pare-ormai-evidente-che-ne-usciranno-bene-due-categorie-di-soggetti-quelli-che-b85b330abee6
 archive:
 ---
 
