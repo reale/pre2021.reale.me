@@ -1,13 +1,14 @@
 ---
 layout: publication
-title: Mariana Mazzucato, The Entrepreneurial State
+title: "Rileggere \"Lo stato innovatore\""
 lang: it
-ref: mazzucato-the-entrepreneurial-state
-categories: [book-reviews]
+ref: rileggere-lo-stato-innovatore
+categories: [publications, articles]
 tags: []
-image: /assets/images/2020-04-06-mazzucato-the-entrepreneurial-state.jpg
-publication:
+image: /assets/images/2020-04-06-rileggere-lo-stato-innovatore.jpg
+publication: "Coerenza eventuale"
 canonical:
+archive:
 ---
 
 Rileggere "The Entrepreneurial State" di Mariana Mazzucato in tempi di pandemia.
