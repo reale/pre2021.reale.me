@@ -1,6 +1,7 @@
 ---
 layout: publication
 title: "Dammi tre parole"
+date: 2020-03-29
 lang: it
 ref: dammi-tre-parole
 categories: [publications, articles]
