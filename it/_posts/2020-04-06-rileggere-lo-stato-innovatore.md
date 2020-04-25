@@ -7,7 +7,7 @@ categories: [publications, articles]
 tags: []
 image: /assets/images/2020-04-06-rileggere-lo-stato-innovatore.jpg
 publication: "Coerenza eventuale"
-canonical:
+canonical: https://medium.com/coerenza/rileggere-lo-stato-innovatore-a8f08aa4dd88
 archive:
 ---
 
