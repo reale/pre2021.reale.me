@@ -5,9 +5,9 @@ lang: it
 ref: dammi-tre-parole
 categories: [publications, articles]
 tags: []
-image: /assets/images/
+image: /assets/images/2020-03-29-dammi-tre-parole.jpg
 publication: "Coerenza eventuale"
-canonical:
+canonical: https://medium.com/coerenza/dammi-tre-parole-fc8c93f2055d
 archive:
 ---
 
