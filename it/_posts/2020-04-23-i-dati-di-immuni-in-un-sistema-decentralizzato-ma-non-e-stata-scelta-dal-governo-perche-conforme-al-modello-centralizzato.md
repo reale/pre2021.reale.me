@@ -16,7 +16,7 @@ Modello di raccolta dei dati centralizzato o decentralizzato? Stefano Zanero e R
 
 L'app **Immuni** è stata scelta dal Governo perché basata su un protocollo di contact tracing che, banalmente, chiamiamo A, ma ora leggendo *IlSole24Ore* si scopre che seguirà il modello B. È il nuovo colpo di scena della saga Immuni, l'applicazione su cui il Governo punta per la fase 2 ad identificare individui potenzialmente infetti dal **Covid-19** prima che emergano sintomi.
 
-### Immuni scelta dal Governo *"per la conformità al modello europeo delineato dal Consorzio PEPP-PT e per le garanzie che offre per il rispetto della privacy"
+### Immuni scelta dal Governo *"per la conformità al modello europeo delineato dal Consorzio PEPP-PT e per le garanzie che offre per il rispetto della privacy"*
 
 Ad oggi sono pochi i motivi per i quali il Governo ha scelto Immuni, l'app proposta dalla società **Bending Spoons**. [Dall'ordinanza](https://www.key4biz.it/wp-content/uploads/2020/04/covid-app.pdf.pdf) firmata dal Commissario straordinario per l'emergenza Covid-19, **Domenico Arcuri**, si legge che Immuni *"...è stata ritenuta più idonea per la sua capacità di contribuire tempestivamente all'azione di contrasto del virus, per la conformità al modello europeo delineato dal Consorzio [PEPP-PT](https://www.pepp-pt.org/) e per le garanzie che offre per il rispetto della privacy"*. **Bending Spoons** aderisce al Consorzio Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT).
 
@@ -24,7 +24,7 @@ Ad oggi sono pochi i motivi per i quali il Governo ha scelto Immuni, l'app propo
 
 È una coalizione europea di ricercatori, che punta a creare un approccio standardizzato per le app di tracciamento basato su Bluetooth, ma sul modello centralizzato (soft) dei dati: ossia il server attribuisce un codice specifico per ogni app scaricata sullo smartphone e mantiene un elenco di questi codici, che non rivelano l'identità degli utenti. Invece il protocollo Decentralised Privacy-Preserving Proximity Tracing (**DP-3T**) sostiene una raccolta dati decentralizzata attraverso l'app per il tracciamento dei contagiati dal virus, ma non attribuisce a chi scaricherà l'app un codice specifico. In sostanza, la crittografia-generazione delle chiavi avviene direttamente sui dispositivi degli utenti e non sui server.
 
-Leggendo il [*Sole24Ore*](https://www.ilsole24ore.com/art/l-app-immuni-cambia-seguira-modello-decentralizzato-apple-e-google-ADcBF4L)* si scopre che *"L'app Immuni cambia. Seguirà il modello decentralizzato di Apple e Google. Una scelta ormai definitiva. E anche obbligata per tutelare con maggiore forza la privacy e la sicurezza dei dati"*.
+Leggendo il [*Sole24Ore*](https://www.ilsole24ore.com/art/l-app-immuni-cambia-seguira-modello-decentralizzato-apple-e-google-ADcBF4L) si scopre che *"L'app Immuni cambia. Seguirà il modello decentralizzato di Apple e Google. Una scelta ormai definitiva. E anche obbligata per tutelare con maggiore forza la privacy e la sicurezza dei dati"*.
 
 In attesa di avere una conferma ufficiale da parte del Governo su questa virata improvvisa sul modello di raccolta dei dati decentralizzato, domandiamo:
 
@@ -37,13 +37,13 @@ Il sistema di *contact tracing*, si legge nel documento, dovrà essere finali
 
 ### Quali le differenze tra archiviazione dei dati centralizzato e decentralizzato
 
-**Stefano Zanero: "la decentralizzazione elimina un punto di fallimento centrale che avrebbe potuto essere oggetto dell'attacco di aggressori informatici"?**
+**Stefano Zanero: _"la decentralizzazione elimina un punto di fallimento centrale che avrebbe potuto essere oggetto dell'attacco di aggressori informatici"?_**
 
 *"A parità di informazioni raccolte, quindi con la stessa efficacia, la decentralizzazione sostanzialmente riduce a zero le informazioni che possono compromettere l'identità degli utenti, i loro incontri, o che possono consentire di creare elenchi di infettati, salvo che al personale sanitario"*, chiarisce a Key4biz **Stefano Zanero**, professore associato di sicurezza informatica del **Politecnico di Milano**.
 
 *"Inoltre"*, conclude Zanero, la decentralizzazione *"elimina un punto di fallimento centrale che avrebbe potuto essere oggetto dell'attacco di aggressori informatici. Un sistema distribuito è molto meno attraente dal punto di vista di un aggressore.*"*
 
-**Roberto Reale: "Nel modello decentralizzato nessuno conosce i contatti di tutti gli utenti"**
+**Roberto Reale: _"Nel modello decentralizzato nessuno conosce i contatti di tutti gli utenti"_**
 
 *"Non è tanto questione di sicurezza, ma di privacy"*, spiega a *Key4biz* **Roberto Reale**, ICT & EU project manager, *"nel modello decentralizzato nessuno conosce i contatti di tutti gli utenti, ma ciascun utente conosce i propri. Quando X risulta positivo, un suo identificativo anonimo, DP-3T lo chiama EphID, viene reso pubblico (molto probabilmente previo consenso): così tutti gli utenti possono, in modo automatico, verificare se sono stati in contatto con X, senza chiaramente sapere chi sia X".*
 
