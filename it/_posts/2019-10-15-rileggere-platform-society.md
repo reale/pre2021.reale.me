@@ -3,7 +3,7 @@ layout: publication
 title: "Rileggere \"Platform Society\""
 lang: it
 ref: rileggere-platform-society
-categories: [publications, article]
+categories: [publications, articles]
 tags:
 image:
 publication: "Coerenza eventuale"
