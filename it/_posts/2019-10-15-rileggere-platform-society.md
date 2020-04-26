@@ -5,7 +5,7 @@ lang: it
 ref: rileggere-platform-society
 categories: [publications, article]
 tags:
-image: /assets/images/
+image:
 publication: "Coerenza eventuale"
 canonical:
 archive:
