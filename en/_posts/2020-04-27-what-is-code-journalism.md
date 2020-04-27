@@ -20,4 +20,4 @@ Data journalism, after all, is just one ingredient of the recipe. Code journalis
 
 In an [article](https://code.likeagirl.io/code-and-journalism-today-ce8909628ce5) on Medium, Mindy McAdams recognises that coding is storytelling as much as writing or video making, yet she fails to understand that coding is not just another tool up the sleeve of the digital journalist. Code journalism is more of a unique way of interacting with the entangled fabric of the infosphere, a manner of not only describing things, but of making events happen.
 
-And this goes well beyond storytelling. I used coding to actually push for something to happen, to make pressure on public authorities, to engage stakeholders on what I believe to be for the best. As Oriana Fallaci used to suggest, journalism at its core does not tell a story. *It makes history happen.*
+And this goes well beyond storytelling. I used coding to actually push for something to happen, to make pressure on public authorities, to engage stakeholders on what I believe to be for the best. As Oriana Fallaci used to suggest, journalism at its core does not tell stories. *It makes history happen.*
