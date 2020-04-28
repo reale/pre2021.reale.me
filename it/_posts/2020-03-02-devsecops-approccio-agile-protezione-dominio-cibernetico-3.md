@@ -3,7 +3,7 @@ layout: publication
 title: "DevSecOps: l’approccio agile alla protezione del dominio cibernetico – Parte 3"
 lang: it
 ref: ofcs-devsecops-3
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: []
 image: /assets/images/2020-03-02-devsecops-approccio-agile-protezione-dominio-cibernetico-3.jpg
 coauthors: [ "D. Maniscalco" ]
