@@ -4,5 +4,5 @@ title: Homepage
 description: Homepage
 lang: en
 ref: homepage
-permalink: /
+permalink: /en/
 ---
