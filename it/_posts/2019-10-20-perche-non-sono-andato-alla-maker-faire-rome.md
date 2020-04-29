@@ -4,10 +4,10 @@ title: "Perché non sono andato alla Maker Faire Rome"
 lang: it
 ref: perche-non-sono-andato-alla-maker-faire-rome
 categories: [publications, articles]
-tags:
+tags: [innovation, makers, maker faire rome, italy, tech]
 image: /assets/images/2019-10-20-perche-non-sono-andato-alla-maker-faire-rome.jpg
 publication: "Coerenza eventuale"
-canonical:
+canonical: https://medium.com/coerenza/perche-non-sono-andato-alla-maker-faire-rome-6771165ad6bd
 archive:
 ---
 
