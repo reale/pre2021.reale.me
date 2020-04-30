@@ -72,6 +72,14 @@ egov:
     en: "E-government"
     fr: "E-government"
     it: "E-government"
+email-address:
+    en: "Email address"
+    fr: "Adresse e-mail"
+    it: "Email"
+email-address-placeholder:
+    en: "email@domain.tld"
+    fr: "email@domain.tld"
+    it: "email@domain.tld"
 english:
     en: "English"
     fr: "Anglais"
@@ -116,6 +124,10 @@ me-in-a-nutshell:
     en: "Me in a Nutshell"
     fr: "Moi en bref"
     it: "Io in breve"
+message:
+    en: "Message"
+    fr: "Message"
+    it: "Messaggio"
 misc:
     en: "Misc"
     fr: "Misc"
@@ -132,6 +144,14 @@ my-story:
     en: "My Story"
     fr: "Mon histoire"
     it: "La mia storia"
+name:
+    en: "Name"
+    fr: "Nom"
+    it: "Nome"
+name-placeholder:
+    en: "Name"
+    fr: "Nom"
+    it: "Nome"
 news:
     en: "News"
     fr: "News"
@@ -176,6 +196,10 @@ software:
     en: "Software"
     fr: "Logiciels"
     it: "Software"
+submit:
+    en: "Submit"
+    fr: "Envoyer"
+    it: "Invia"
 talks:
     en: "Talks"
     fr: "Talks"

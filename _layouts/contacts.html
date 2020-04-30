@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+<div>
+    <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/{{ site.email }}" method="post">
+        <fieldset id="fs-frm-inputs">
+            <label for="full-name">{{ site.data.labels.name[page.lang] }}</label>
+            <input type="text" name="name" id="full-name" placeholder="{{ site.data.labels.name-placeholder[page.lang] }}" required="">
+            <label for="email-address">{{ site.data.labels.email-address[page.lang] }}</label>
+            <input type="email" name="_replyto" id="email-address" placeholder="{{ site.data.labels.email-address-placeholder[page.lang] }}" required="">
+            <label for="message">{{ site.data.labels.message[page.lang] }}</label>
+            <textarea rows="5" name="message" id="message" required=""></textarea>
+            <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+        </fieldset>
+        <input type="submit" value="{{ site.data.labels.submit[page.lang] }}">
+    </form>
+</div>
