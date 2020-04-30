@@ -5,9 +5,9 @@ lang: it
 ref: fare-digitale
 categories: [publications, articles]
 tags:
-image: /assets/images/
+image: /assets/images/2019-09-06-fare-digitale.jpg
 publication: "Coerenza eventuale"
-canonical:
+canonical: https://medium.com/coerenza/fare-digitale-fe6b4ef2adeb
 archive:
 ---
 
