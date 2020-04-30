@@ -2,12 +2,12 @@
 layout: publication
 title: "La politica metta al centro l'innovazione"
 lang: it
-ref:
+ref: la-politica-metta-al-centro-linnovazione
 categories: [publications, articles]
 tags:
-image: /assets/images/
+image: /assets/images/2019-09-08-la-politica-metta-al-centro-linnovazione.jpg
 publication: "Coerenza eventuale"
-canonical:
+canonical: https://medium.com/coerenza/la-politica-metta-al-centro-linnovazione-aa8b5748bc8e
 archive:
 ---
 
