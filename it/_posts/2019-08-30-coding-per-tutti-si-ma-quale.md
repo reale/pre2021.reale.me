@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Coding per tutti: ma quale?"
+title: "Coding per tutti: sì, ma quale?"
 lang: it
 ref:
 categories: [publications, articles]
