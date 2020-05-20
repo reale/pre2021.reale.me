@@ -4,7 +4,7 @@ title: "Senza filtro"
 lang: it
 ref: senza-filtro
 categories: [publications, articles]
-tags:
+tags: []
 image: /assets/images/
 publication: "Coerenza eventuale"
 canonical:
