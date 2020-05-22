@@ -2,12 +2,12 @@
 layout: publication
 title: "Coding per tutti: sì, ma quale?"
 lang: it
-ref:
+ref: coding-per-tutti-si-ma-quale
 categories: [publications, articles]
-tags:
-image: /assets/images/
+tags: [coding, society, tech, learning, schools]
+image: /assets/images/2019-08-30-coding-per-tutti-si-ma-quale.jpg
 publication: "Coerenza eventuale"
-canonical:
+canonical: https://medium.com/coerenza/coding-per-tutti-s%C3%AC-ma-quale-4fe5cb007778
 archive:
 ---
 
