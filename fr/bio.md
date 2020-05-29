@@ -17,4 +17,4 @@ En prononçant des discours lors de conférences et de réunions dans toute l'Eu
 
 Fondateur d'<a href="https://eutopian.eu" target="_blank">Eutopian</a>, un groupe de réflexion axé sur la citoyenneté numérique, je crois en la technologie en tant que catalyseur de la démocratie.
 
-Je vis à Rome.
+Je vis à Bruxelles.

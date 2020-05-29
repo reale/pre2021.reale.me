@@ -21,4 +21,4 @@ Mi dedico a un'intensa attività di divulgazione in conferenze e meeting in tutt
 
 Sono fondatore di <a href="https://eutopian.eu" target="_blank">Eutopian</a>, un think tank sulla cittadinanza digitale, in quanto credo nella tecnologia come fattore abilitante per la democrazia.
 
-Attualmente vivo a Roma.
+Vivo a Bruxelles.

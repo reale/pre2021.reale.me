@@ -17,4 +17,4 @@ By delivering keynotes in conferences and meetings throughout Europe and by cond
 
 As the proud founder of <a href="https://eutopian.eu" target="_blank">Eutopian</a>, a think tank focused on the digital citizenship, I believe in technology as an enabler for democracy.
 
-Currently I live in Rome, Italy.
+Currently I live in Brussels, Belgium.
