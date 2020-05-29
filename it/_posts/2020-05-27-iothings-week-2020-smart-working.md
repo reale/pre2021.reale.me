@@ -5,7 +5,7 @@ lang: it
 ref: iothings-week-2020-smart-working
 categories: [talks]
 tags: []
-image: /assets/images/2020-05-27-iothings-week-2020-smart-working
+image: /assets/images/2020-05-27-iothings-week-2020-smart-working.jpg
 conference: "IOThings Week 2020"
 location: online
 ---
