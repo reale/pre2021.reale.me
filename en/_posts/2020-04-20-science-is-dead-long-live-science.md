@@ -3,7 +3,7 @@ layout: publication
 title: "Science is dead. Long live science."
 lang: en
 ref: science-is-dead-long-live-science
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: []
 image: /assets/images/2020-04-20-science-is-dead-long-live-science.jpg
 publication: "Eventual Consistency"

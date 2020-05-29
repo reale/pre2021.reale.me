@@ -3,7 +3,7 @@ layout: publication
 title: "I dati di Immuni “in un sistema decentralizzato”. Ma non è stata scelta dal Governo perché conforme al modello centralizzato?"
 lang: it
 ref: i-dati-di-immuni-in-un-sistema-decentralizzato-ma-non-e-stata-scelta-dal-governo-perche-conforme-al-modello-centralizzato
-categories: [publications, articles, focus]
+categories: [publications, articles]
 coauthors: [ "Luigi Garofalo" ]
 tags: []
 image: /assets/images/2020-04-23-i-dati-di-immuni-in-un-sistema-decentralizzato-ma-non-e-stata-scelta-dal-governo-perche-conforme-al-modello-centralizzato.jpg

@@ -3,7 +3,7 @@ layout: publication
 title: "Earth Day, il giorno dopo"
 lang: it
 ref: earth-day-il-giorno-dopo
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid-19, contact tracing]
 image: /assets/images/2020-04-23-earth-day-il-giorno-dopo.jpg
 publication: "Coerenza eventuale"

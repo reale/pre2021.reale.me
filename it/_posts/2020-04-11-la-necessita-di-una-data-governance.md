@@ -3,7 +3,7 @@ layout: publication
 title: "La necessità di una data governance"
 lang: it
 ref: necessita-di-una-data-governance
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: []
 image: /assets/images/2020-04-11-la-necessita-di-una-data-governance.jpg
 publication: CryptoRivista

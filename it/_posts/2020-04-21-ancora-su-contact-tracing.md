@@ -3,7 +3,7 @@ layout: publication
 title: "Ancora su contact tracing"
 lang: it
 ref: ancora-su-contact-tracing
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid-19, contact tracing]
 image: /assets/images/2020-04-21-ancora-su-contact-tracing.png
 publication: "Coerenza eventuale"

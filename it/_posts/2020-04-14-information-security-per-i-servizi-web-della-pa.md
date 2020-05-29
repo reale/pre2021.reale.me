@@ -3,7 +3,7 @@ layout: publication
 title: "Information security per i servizi web della PA"
 lang: it
 ref: information-security-per-i-servizi-web-della-pa
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: []
 image: /assets/images/2020-04-14-information-security-per-i-servizi-web-della-pa.jpg
 publication: OFCS.Report

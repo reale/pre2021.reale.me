@@ -3,7 +3,7 @@ layout: publication
 title: "Blockchain ed Europa: tre passi avanti"
 lang: it
 ref: blockchain-ed-europa-tre-passi-avanti
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: []
 image: /assets/images/2020-03-23-blockchain-ed-europa-tre-passi-avanti.jpg
 publication: CryptoRivista

@@ -3,7 +3,7 @@ layout: publication
 title: "Lavoro agile: è stato solo un sogno?"
 lang: it
 ref: lavoro-agile-e-stato-solo-un-sogno
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid-19, italy]
 image: /assets/images/2020-04-26-lavoro-agile-e-stato-solo-un-sogno.jpg
 publication: "Coerenza eventuale"

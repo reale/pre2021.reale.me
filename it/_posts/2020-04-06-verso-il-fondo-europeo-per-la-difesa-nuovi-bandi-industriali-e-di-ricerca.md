@@ -3,7 +3,7 @@ layout: publication
 title: "Verso il Fondo Europeo per la Difesa: nuovi bandi industriali e di ricerca"
 lang: it
 ref: verso-il-fondo-europeo-per-la-difesa-nuovi-bandi-industriali-e-di-ricerca
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: []
 image: /assets/images/2020-04-06-verso-il-fondo-europeo-per-la-difesa-nuovi-bandi-industriali-e-di-ricerca.jpg
 publication: OFCS.Report

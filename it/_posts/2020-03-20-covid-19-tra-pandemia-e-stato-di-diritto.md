@@ -3,7 +3,7 @@ layout: publication
 title: "Covid-19: tra pandemia e stato di diritto"
 lang: it
 ref: covid-19-tra-pandemia-e-stato-di-diritto
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: []
 image: /assets/images/2020-03-20-covid-19-tra-pandemia-e-stato-di-diritto.jpg
 coauthors:

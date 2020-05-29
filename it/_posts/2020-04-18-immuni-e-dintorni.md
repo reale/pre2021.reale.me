@@ -3,7 +3,7 @@ layout: publication
 title: "Immuni e dintorni"
 lang: it
 ref: immuni-e-dintorni
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid-19, contact tracing]
 image: /assets/images/2020-04-18-immuni-e-dintorni.jpg
 publication: "Coerenza eventuale"

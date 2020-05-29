@@ -3,7 +3,7 @@ layout: publication
 title: "What is Code Journalism?"
 lang: en
 ref: what-is-code-journalism
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: []
 image: /assets/images/2020-04-27-what-is-code-journalism.jpg
 publication: "Eventual Consistency"

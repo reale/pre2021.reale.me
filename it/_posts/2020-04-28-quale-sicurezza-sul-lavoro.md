@@ -3,7 +3,7 @@ layout: publication
 title: "Quale sicurezza sul lavoro?"
 lang: it
 ref: quale-sicurezza-sul-lavoro
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid-19, italy]
 image: /assets/images/2020-04-28-quale-sicurezza-sul-lavoro.jpg
 publication: "Coerenza eventuale"

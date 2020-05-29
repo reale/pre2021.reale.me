@@ -3,7 +3,7 @@ layout: publication
 title: "I sommersi e i salvati"
 lang: it
 ref: i-sommersi-e-i-salvati
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: []
 image: /assets/images/2020-04-16-i-sommersi-e-i-salvati.jpg
 publication: "Coerenza eventuale"
