@@ -5,7 +5,7 @@ lang: it
 ref: in-principio-era-il-codice
 categories: [talks]
 tags: []
-image: /assets/images/cover.jpg
+image: /assets/images/2019-09-25-in-principio-era-il-codice.png
 conference: "Dai Codici al Coding. Per un'educazione digitale"
 location: Rome
 media:
