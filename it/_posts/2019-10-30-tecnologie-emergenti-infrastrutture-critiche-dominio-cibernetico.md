@@ -10,7 +10,7 @@ conference: "IGF Italia 2019"
 location: Torino
 media:
   website: http://www.igfitalia2019.polito.it/documenti/tecnologie_emergenti_infrastrutture_critiche_e_dominio_cibernetico
-  archive:
+  archive: http://web.archive.org/web/*/http://www.igfitalia2019.polito.it/documenti/tecnologie_emergenti_infrastrutture_critiche_e_dominio_cibernetico
 ---
 
 Il workshop esamina le opportunità e le criticità delle tecnologie emergenti (blockchain, internet of things, intelligenza artificiale) con particolare attenzione ai temi della governance, della cybersecurity e della gestione dei dati e delle informazioni (data security e privacy by design) in ottica di applicazione nello scenario operativo per la sicurezza nazionale rappresentato dal dominio cibernetico.
