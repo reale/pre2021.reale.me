@@ -10,7 +10,7 @@ publication: Cohérence éventuelle
 canonical: https://medium.com/coherence-eventuelle/tra%C3%A7age-des-contacts-protocole-maison-ou-soumission-%C3%A0-google-et-apple-23c83c7366fa
 ---
 
-La Belgique opte pour une application traçage des contacts, ou contact tracing (ou encore mieux exposure notification) que sera basée sur une approche décentralisée. Selon *L’Écho* et *De Tijd* le coup d’envoi surviendra au cours de l’été — beaucoup plus tard que en Italie ou en France. Le groupe de travail interfédéral entend « reprendre 80 % du travail » de la Suisse et de l’Autriche (et de façon implicite de l’Italie, avec sa application Immuni).
+La Belgique opte pour une application traçage des contacts, ou contact tracing (ou encore mieux exposure notification) que sera basée sur une approche décentralisée. Selon *L’Écho* et *De Tijd* le coup d’envoi surviendra au cours de l’été — beaucoup plus tard que en Italie ou en France. Le groupe de travail interfédéral entend « reprendre 80 % du travail » de la Suisse et de l’Autriche (et de façon implicite de l’Italie, avec son application Immuni).
 
 C’est important, parce que malheureusement le StopCovid français, qui repose sur le protocole maison ROBERT développé par l’Inria et le Fraunhofer, montre très rapidement ses limites et ne sera pas interopérable avec d’autres applications des pays frontaliers en Europe. En d’autre terms, ce sont Google et Apple qui fixent le règles, une fois encore et sur une dimension globale.
 
