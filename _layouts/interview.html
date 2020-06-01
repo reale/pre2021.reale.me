@@ -29,6 +29,13 @@ layout: default
         </tr>
         {% endif %}
 
+        {% if page.author %}
+        <tr>
+            <td>{{ site.data.labels.author[page.lang] }}</td>
+            <td>{% page.author %}</td>
+        </tr>
+        {% endif %}
+
         {% if page.coauthors %}
         <tr>
             <td>{{ site.data.labels.coauthors[page.lang] }}</td>
