@@ -230,8 +230,8 @@ theses:
     it: "Tesi"
 this-blog-is-available-also-on:
     en: "This blog is available also on"
-    fr: ""
-    it: ""
+    fr: "Ce blog est également disponible sur"
+    it: "Questo blog è disponibile anche su"
 trivia:
     en: "Trivia"
     fr: "Trivia"
