@@ -6,6 +6,8 @@ ref: architecture-digital-information
 categories: [publications, articles]
 tags: []
 image: /assets/images/2016-06-20-architecture-digital-information.jpg
+publication: Cohérence éventuelle
+canonical: https://medium.com/coherence-eventuelle/architecture-et-information-num%C3%A9rique-5e82771f958d
 ---
 
 Dans quelle mesure organiser, structurer et mettre à disposition l’accès à l’information numérique est faire de l’architecture?
