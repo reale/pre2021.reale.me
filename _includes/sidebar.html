@@ -51,7 +51,13 @@
                         <li><a href="{{ page.lang | append: '/datalab#wordclouds' | absolute_url }}">{{ site.data.labels.wordclouds[page.lang] }}</a></li>
                     </ul>
                 </li>
-                <li><a href="{{ page.lang | append: '/interviews' | absolute_url }}">{{ site.data.labels.interviews[page.lang] }}</a></li>
+                <li>
+                    <span class="opener">{{ site.data.labels.interviews[page.lang] }}</span>
+                    <ul>
+                        <li><a href="{{ page.lang | append: '/interviews#same-language' | absolute_url }}">{{ site.data.labels.interviews-same-language[page.lang] }}</a></li>
+                        <li><a href="{{ page.lang | append: '/interviews#other-languages' | absolute_url }}">{{ site.data.labels.interviews-other-languages[page.lang] }}</a></li>
+                    </ul>
+                </li>
                 <li><a href="{{ page.lang | append: '/affiliations' | absolute_url }}">{{ site.data.labels.affiliations[page.lang] }}</a></li>
                 <li>
                     <span class="opener">{{ site.data.labels.trivia[page.lang] }}</span>

@@ -112,6 +112,14 @@ interviews:
     en: "Interviews"
     fr: "Entrevues"
     it: "Interviste"
+interviews-other-languages:
+    en: "Interviews in other languages"
+    fr: "Entrevues d'autres langues"
+    it: "Interviste in altre lingue"
+interviews-same-language:
+    en: "Interviews in English"
+    fr: "Entrevues en français"
+    it: "Interviste in italiano"
 italian:
     en: "Italian"
     fr: "Italien"
