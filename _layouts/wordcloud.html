@@ -1,62 +1,32 @@
-<!DOCTYPE HTML>
-<!--
-    Editorial by HTML5 UP
-    html5up.net | @ajlkn
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+---
+layout: default
+---
 
-    {% include head.html %}
+<section>
+    <header class="main">
+        <h1>{{ page.title }}</h1>
+    </header>
 
-    <body>
+    <span class="image main"><img src="{{ page.image | absolute_url }}" alt="{{ page.image_alt }}" /></span>
 
-        <!-- Wrapper -->
-        <div id="wrapper">
+    <table>
+        <tr>
+            <td>Source</td>
+            <td><a href="{{ page.source }}" target="_blank">{{ page.source }}</a></td>
+        </tr>
+        <tr>
+            <td>Stopwords</td>
+            <td><a href="{{ page.stopwords }}" target="_blank">{{ page.stopwords }}</a></td>
+        </tr>
+        <tr>
+            <td>Tool</td>
+            <td><a href="{{ page.tool }}" target="_blank">{{ page.tool }}</a></td>
+        </tr>
+        <tr>
+            <td>Raw</td>
+            <td><a href="{{ page.raw | absolute_url}}" target="_blank">{{ page.raw | absolute_url }}</a></td>
+        </tr>
+    </table>
 
-            <!-- Main -->
-            <div id="main">
-                <div class="inner">
-
-                    {% include header.html %}
-
-                    <!-- Content -->
-                    <section>
-                        <header class="main">
-                            <h1>{{ page.title }}</h1>
-                        </header>
-
-                        <span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
-
-                        <table>
-                            <tr>
-                                <td>Source</td>
-                                <td><a href="{{ page.source }}" target="_blank">{{ page.source }}</a></td>
-                            </tr>
-                            <tr>
-                                <td>Stopwords</td>
-                                <td><a href="{{ page.stopwords }}" target="_blank">{{ page.stopwords }}</a></td>
-                            </tr>
-                            <tr>
-                                <td>Tool</td>
-                                <td><a href="{{ page.tool }}" target="_blank">{{ page.tool }}</a></td>
-                            </tr>
-                            <tr>
-                                <td>Raw</td>
-                                <td><a href="{{ page.raw | absolute_url}}" target="_blank">{{ page.raw | absolute_url }}</a></td>
-                            </tr>
-                        </table>
-
-                        {{ content }}
-
-                </div>
-            </div>
-
-            {% include sidebar.html %}
-
-        </div>
-
-        {% include footer.html %}
-
-    </body>
-
-</html>
+    {{ content }}
+</section>

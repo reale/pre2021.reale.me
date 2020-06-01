@@ -1,69 +1,40 @@
-<!DOCTYPE HTML>
-<!--
-    Editorial by HTML5 UP
-    html5up.net | @ajlkn
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+---
+layout: default
+---
 
-    {% include head.html %}
+<section>
+    <header class="main">
+        <h1>{{ page.title }}</h1>
+    </header>
 
-    <body>
+    {% if page.image %}
+    <span class="image main"><img src="{{ page.image | absolute_url }}" alt="{{ page.image_alt }}" /></span>
+    {% endif %}
 
-        <!-- Wrapper -->
-        <div id="wrapper">
+    {{ content }}
 
-            <!-- Main -->
-            <div id="main">
-                <div class="inner">
+    <table>
+        {% if page.others.github %}
+        <tr>
+            <td>{{ site.data.labels.project-repo[page.lang] }}</td>
+            <td><a href="{{ page.others.github }}" target="_blank">GitHub</a></td>
+        </tr>
+        {% endif %}
+        {% if page.others.youtube %}
+        <tr>
+            <td>{{ site.data.labels.project-media[page.lang] }}</td>
+            <td><a href="{{ page.others.youtube }}" target="_blank">YouTube</a></td>
+        </tr>
+        {% endif %}
 
-                    {% include header.html %}
-
-                    <!-- Content -->
-                    <section>
-                        <header class="main">
-                            <h1>{{ page.title }}</h1>
-                        </header>
-
-                        {% if page.image %}
-                        <span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
-                        {% endif %}
-
-                        {{ content }}
-
-                        <table>
-                            {% if page.others.github %}
-                            <tr>
-                                <td>{{ site.data.labels.project-repo[page.lang] }}</td>
-                                <td><a href="{{ page.others.github }}" target="_blank">GitHub</a></td>
-                            </tr>
-                            {% endif %}
-                            {% if page.others.youtube %}
-                            <tr>
-                                <td>{{ site.data.labels.project-media[page.lang] }}</td>
-                                <td><a href="{{ page.others.youtube }}" target="_blank">YouTube</a></td>
-                            </tr>
-                            {% endif %}
-
-                            {% if page.ref %}
-                                {% assign posts_in_other_langs = site.posts | where_exp: "post", "post.ref == page.ref" | where_exp: "post", "post.lang != page.lang" | sort: 'lang' | reverse %}
-                                {% if posts_in_other_langs.size > 0 %}
-                                <tr>
-                                    <td>{{ site.data.labels.also-available[page.lang] }}</td>
-                                    <td>{% for linked_post in posts_in_other_langs %}<a href="{{ linked_post | absolute_url }}">{{ site.data.languages[linked_post.lang].icon }} {{ site.data.languages[linked_post.lang].label }}</a>{% endfor %}</td>
-                                </tr>
-                                {% endif %}
-                            {% endif %}
-                        </table>
-                </div>
-            </div>
-
-            {% include sidebar.html %}
-
-        </div>
-
-        {% include footer.html %}
-
-    </body>
-
-</html>
+        {% if page.ref %}
+        {% assign posts_in_other_langs = site.posts | where_exp: "post", "post.ref == page.ref" | where_exp: "post", "post.lang != page.lang" | sort: 'lang' | reverse %}
+        {% if posts_in_other_langs.size > 0 %}
+        <tr>
+            <td>{{ site.data.labels.also-available[page.lang] }}</td>
+            <td>{% for linked_post in posts_in_other_langs %}<a href="{{ linked_post | absolute_url }}">{{ site.data.languages[linked_post.lang].icon }} {{ site.data.languages[linked_post.lang].label }}</a>{% endfor %}</td>
+        </tr>
+        {% endif %}
+        {% endif %}
+    </table>
+</section>

@@ -1,56 +1,27 @@
-<!DOCTYPE HTML>
-<!--
-    Editorial by HTML5 UP
-    html5up.net | @ajlkn
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+---
+layout: default
+---
 
-    {% include head.html %}
+<section>
+    <header class="main">
+        <h1>Work experience: {{ page.title }}</h1>
+    </header>
 
-    <body>
+    <table>
+        <tr>
+            <td>Employer</td>
+            <td><a href="{{ page.employer.website }}" target="_blank">{{ page.employer.name }}</a></td>
+        </tr>
+        <tr>
+            <td>Period</td>
+            <td><a href="{{ page.period }}" target="_blank">{{ page.period }}</a></td>
+        </tr>
+    </table>
 
-        <!-- Wrapper -->
-        <div id="wrapper">
+    {{ content }}
 
-            <!-- Main -->
-            <div id="main">
-                <div class="inner">
+    {% if page.image %}
+    <span class="image main"><img src="{{ page.image | absolute_url }}" alt="{{ page.image_alt }}" /></span>
+    {% endif %}
 
-                    {% include header.html %}
-
-                    <!-- Content -->
-                    <section>
-                        <header class="main">
-                            <h1>Work experience: {{ page.title }}</h1>
-                        </header>
-
-                        <table>
-                            <tr>
-                                <td>Employer</td>
-                                <td><a href="{{ page.employer.website }}" target="_blank">{{ page.employer.name }}</a></td>
-                            </tr>
-                            <tr>
-                                <td>Period</td>
-                                <td><a href="{{ page.period }}" target="_blank">{{ page.period }}</a></td>
-                            </tr>
-                        </table>
-
-                        {{ content }}
-
-                        {% if page.image %}
-                        <span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
-                        {% endif %}
-
-                </div>
-            </div>
-
-            {% include sidebar.html %}
-
-        </div>
-
-        {% include footer.html %}
-
-    </body>
-
-</html>
+</section>

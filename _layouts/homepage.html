@@ -2,43 +2,45 @@
 layout: default
 ---
 
+{% include banner.html %}
+
 <!-- Section -->
 <section>
-	<header class="major">
+    <header class="major">
         <h2>{{ site.data.labels.featured-projects[page.lang] }}</h2>
-	</header>
-	<div class="features">
-	{% assign posts = site.categories.focusprojects | where: "lang", page.lang %}
-	{% for post in posts limit:4 %}
-		<article>
-			<span class="icon {{ post.icon }}"></span>
-			<div class="content">
-				<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-				<p>{{ post.excerpt }}</p>
-			</div>
-		</article>
-	{% endfor %}
-	</div>
+    </header>
+    <div class="features">
+        {% assign posts = site.categories.focusprojects | where: "lang", page.lang %}
+        {% for post in posts limit:4 %}
+        <article>
+            <span class="icon {{ post.icon }}"></span>
+            <div class="content">
+                <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                <p>{{ post.excerpt }}</p>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
 </section>
 
 <!-- Section -->
 <section>
-	<header class="major">
+    <header class="major">
         <h2>{{ site.data.labels.news[page.lang] }}</h2>
-	</header>
-	<div class="posts">
-    {% assign posts = site.posts | where: "lang", page.lang %}
-	{% for post in posts limit:12 %}
-		{% unless post.hidden_from_news == true %}
-		<article>
-			<a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
-			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-			<p>{{ post.excerpt }}</p>
-			<ul class="actions">
+    </header>
+    <div class="posts">
+        {% assign posts = site.posts | where: "lang", page.lang %}
+        {% for post in posts limit:12 %}
+        {% unless post.hidden_from_news == true %}
+        <article>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="{{ post.image_alt }}" /></a>
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            <p>{{ post.excerpt }}</p>
+            <ul class="actions">
                 <li><a href="{{ site.baseurl }}{{ post.url }}" class="button">{{ site.data.labels.read-more[page.lang] }}</a></li>
-			</ul>
-		</article>
-		{% endunless %}
-	{% endfor %}
-	</div>
+            </ul>
+        </article>
+        {% endunless %}
+        {% endfor %}
+    </div>
 </section>
