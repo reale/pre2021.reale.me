@@ -11,7 +11,7 @@ canonical: https://medium.com/coerenza/oltre-il-codice-ebda2a5e233f
 archive:
 ---
 
-Una settimana fa [*Open*](https://www.open.online/) mi [intervistava](https://www.open.online/2020/06/01/ecco-come-sara-immuni-app-per-contenere-i-contagi-del-coronavirus-nella-fase-2/) come presidente di [Eutopian](https://eutopian.eu/) per qualche insight sull'architettura di Immuni. Al momento dell'intervista l'app non era ancora disponibile e abbiamo dovuto basarci esclusivamente su quanto era dato prevedere dal codice sorgente e di semplici esercizi di data journalism (una query dig, una ricerca su whois fatti da mobile con Termux, per gli appassionati).
+Una settimana fa [*Open*](https://www.open.online/) mi [intervistava](https://www.open.online/2020/06/01/ecco-come-sara-immuni-app-per-contenere-i-contagi-del-coronavirus-nella-fase-2/) come presidente di [Eutopian](https://eutopian.eu/) per qualche insight sull'architettura di Immuni. Al momento dell'intervista l'app non era ancora disponibile e abbiamo dovuto basarci esclusivamente su quanto era dato prevedere dal codice sorgente e su semplici esercizi di data journalism (una query dig, una ricerca su whois fatti da mobile con Termux, per gli appassionati).
 
 Era inoltre un'importante occasione per chiarire concetti come quelli di codice sorgente e di open source che attraverso Immuni sono usciti dai circoli tech-ermeneutici e sono entrati a pieno titolo nel dibattito democratico italiano (grazie a Valerio Berra per la sensibilità sul tema).
 
