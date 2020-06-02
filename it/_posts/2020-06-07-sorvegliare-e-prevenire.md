@@ -5,7 +5,7 @@ lang: it
 ref: sorvegliare-e-prevenire
 categories: [publications, articles, focus]
 tags:
-image: /assets/images/2020-06-07-oltre-il-codice.png
+image: /assets/images/2020-06-07-sorvegliare-e-prevenire.jpg
 publication: "Coerenza eventuale"
 canonical: https://medium.com/coerenza/sorvegliare-e-prevenire-15dda929c201
 archive:

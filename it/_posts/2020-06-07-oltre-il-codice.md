@@ -5,9 +5,9 @@ lang: it
 ref: oltre-il-codice
 categories: [publications, articles, focus]
 tags:
-image: /assets/images/2020-06-07-oltre-il-codice.jpg
+image: /assets/images/2020-06-07-oltre-il-codice.png
 publication: "Coerenza eventuale"
-canonical: https://www.open.online/2020/06/01/ecco-come-sara-immuni-app-per-contenere-i-contagi-del-coronavirus-nella-fase-2/
+canonical: https://medium.com/coerenza/oltre-il-codice-ebda2a5e233f
 archive:
 ---
 
