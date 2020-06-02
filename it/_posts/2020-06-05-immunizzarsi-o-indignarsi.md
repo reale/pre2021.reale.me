@@ -7,7 +7,7 @@ categories: [publications, articles, focus]
 tags: [italy, people, society, politics, covid 19]
 image: /assets/images/2020-06-05-immunizzarsi-o-indignarsi.jpg
 publication: "Coerenza eventuale"
-canonical: https://medium.com/@reale/immunizzarsi-o-indignarsi-94e912160afd
+canonical: https://medium.com/coerenza/immunizzarsi-o-indignarsi-94e912160afd
 archive:
 ---
 
