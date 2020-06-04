@@ -5,7 +5,7 @@ lang: it
 ref: keep-calm-and-tweet-on
 categories: [publications, articles]
 tags: [society, politics, communication, social media, twitter]
-image: /assets/images/2020-06-10-immuni-nessun-obbligo-per-chi-riceve-notifica.jpg
+image: /assets/images/2018-11-23-keep-calm-and-tweet-on.jpg
 publication: "Coerenza eventuale"
 canonical: https://medium.com/coerenza/keep-calm-and-tweet-on-cc07c97da374
 archive:
