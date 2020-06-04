@@ -13,7 +13,7 @@ archive:
 
 Risposta ufficiale dal Ministero della salute: nessun obbligo per chi riceva notifica su Immuni di comunicarlo all'autorità sanitaria.
 
-Immuni quindi tutela effettivamente la privacy come promesso.
+Immuni quindi tutela effettivamente non solo la privacy come promesso, ma anche il diritto alla protezione della vita privata così come sancito dall'art. 7 della Carta europea dei diritti fondamentali.
 
 On the other hand, però, questo implica che l'onere di non trasformare Immuni in un giocattolo inutile riposa interamente sul cittadino, sul senso civico e sulla responsabilità individuale di ciascuno, senza che lo Stato stia lì a rincorrerci con droni e questurini e a sanzionarci con motivazioni spesso grottesche.
 
