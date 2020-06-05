@@ -108,6 +108,10 @@ homepage:
     en: "Homepage"
     fr: "Page d'accueil"
     it: "Home"
+interviews:
+    en: "Interviews"
+    fr: "Entrevues"
+    it: "Interviste"
 italian:
     en: "Italian"
     fr: "Italien"
