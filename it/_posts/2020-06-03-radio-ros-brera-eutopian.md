@@ -3,7 +3,7 @@ layout: publication
 title: "Intervista con Radio Ros Brera"
 lang: it
 ref:
-categories: [publications, interview]
+categories: [publications, interviews]
 tags:
 image: /assets/images/
 publication: "Coerenza eventuale"
