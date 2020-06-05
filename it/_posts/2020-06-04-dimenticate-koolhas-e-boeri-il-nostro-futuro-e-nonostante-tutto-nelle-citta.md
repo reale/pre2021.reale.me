@@ -10,9 +10,6 @@ canonical: http://www.cieloterradesign.com/dimenticate-koolhas-e-boeri-il-nostro
 archive:
 ---
 
-Dimenticate Koolhas e Boeri: il nostro futuro è (nonostante tutto) nelle città
-==============================================================================
-
 Auspici e profezie delle archistar non tengono conto della nuova dimensione digitale
 ------------------------------------------------------------------------------------
 
