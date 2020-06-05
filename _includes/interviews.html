@@ -1,6 +1,6 @@
 <section>
 	<div class="posts">
-	{% assign posts = site.categories.interviews | where: "lang", page.lang %}
+	{% assign posts = site.categories.interviews %}
 	{% for post in posts %}
 		{% unless post.categories contains 'misc' %}
 		<article>

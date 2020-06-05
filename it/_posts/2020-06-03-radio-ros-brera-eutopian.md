@@ -1,12 +1,12 @@
 ---
-layout: publication
+layout: interview
 title: "Intervista con Radio Ros Brera"
 lang: it
 ref:
 categories: [publications, interviews]
 tags:
 image: /assets/images/
-publication: "Coerenza eventuale"
+publication:
 canonical: http://www.radiorosbrera.com/2020/06/03/roberto-reale-presidente-di-eutopian-osservatorio-europeo-sullinnovazione-democratica-non-solo-digitale-parliamo-di-formazione-e-scuola-non-solo-di-tablet/
 archive: 
 media:
