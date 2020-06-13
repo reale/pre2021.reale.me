@@ -3,7 +3,7 @@ layout: publication
 title: "Immuni source code"
 lang: en
 ref: immuni-source-code
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [contact tracing, exposure notification, open source, covid-19, italy, immuni]
 image: /assets/images/app-immuni.jpg
 publication: "GitHub Issues"

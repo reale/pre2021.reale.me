@@ -3,7 +3,7 @@ layout: publication
 title: "Digitalizzazione, come farla male"
 lang: it
 ref: digitalizzazione-come-farla-male
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19, privacy, surveillance, tech, italy]
 image: /assets/images/2020-05-04-digitalizzazione-come-farla-male.png
 publication: "Coerenza eventuale"

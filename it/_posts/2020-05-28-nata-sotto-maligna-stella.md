@@ -3,7 +3,7 @@ layout: publication
 title: "Nata sotto maligna stella"
 lang: it
 ref: nata-sotto-maligna-stella
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, politics, people, covid 19, github]
 image: /assets/images/2020-05-28-nata-sotto-maligna-stella.jpg
 publication: "Coerenza eventuale"

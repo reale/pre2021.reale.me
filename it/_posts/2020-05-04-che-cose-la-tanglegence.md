@@ -3,7 +3,7 @@ layout: publication
 title: "Che cos’è la tanglegence"
 lang: it
 ref: why-tanglegence
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [tanglegence]
 image: /assets/images/2020-05-04-che-cose-la-tanglegence.jpg
 publication: OFCS.Report

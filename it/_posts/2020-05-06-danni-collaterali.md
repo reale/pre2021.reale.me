@@ -3,7 +3,7 @@ layout: publication
 title: "Danni collaterali"
 lang: it
 ref: danni-collaterali
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19, italy, jobs, airbnb, platform economy]
 image: /assets/images/2020-05-06-danni-collaterali.jpg
 publication: "Coerenza eventuale"

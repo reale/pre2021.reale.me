@@ -3,7 +3,7 @@ layout: publication
 title: "Cina verso criptovalute di Stato?"
 lang: it
 ref: cina-verso-criptovalute-di-stato 
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [cryptocurrency, china, digital currency]
 image: /assets/images/2020-05-03-cina-verso-criptovalute-di-stato.jpg
 publication: "Coerenza eventuale"

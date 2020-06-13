@@ -3,7 +3,7 @@ layout: publication
 title: "HTTPS questo sconosciuto"
 lang: it
 ref: https-questo-sconosciuto
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [government, society, cybersecurity, https, internet]
 image: /assets/images/2020-05-14-https-questo-sconosciuto.jpg
 publication: "Coerenza eventuale"

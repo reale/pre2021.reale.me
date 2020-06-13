@@ -3,7 +3,7 @@ layout: publication
 title: "Why Tanglegence"
 lang: en
 ref: why-tanglegence
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [tanglegence, technology, complexity, information technology, covid-19]
 image: /assets/images/2020-05-03-why-tanglegence.jpg
 publication: "Tanglegence Engineering Blog"
