@@ -9,10 +9,10 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://reale.me" # the base hostname & protocol for your site
 author: Roberto Reale
 street_address:
-city: Rome
+city: Bruxelles
 state:
 zip_code:
-country: Italy
+country: Belgium
 phone:
 timezone: Etc/UTC
 
