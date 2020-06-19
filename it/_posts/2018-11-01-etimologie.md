@@ -5,7 +5,7 @@ lang: it
 ref: etimologie
 categories: [publications, articles]
 tags: [cybernetics, governance]
-image: /assets/images/2020-11-01-etimologie.jpg
+image: /assets/images/2018-11-01-etimologie.jpg
 publication: "Coerenza eventuale"
 canonical: https://medium.com/coerenza/etimologie-975839adde6e
 archive:
