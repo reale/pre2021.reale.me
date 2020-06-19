@@ -13,7 +13,7 @@ archive:
 
 Non facciamo gli ingenui. Sala non crede veramente che lo smart working sia un dolce far niente 4.0.
 
-Sala sa perfettamente smart working significa quasi sempre lavorare di più, più multitasking, più progetti, più rapporti di lavoro, magari senza orari perché il tuo team o i tuoi clienti sono su 20 fusi orari e con settimane lavorative diverse da quella occidentale. Dovendo nel frattempo gestire figli o genitori e magari una rimodulazione non facile degli spazi domestici.
+Sala sa perfettamente che smart working significa quasi sempre lavorare di più, più multitasking, più progetti, più rapporti di lavoro, magari senza orari perché il tuo team o i tuoi clienti sono su 20 fusi orari e con settimane lavorative diverse da quella occidentale. Dovendo nel frattempo gestire figli o genitori e magari una rimodulazione non facile degli spazi domestici.
 
 Ma Sala ha davanti a sé una città svuotata e bar, ristoranti, stazioni, negozi che chiudono. Gli interessa ovviamente la sopravvivenza della Milano “non smartabile”, come direbbe la Dadone.
 
