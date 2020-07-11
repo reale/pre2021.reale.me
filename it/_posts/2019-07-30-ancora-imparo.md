@@ -7,7 +7,7 @@ categories: [publications, articles]
 tags:
 image: /assets/images/2019-07-30-ancora-imparo.jpg
 publication: "Coerenza eventuale"
-canonical: https://medium.com/@reale/ancora-imparo-e1ae4f38839d
+canonical: https://medium.com/coerenza/ancora-imparo-e1ae4f38839d
 archive:
 ---
 
