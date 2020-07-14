@@ -5,7 +5,7 @@ lang: it
 ref: a-blessing-in-disguise
 categories: [publications, articles, focus]
 tags: [politics, europe, european union, poland]
-image: /assets/images/2020-07-13-duda.jpg
+image: /assets/images/2020-07-13-a-blessing-in-disguise.jpg
 publication: "Coerenza eventuale"
 canonical: https://medium.com/coerenza/a-blessing-in-disguise-4c8c68b8bb74
 archive:
