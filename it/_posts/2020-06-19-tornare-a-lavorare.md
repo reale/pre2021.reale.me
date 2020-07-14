@@ -3,7 +3,7 @@ layout: publication
 title: "Tornare \"a lavorare\"?"
 lang: it
 ref: tornare-a-lavorare
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, politics, society]
 image: /assets/images/2020-06-19-tornare-a-lavorare.jpg
 publication: "Coerenza eventuale"

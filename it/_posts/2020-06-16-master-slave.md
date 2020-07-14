@@ -3,7 +3,7 @@ layout: publication
 title: "Master e slave"
 lang: it
 ref: master-slave
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [people, society, italy, coding, language]
 image: /assets/images/2020-06-16-master-slave.jpg
 publication: "Coerenza eventuale"

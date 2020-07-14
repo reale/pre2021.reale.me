@@ -3,7 +3,7 @@ layout: publication
 title: "Sindaci contro (il 5G)"
 lang: it
 ref: sindaci-contro-il-5g
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, politics, 5g]
 image: /assets/images/2020-06-14-sindaci-contro-il-5g.png
 publication: "Coerenza eventuale"

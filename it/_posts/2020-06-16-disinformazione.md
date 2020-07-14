@@ -3,7 +3,7 @@ layout: publication
 title: "Disinformazione"
 lang: it
 ref: disinformazione
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, people, society, covid 19]
 image: /assets/images/2020-06-16-disinformazione.png
 publication: "Coerenza eventuale"

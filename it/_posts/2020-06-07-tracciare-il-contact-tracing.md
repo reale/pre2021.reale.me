@@ -3,7 +3,7 @@ layout: publication
 title: "Tracciare il contact tracing"
 lang: it
 ref: tracciare-il-contact-tracing
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19]
 image: /assets/images/2020-06-07-tracciare-il-contact-tracing.png
 publication: "Coerenza eventuale"

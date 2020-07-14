@@ -3,7 +3,7 @@ layout: publication
 title: "Why an editorial project on innovation and tech is still \"blue ocean\" in Italy?"
 lang: en
 ref: why-an-editorial-project-on-innovation-and-tech-is-still-blue-ocean-in-italy
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [journalism, tech, italy]
 image: /assets/images/2020-06-20-why-an-editorial-project-on-innovation-and-tech-is-still-blue-ocean-in-italy.jpg
 image_alt: "Illustration by Barry Blitt"

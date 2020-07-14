@@ -3,7 +3,7 @@ layout: publication
 title: "Immunizzarsi o indignarsi?"
 lang: it
 ref: immunizzarsi-o-indignarsi
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, people, society, politics, covid 19]
 image: /assets/images/2020-06-05-immunizzarsi-o-indignarsi.jpg
 publication: "Coerenza eventuale"

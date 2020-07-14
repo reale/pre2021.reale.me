@@ -2,7 +2,7 @@
 layout: publication
 title: "Dimenticate Koolhas e Boeri: il nostro futuro è (nonostante tutto) nelle città"
 lang: it
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: []
 image: /assets/images/2020-06-04-dimenticate-koolhas-e-boeri-il-nostro-futuro-e-nonostante-tutto-nelle-citta.jpg
 publication: Cieloterradesign

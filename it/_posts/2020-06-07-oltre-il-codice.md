@@ -3,7 +3,7 @@ layout: publication
 title: "Oltre il codice"
 lang: it
 ref: oltre-il-codice
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags:
 image: /assets/images/2020-06-07-oltre-il-codice.png
 publication: "Coerenza eventuale"

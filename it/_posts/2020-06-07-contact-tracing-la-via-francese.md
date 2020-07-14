@@ -3,7 +3,7 @@ layout: publication
 title: "Contact tracing: la “via francese”"
 lang: it
 ref: contact-tracing-la-via-francese
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [france, italy, society, politics, covid 19]
 image: /assets/images/2020-06-05-immunizzarsi-o-indignarsi.jpg
 publication: "Coerenza eventuale"

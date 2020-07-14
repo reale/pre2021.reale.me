@@ -3,7 +3,7 @@ layout: publication
 title: "Democrazia è vaccinarsi"
 lang: it
 ref: democrazia-e-vaccinarsi
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [democracy, covid 19, anti vaccination, italy, people]
 image: /assets/images/2020-06-22-democrazia-e-vaccinarsi.jpg
 publication: "Coerenza eventuale"

@@ -3,7 +3,7 @@ layout: publication
 title: "Immuni? Timori sulla privacy infondati ma serve un approccio rigoroso alla sicurezza"
 lang: it
 ref: immuni-timori-sulla-privacy-infondati-ma-serve-un-approccio-rigoroso-alla-sicurezza
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19, italy, politics, cybersecurity, privacy]
 image: /assets/images/2020-06-08-immuni-timori-sulla-privacy-infondati-ma-serve-un-approccio-rigoroso-alla-sicurezza.jpg
 publication: "Coerenza eventuale"

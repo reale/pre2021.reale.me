@@ -3,7 +3,7 @@ layout: publication
 title: "Sorvegliare e prevenire"
 lang: it
 ref: sorvegliare-e-prevenire
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags:
 image: /assets/images/2020-06-07-sorvegliare-e-prevenire.jpg
 publication: "Coerenza eventuale"

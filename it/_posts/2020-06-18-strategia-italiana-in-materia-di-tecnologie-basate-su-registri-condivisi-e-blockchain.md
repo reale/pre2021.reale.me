@@ -3,7 +3,7 @@ layout: publication
 title: "Strategia italiana in materia di tecnologie basate su registri condivisi e blockchain: qualche appunto"
 lang: it
 ref: strategia-italiana-in-materia-di-tecnologie-basate-su-registri-condivisi-e-blockchain
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [blockchain, italy, innovation, government, politics]
 image: /assets/images/2020-06-18-strategia-italiana-in-materia-di-tecnologie-basate-su-registri-condivisi-e-blockchain.jpg
 publication: "Coerenza eventuale"

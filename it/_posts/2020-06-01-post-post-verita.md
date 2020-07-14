@@ -3,7 +3,7 @@ layout: publication
 title: "Post-post-verità"
 lang: it
 ref: post-post-verita
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [society, politics, media, platform, internet]
 image: /assets/images/2020-06-01-post-post-verita.jpg
 publication: "Coerenza eventuale"

@@ -3,7 +3,7 @@ layout: publication
 title: "Tecnologia, software, coding: tra superficialità e consapevolezza"
 lang: it
 ref: coding-programmazione-scuola-futuro
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags:
 image: /assets/images/2020-06-16-coding-programmazione-scuola-futuro.jpg
 publication: "Immagina"

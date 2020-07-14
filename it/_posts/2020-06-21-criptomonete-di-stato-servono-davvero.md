@@ -3,7 +3,7 @@ layout: publication
 title: "\"Criptomonete\" di Stato: servono davvero?"
 lang: it
 ref: criptomonete-di-stato-servono-davvero 
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [cryptocurrency, bitcoin, italy, finance, economics]
 image: /assets/images/2020-06-21-criptomonete-di-stato-servono-davvero.png
 image_alt: "https://studio.glassnode.com/metrics?a=BTC&m=addresses.ActiveCount"

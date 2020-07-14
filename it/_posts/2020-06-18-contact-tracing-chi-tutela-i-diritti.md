@@ -3,7 +3,7 @@ layout: publication
 title: "Contact tracing: chi tutela i diritti?"
 lang: it
 ref: contact-tracing-chi-tutela-i-diritti
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19, people, society, tech]
 image: /assets/images/2020-06-18-contact-tracing-chi-tutela-i-diritti.jpg
 publication: "Coerenza eventuale"

@@ -3,7 +3,7 @@ layout: publication
 title: "Digitale è politica"
 lang: it
 ref: digitale-e-politica
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19, italy, politics, society]
 image: /assets/images/2020-06-24-digitale-e-politica.jpg
 publication: "Coerenza eventuale"

@@ -3,7 +3,7 @@ layout: publication
 title: "Cinque cose che ancora mancano a Immuni"
 lang: it
 ref: cinque-cose-che-ancora-mancano-a-immuni
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, politics, society, covid 19, immuni]
 image: /assets/images/2020-06-02-cinque-cose-che-ancora-mancano-a-immuni.jpg
 publication: "Coerenza eventuale"

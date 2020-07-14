@@ -3,7 +3,7 @@ layout: publication
 title: "Traçage des contacts : protocole maison ou soumission à Google et Apple?"
 lang: fr
 ref: tracage-des-contacts-protocole-maison-ou-soumission-a-google-et-apple
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [covid 19, belgium, europe, france, italy]
 image: /assets/images/2020-06-06-tracage-des-contacts-protocole-maison-ou-soumission-a-google-et-apple.jpg
 publication: Cohérence éventuelle

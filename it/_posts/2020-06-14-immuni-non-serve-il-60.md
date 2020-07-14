@@ -3,7 +3,7 @@ layout: publication
 title: "Immuni: non serve il 60%"
 lang: it
 ref: immuni-non-serve-il-60
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [Covid 19, Italy]
 image: /assets/images/2020-06-14-immuni-non-serve-il-60.jpg
 publication: "Coerenza eventuale"
