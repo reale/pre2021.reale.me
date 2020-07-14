@@ -3,7 +3,7 @@ layout: publication
 title: "A tale of two cities: Nowa Huta"
 lang: en
 ref: nowa-huta
-categories: [publications, articles, misc]
+categories: [publications, articles]
 tags: []
 image: /assets/images/2018-01-05-nowa-huta-tale-of-two-cities.jpg
 publication: PoloniCult
