@@ -7,14 +7,14 @@ permalink: /en/bio
 image: assets/images/cover.jpg
 ---
 
-I am an Innovation Manager with more than 10 years of experience in e-government projects and digital transformation of critical industries at the national and EU level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities), and 20 years of experience in ICT engineering and management.
+I am an Innovation Manager with an international experience in e-government projects and digital transformation of the public sector both at the EU and at the national level (parliamentary bodies, public finance, procurement, strategic infrastructures, utilities) as well as 20 years of experience in ICT engineering and management, business and financial planning, strategic development in diverse and multistakeholder environments.
 
-Since I view large-scale projects as the complex interplay of many different areas, I seek constant involvement in all facets of the digital transformation: technology, financing, organization, security, communication, governance, policymaking, society, environment.
+Indeed, as I view large-scale projects as the complex interplay of many different areas, I seek constant involvement in all facets of the digital transformation: technology, financing, organization, security, communication, governance, policymaking, society, environment.
 
-I am a member of standardization bodies at the national and EU level and of several international and Italian associations including IEEE. I also research and teach on the organizational, economical and formal aspects of innovation and digital transformation.
+I build and develop strong relationships with regulators, SMEs, financial institutions, and industry associations throughout Europe in order to monitor public policies and industry initiatives, assess the impact for the relevant stakeholders, influence decisions to support their requirements, and keep them informed so that they can position themselves for efficient growth.
 
-By delivering keynotes in conferences and meetings throughout Europe and by conducting an extensive communication campaign, I strive to be a thought leader on digital transformation and its impact on our society and culture.
+I am a member of standardisation bodies at the national and EU level and of several international and regional associations. I also research and teach on the organisational, economical and formal aspects of innovation and digital transformation. By delivering keynotes in conferences and meetings throughout Europe and by conducting an extensive communication campaign, I strive to be a thought leader on digital transformation and its impact on our society and culture.
 
-As the proud founder of <a href="https://eutopian.eu" target="_blank">Eutopian</a>, a think tank focused on the digital citizenship, I believe in technology as an enabler for democracy.
+As the proud founder of <a href="https://eutopian.eu" target="_blank">Eutopian</a>, a think tank focused on digital citizenship, I believe in technology as an enabler for democracy. I am also the founder and managing director of <a href="https://tanglegence.com" target="_blank">Tanglegence</a>, a Dublin- and London-based company whose goal is to provide governmental organisations and businesses with the financial e technological tools needed to implement innovation in the EU space.
 
-Currently I live in Brussels, Belgium.
+Currently based in Brussels, Belgium.
