@@ -7,7 +7,7 @@ categories: [publications, articles, focus]
 tags:
 image: /assets/images/2020-07-30-15-minute-cities.jpg
 publication: "Eventual Consistency"
-canonical:
+canonical: https://medium.com/reale/15-minutes-cities-8809510ff4f6
 ---
 
 Strolling around in Brussels is a must-do when the sun shines (which should never be taken for granted).
