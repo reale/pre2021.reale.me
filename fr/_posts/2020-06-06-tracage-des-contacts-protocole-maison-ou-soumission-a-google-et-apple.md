@@ -6,8 +6,8 @@ ref: tracage-des-contacts-protocole-maison-ou-soumission-a-google-et-apple
 categories: [publications, articles]
 tags: [covid 19, belgium, europe, france, italy]
 image: /assets/images/2020-06-06-tracage-des-contacts-protocole-maison-ou-soumission-a-google-et-apple.jpg
-publication: Cohérence éventuelle
-canonical: https://medium.com/coherence-eventuelle/tra%C3%A7age-des-contacts-protocole-maison-ou-soumission-%C3%A0-google-et-apple-23c83c7366fa
+publication: Eventual Consistency
+canonical: https://medium.com/reale/tra%C3%A7age-des-contacts-protocole-maison-ou-soumission-%C3%A0-google-et-apple-23c83c7366fa
 ---
 
 La Belgique opte pour une application traçage des contacts, ou contact tracing (ou encore mieux exposure notification) que sera basée sur une approche décentralisée. Selon *L’Écho* et *De Tijd* le coup d’envoi surviendra au cours de l’été — beaucoup plus tard que en Italie ou en France. Le groupe de travail interfédéral entend « reprendre 80 % du travail » de la Suisse et de l’Autriche (et de façon implicite de l’Italie, avec son application Immuni).
