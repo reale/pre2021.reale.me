@@ -61,5 +61,4 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
-exclude:
-  - scripts
+exclude: [vendor]
