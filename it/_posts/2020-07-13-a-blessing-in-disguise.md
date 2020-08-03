@@ -3,7 +3,7 @@ layout: publication
 title: "A blessing in disguise"
 lang: it
 ref: a-blessing-in-disguise
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [politics, europe, european union, poland]
 image: /assets/images/2020-07-13-a-blessing-in-disguise.jpg
 publication: "Coerenza eventuale"

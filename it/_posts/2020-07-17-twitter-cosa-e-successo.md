@@ -3,7 +3,7 @@ layout: publication
 title: "Twitter: cos’è successo?"
 lang: it
 ref: twitter-cosa-e-successo
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [twitter, cybersecurity, social media, cyberattack, bitcoin]
 image: /assets/images/2020-07-17-twitter-cosa-e-successo-1.png
 publication: "Coerenza eventuale"

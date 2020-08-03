@@ -3,7 +3,7 @@ layout: publication
 title: "Il costo della privacy"
 lang: it
 ref: il-costo-della-privacy
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [privacy, data protection, personal data]
 image: /assets/images/2020-07-14-il-costo-della-privacy.jpg
 publication: "Coerenza eventuale"

@@ -3,7 +3,7 @@ layout: publication
 title: "I nani e Immuni"
 lang: it
 ref: i-nani-e-immuni
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, covid-19]
 image: /assets/images/2020-07-19-i-nani-e-immuni.jpg
 publication: "Coerenza eventuale"

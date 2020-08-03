@@ -3,7 +3,7 @@ layout: publication
 title: "Una vittoria per l'Europa"
 lang: it
 ref: una-vittoria-per-l-europa
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags: [italy, europe, european union, covid-19, economics]
 image: /assets/images/2020-07-21-una-vittoria-per-l-europa.jpg
 publication: "Coerenza eventuale"

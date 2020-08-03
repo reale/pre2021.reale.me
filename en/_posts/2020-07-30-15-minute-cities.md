@@ -3,7 +3,7 @@ layout: publication
 title: "15-minutes cities"
 lang: en
 ref: 15-minute-cities
-categories: [publications, articles, focus]
+categories: [publications, articles]
 tags:
 image: /assets/images/2020-07-30-15-minute-cities.jpg
 publication: "Eventual Consistency"
