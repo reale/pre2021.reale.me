@@ -258,6 +258,12 @@ podcast:
     fr: "Podcast"
     it: "Podcast"
     pl: "Podcast"
+polish:
+    en: "Polish"
+    es: "Polaco"
+    fr: "Polonais"
+    it: "Polacco"
+    pl: "Polski"
 project-media:
     en: "Project media"
     es: "Project media"
