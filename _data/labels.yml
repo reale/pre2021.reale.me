@@ -299,7 +299,7 @@ read-more:
     es: "Más"
     fr: "Plus"
     it: "Leggi"
-    fr: "Więcej"
+    pl: "Więcej"
 read-on:
     en: "Read on"
     es: "Sigue leyendo"
@@ -341,7 +341,7 @@ teaching:
     es: "Enseñar"
     fr: "Enseignement"
     it: "Docenze"
-    es: "Nauczanie"
+    pl: "Nauczanie"
 technical-books:
     en: "Technical books"
     es: "Libros técnicos"
