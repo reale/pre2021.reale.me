@@ -1,3 +1,0 @@
-#!/bin/sh
-
-sed -i 's/\[publications, articles, focus\]/[publications, articles]/' 2020-06-*
