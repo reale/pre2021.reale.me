@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Home
-description: Home
-lang: it
+title: "Strona główna"
+description: "Strona główna"
+lang: pl
 ref: homepage
-permalink: /it/
+permalink: /pl/
 ---
