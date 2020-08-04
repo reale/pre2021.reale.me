@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Talk
-lang: it
+title: Talks
+lang: es
 ref: talks
-permalink: /it/talks
+permalink: /es/talks
 ---
 
 {% include talks.html %}
