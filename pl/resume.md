@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CV
-lang: it
+title: Życiorys
+lang: pl
 ref: resume
-permalink: /it/resume
+permalink: /pl/resume
 ---
 
 {% include resume.html %}
