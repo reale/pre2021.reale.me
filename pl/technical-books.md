@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Livres techniques
-lang: fr
+title: Książki techniczne
+lang: pl
 ref: technical-books
-permalink: /fr/technical-books
+permalink: /pl/technical-books
 ---
 
 {% include technical-books.html %}
