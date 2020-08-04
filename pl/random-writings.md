@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Scritti sparsi
-lang: it
+title: Losowe pisma
+lang: pl
 ref: misc
-permalink: /it/random-writings
+permalink: /pl/random-writings
 ---
 
 {% include random-writings.html %}
