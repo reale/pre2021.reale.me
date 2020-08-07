@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Contacts
-lang: en
+title: Contactos
+lang: es
 ref: contacts
-permalink: /en/contacts
+permalink: /es/contacts
 tags: [contacts]
 comments: false
 ---

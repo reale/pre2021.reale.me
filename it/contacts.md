@@ -1,9 +1,9 @@
 ---
-layout: contacts
+layout: page
 title: Contatti
 lang: it
 ref: contacts
 permalink: /it/contacts
-tags: [contatti]
+tags: [contacts]
 comments: false
 ---
