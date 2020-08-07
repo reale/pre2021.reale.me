@@ -4,11 +4,11 @@ title: "The Cult of the Tech Genius"
 lang: en
 ref: the-cult-of-the-tech-genius
 categories: [publications, articles, focus]
-tags:
+tags: [tech, culture, corporate culture, diversity, diversity in tech]
 image: /assets/images/2020-08-07-the-cult-of-the-tech-genius.jpg
 image_alt: Dalbert B. Vilarino
 publication: "Eventual Consistency"
-canonical:
+canonical: https://medium.com/reale/the-cult-of-the-tech-genius-655fe3fc207d
 ---
 
 With a tech-corporate culture fraught with Move-Fast-and-Break-Things innuendos, it comes as no surprise that being «imbued with the power and confidence» that you can do no wrong is highly rewarded. And it is a boy's thing, or at least this is [what the NYT believes](https://www.nytimes.com/2020/08/06/technology/the-cult-of-the-tech-genius.html): «it's almost always a him», quoth the journalist, who happens to be a she.
