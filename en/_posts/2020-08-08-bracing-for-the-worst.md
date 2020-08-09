@@ -5,7 +5,7 @@ lang: en
 ref: bracing-for-the-worst
 categories: [publications, articles, focus]
 tags: [covid 19]
-image: /assets/images/
+image: /assets/images/2020-08-08-bracing-for-the-worst.jpg
 image_alt: Ana Kova
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/bracing-for-the-worst-232aa5394289
