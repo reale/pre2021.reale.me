@@ -5,7 +5,7 @@ lang: it
 ref: cum-grano-salis
 categories: [publications, articles]
 tags: [blockchain, crypto, blockchain technology, cryptocurrency, technology]
-image: /assets/images/
+image: /assets/images/2019-08-30-cum-grano-salis.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/cum-grano-salis-9e7858bff254
 archive:
