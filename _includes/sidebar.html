@@ -85,10 +85,12 @@
             </header>
             <div class="mini-posts">
                 {% for post in site.categories.focus %}
+                {% unless post.publication == "" or post.publication == nil %}
                 <article>
                     <a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
                     <p>{{ post.excerpt }}</p>
                 </article>
+                {% endunless %}
                 {% endfor %}
             </div>
         </section>
