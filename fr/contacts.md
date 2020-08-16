@@ -7,3 +7,5 @@ permalink: /fr/contacts
 tags: [contacts]
 comments: false
 ---
+
+{% include contacts.html %}
