@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Software
 lang: en
 ref: software
 permalink: /en/software
