@@ -7,8 +7,8 @@ categories: [publications, articles]
 tags: [cryptocurrency, bitcoin, italy, finance, economics]
 image: /assets/images/2020-06-21-criptomonete-di-stato-servono-davvero.png
 image_alt: "https://studio.glassnode.com/metrics?a=BTC&m=addresses.ActiveCount"
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/criptomonete-di-stato-servono-davvero-ac9a1df53b93
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/criptomonete-di-stato-servono-davvero-ac9a1df53b93
 archive:
 ---
 

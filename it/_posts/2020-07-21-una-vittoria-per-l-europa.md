@@ -6,8 +6,8 @@ ref: una-vittoria-per-l-europa
 categories: [publications, articles]
 tags: [italy, europe, european union, covid-19, economics]
 image: /assets/images/2020-07-21-una-vittoria-per-l-europa.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/una-vittoria-per-leuropa-a2b20be6498e
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/una-vittoria-per-leuropa-a2b20be6498e
 archive:
 ---
 

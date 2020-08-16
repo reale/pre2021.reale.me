@@ -6,8 +6,8 @@ ref: democrazia
 categories: [publications, articles]
 tags: [politics, society, democracy]
 image: /assets/images/2018-01-17-democrazia.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/democrazia-e7bb6f0c3d44
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/democrazia-e7bb6f0c3d44
 archive:
 ---
 

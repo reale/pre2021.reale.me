@@ -6,8 +6,8 @@ ref: rileggere-platform-society
 categories: [publications, articles]
 tags:
 image: /assets/images/2019-10-15-rileggere-platform-society.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/rileggere-platform-society-1853c281a5bb
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/rileggere-platform-society-1853c281a5bb
 archive:
 ---
 

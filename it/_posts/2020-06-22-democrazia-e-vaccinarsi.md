@@ -6,8 +6,8 @@ ref: democrazia-e-vaccinarsi
 categories: [publications, articles]
 tags: [democracy, covid 19, anti vaccination, italy, people]
 image: /assets/images/2020-06-22-democrazia-e-vaccinarsi.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/democrazia-%C3%A8-vaccinarsi-dbf57b407d01
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/democrazia-%C3%A8-vaccinarsi-dbf57b407d01
 archive:
 ---
 

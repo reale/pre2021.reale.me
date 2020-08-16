@@ -6,8 +6,8 @@ ref: digitalizzazione-come-farla-male
 categories: [publications, articles]
 tags: [covid 19, privacy, surveillance, tech, italy]
 image: /assets/images/2020-05-04-digitalizzazione-come-farla-male.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/digitalizzazione-come-farla-male-8ca2e9b0cb4c
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/digitalizzazione-come-farla-male-8ca2e9b0cb4c
 archive:
 ---
 

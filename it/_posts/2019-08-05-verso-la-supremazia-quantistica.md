@@ -6,8 +6,8 @@ ref: verso-la-supremazia-quantistica
 categories: [publications, articles]
 tags: [quantum computing]
 image: /assets/images/2019-08-05-verso-la-supremazia-quantistica.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/verso-la-supremazia-quantistica-c4f4d703904c
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/verso-la-supremazia-quantistica-c4f4d703904c
 archive:
 ---
 

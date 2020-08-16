@@ -6,8 +6,8 @@ ref: digitale-e-politica
 categories: [publications, articles]
 tags: [covid 19, italy, politics, society]
 image: /assets/images/2020-06-24-digitale-e-politica.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/digitale-%C3%A8-politica-15a207abf33d
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/digitale-%C3%A8-politica-15a207abf33d
 archive:
 ---
 

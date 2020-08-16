@@ -6,8 +6,8 @@ ref: agendas-alternatives-and-public-policies
 categories: [publications, articles]
 tags: [politics, government, public policy, policy]
 image: /assets/images/2019-08-13-agendas-alternatives-and-public-policies.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/agendas-alternatives-and-public-policies-a4f468aeba1e
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/agendas-alternatives-and-public-policies-a4f468aeba1e
 archive:
 ---
 

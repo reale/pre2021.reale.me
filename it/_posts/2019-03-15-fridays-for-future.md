@@ -6,8 +6,8 @@ ref: fridays-for-future
 categories: [publications, articles]
 tags: [fridays for future, environment, global warming]
 image: /assets/images/2019-03-15-fridays-for-future.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/fridays-for-future-9b5199ed17dd
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/fridays-for-future-9b5199ed17dd
 archive:
 ---
 

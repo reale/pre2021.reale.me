@@ -6,8 +6,8 @@ ref: amache-e-ragnatele
 categories: [publications, articles]
 tags: [society, people]
 image: /assets/images/2018-04-23-amache-e-ragnatele.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/amache-e-ragnatele-acf4a28ceb7
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/amache-e-ragnatele-acf4a28ceb7
 archive:
 ---
 

@@ -6,8 +6,8 @@ ref: censure-as-a-service
 categories: [publications, articles]
 tags: [art, people, society]
 image: /assets/images/2018-02-01-censure-as-a-service.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/censure-as-a-service-15c3a4de4685
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/censure-as-a-service-15c3a4de4685
 archive:
 ---
 

@@ -6,8 +6,8 @@ ref: master-slave
 categories: [publications, articles]
 tags: [people, society, italy, coding, language]
 image: /assets/images/2020-06-16-master-slave.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/master-e-slave-fafda0eb5b43
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/master-e-slave-fafda0eb5b43
 archive:
 ---
 

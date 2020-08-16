@@ -6,8 +6,8 @@ ref: blockchain-e-immutabilita-del-dato-bufala-o-verita
 categories: [publications, articles]
 tags: [blockchain, blockchain technology, cryptocurrency, crypto, distributed ledgers]
 image: /assets/images/2019-06-05-blockchain-e-immutabilita-del-dato-bufala-o-verita.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/blockchain-e-immutabilita-del-dato-bufala-o-verita-952765f77331
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/blockchain-e-immutabilita-del-dato-bufala-o-verita-952765f77331
 archive:
 ---
 

@@ -6,8 +6,8 @@ ref: storytelling-a-confronto
 categories: [publications, articles]
 tags: [people, communication, society, marketing, public administration]
 image: /assets/images/2019-05-23-storytelling-a-confronto.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/storytelling-a-confronto-96de6f84a829
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/storytelling-a-confronto-96de6f84a829
 archive:
 ---
 

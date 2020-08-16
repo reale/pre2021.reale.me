@@ -6,8 +6,8 @@ ref: sorvegliare-e-prevenire
 categories: [publications, articles]
 tags:
 image: /assets/images/2020-06-07-sorvegliare-e-prevenire.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/sorvegliare-e-prevenire-15dda929c201
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/sorvegliare-e-prevenire-15dda929c201
 archive:
 ---
 

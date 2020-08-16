@@ -6,8 +6,8 @@ ref: ai-e-cittadinanza-digitale
 categories: [publications, articles]
 tags: [artificial intelligence, singularity, society, citizenship, democracy]
 image: /assets/images/2018-12-01-ai-e-cittadinanza-digitale.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/ai-e-cittadinanza-digitale-2ae099564df7
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/ai-e-cittadinanza-digitale-2ae099564df7
 archive:
 ---
 

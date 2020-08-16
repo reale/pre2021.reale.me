@@ -7,8 +7,8 @@ categories: [publications, articles]
 tags:
 image: /assets/images/2017-05-17-sono-comuni-le-cose-degli-amici.jpg
 image_alt: "William S. Burroughs, What the Hit Man Missed"
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/sono-comuni-le-cose-degli-amici-c6a5d78bbc45
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/sono-comuni-le-cose-degli-amici-c6a5d78bbc45
 archive:
 ---
 

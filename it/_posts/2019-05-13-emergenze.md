@@ -6,8 +6,8 @@ ref: emergenze
 categories: [publications, articles]
 tags: [italy, politics, society]
 image: /assets/images/2019-05-13-emergenze.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/emergenze-23a0756e8da6
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/emergenze-23a0756e8da6
 archive:
 ---
 

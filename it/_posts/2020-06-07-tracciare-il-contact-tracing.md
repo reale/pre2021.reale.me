@@ -6,8 +6,8 @@ ref: tracciare-il-contact-tracing
 categories: [publications, articles]
 tags: [covid 19]
 image: /assets/images/2020-06-07-tracciare-il-contact-tracing.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/tracciare-il-contact-tracing-15cac500ff7e
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/tracciare-il-contact-tracing-15cac500ff7e
 archive:
 ---
 

@@ -6,8 +6,8 @@ ref: silvia-romano-libera
 categories: [publications, articles]
 tags: [italy, 2020]
 image: /assets/images/2020-05-10-silvia-romano-libera.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/silvia-romano-libera-1547014baa96
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/silvia-romano-libera-1547014baa96
 archive:
 ---
 

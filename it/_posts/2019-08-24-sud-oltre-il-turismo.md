@@ -7,8 +7,8 @@ categories: [publications, articles]
 tags: [italy, economics, politics, society, tourism]
 image: /assets/images/2019-08-24-sud-oltre-il-turismo.jpg
 image_alt: "Il Palazzo Ducale ad Andria, che secondo la voce popolare sarebbe munito di un collegamento sotterraneo con Castel del Monte"
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/sud-oltre-il-turismo-60a9a7e697ff
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/sud-oltre-il-turismo-60a9a7e697ff
 archive:
 ---
 

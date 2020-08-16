@@ -6,8 +6,8 @@ ref: trasformazione-digitale-no-trasformazione-culturale
 categories: [publications, articles]
 tags: [italy, politics, transparency, university, digital transformation]
 image: /assets/images/2019-06-29-trasformazione-digitale-no-trasformazione-culturale.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/trasformazione-digitale-no-trasformazione-culturale-33a288af2219
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/trasformazione-digitale-no-trasformazione-culturale-33a288af2219
 archive:
 ---
 

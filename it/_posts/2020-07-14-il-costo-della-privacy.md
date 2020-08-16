@@ -6,8 +6,8 @@ ref: il-costo-della-privacy
 categories: [publications, articles]
 tags: [privacy, data protection, personal data]
 image: /assets/images/2020-07-14-il-costo-della-privacy.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/il-costo-della-privacy-b5f20e12ee32
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/il-costo-della-privacy-b5f20e12ee32
 archive:
 ---
 

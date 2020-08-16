@@ -6,8 +6,8 @@ ref: fosse-ardeatine
 categories: [publications, articles]
 tags: [italy, history, world war ii]
 image: /assets/images/2019-03-26-fosse-ardeatine.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/fosse-ardeatine-794b76901a53
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/fosse-ardeatine-794b76901a53
 archive:
 ---
 

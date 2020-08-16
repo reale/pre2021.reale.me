@@ -6,8 +6,8 @@ ref: ce-lo-chiede-europa
 categories: [publications, articles]
 tags: [privacy, data protection, video surveillance, europe, european union]
 image: /assets/images/2019-07-15-ce-lo-chiede-europa.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/ce-lo-chiede-leuropa-1bb3ab7ab71
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/ce-lo-chiede-leuropa-1bb3ab7ab71
 archive:
 ---
 

@@ -6,8 +6,8 @@ ref: testifici
 categories: [publications, articles]
 tags: [school, italy]
 image: /assets/images/2019-07-11-testifici.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/testifici-bdcbf2f1c23d
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/testifici-bdcbf2f1c23d
 archive:
 ---
 

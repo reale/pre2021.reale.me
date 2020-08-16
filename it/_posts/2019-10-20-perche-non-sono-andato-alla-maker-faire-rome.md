@@ -6,8 +6,8 @@ ref: perche-non-sono-andato-alla-maker-faire-rome
 categories: [publications, articles]
 tags: [innovation, makers, maker faire rome, italy, tech]
 image: /assets/images/2019-10-20-perche-non-sono-andato-alla-maker-faire-rome.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/perche-non-sono-andato-alla-maker-faire-rome-6771165ad6bd
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/perche-non-sono-andato-alla-maker-faire-rome-6771165ad6bd
 archive:
 ---
 

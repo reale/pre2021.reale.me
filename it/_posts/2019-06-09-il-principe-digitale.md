@@ -6,8 +6,8 @@ ref: il-principe-digitale
 categories: [publications, articles]
 tags: [italy, literature, innovation]
 image: /assets/images/2019-06-09-il-principe-digitale.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/il-principe-digitale-8aba063b3558
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/il-principe-digitale-8aba063b3558
 archive:
 ---
 

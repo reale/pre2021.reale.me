@@ -7,8 +7,8 @@ categories: [publications, articles]
 tags: [europe, european union]
 image: /assets/images/2017-05-16-dissoi-logoi.jpg
 image_alt: "Jackson Pollock, Naked Man with Knife, c.1938–40 (Tate Gallery)"
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/dissoi-logoi-7e435f3f112a
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/dissoi-logoi-7e435f3f112a
 archive:
 ---
 

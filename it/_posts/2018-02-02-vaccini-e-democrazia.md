@@ -6,8 +6,8 @@ ref: vaccini-e-democrazia
 categories: [publications, articles]
 tags: [people, society, politics, health, vaccines]
 image: /assets/images/2018-02-02-vaccini-e-democrazia.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/vaccini-e-democrazia-30d06ce7ebdc
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/vaccini-e-democrazia-30d06ce7ebdc
 archive:
 ---
 

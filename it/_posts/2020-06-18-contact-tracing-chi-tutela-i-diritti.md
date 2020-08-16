@@ -6,8 +6,8 @@ ref: contact-tracing-chi-tutela-i-diritti
 categories: [publications, articles]
 tags: [covid 19, people, society, tech]
 image: /assets/images/2020-06-18-contact-tracing-chi-tutela-i-diritti.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/contact-tracing-chi-tutela-i-diritti-2eaeabd00fb9
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/contact-tracing-chi-tutela-i-diritti-2eaeabd00fb9
 archive:
 ---
 

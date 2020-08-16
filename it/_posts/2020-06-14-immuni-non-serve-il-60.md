@@ -6,8 +6,8 @@ ref: immuni-non-serve-il-60
 categories: [publications, articles]
 tags: [Covid 19, Italy]
 image: /assets/images/2020-06-14-immuni-non-serve-il-60.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/immuni-non-serve-il-60-4c90d48fb38
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/immuni-non-serve-il-60-4c90d48fb38
 archive:
 ---
 

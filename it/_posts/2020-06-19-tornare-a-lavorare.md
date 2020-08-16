@@ -6,8 +6,8 @@ ref: tornare-a-lavorare
 categories: [publications, articles]
 tags: [italy, politics, society]
 image: /assets/images/2020-06-19-tornare-a-lavorare.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/tornare-a-lavorare-54c31cfa6060
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/tornare-a-lavorare-54c31cfa6060
 archive:
 ---
 

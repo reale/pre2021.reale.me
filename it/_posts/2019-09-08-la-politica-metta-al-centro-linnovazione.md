@@ -6,8 +6,8 @@ ref: la-politica-metta-al-centro-linnovazione
 categories: [publications, articles]
 tags:
 image: /assets/images/2019-09-08-la-politica-metta-al-centro-linnovazione.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/la-politica-metta-al-centro-linnovazione-aa8b5748bc8e
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/la-politica-metta-al-centro-linnovazione-aa8b5748bc8e
 archive:
 ---
 

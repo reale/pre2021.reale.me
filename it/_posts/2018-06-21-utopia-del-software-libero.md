@@ -6,8 +6,8 @@ ref: utopia-del-software-libero
 categories: [publications, articles]
 tags: [free software, open source]
 image: /assets/images/2018-06-21-utopia-del-software-libero.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/utopia-del-software-libero-d3937251548d
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/utopia-del-software-libero-d3937251548d
 archive:
 ---
 

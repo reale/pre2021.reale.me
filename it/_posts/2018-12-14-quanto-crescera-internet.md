@@ -6,8 +6,8 @@ ref: how-much-will-internet-grow
 categories: [publications, articles]
 tags: []
 image: /assets/images/2018-12-14-how-much-will-internet-grow.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/quanto-crescera-internet-nei-prossimi-anni-e471741ff9b6
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/quanto-crescera-internet-nei-prossimi-anni-e471741ff9b6
 ---
 
 Quanto crescerà Internet nei prossimi anni? Come cambia il traffico?

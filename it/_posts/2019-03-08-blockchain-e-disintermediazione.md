@@ -6,8 +6,8 @@ ref: blockchain-e-disintermediazione
 categories: [publications, articles]
 tags: [blockchain, blockchain technology, crypto, cryptocurrency, politics]
 image: /assets/images/2019-03-08-blockchain-e-disintermediazione.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/blockchain-e-disintermediazione-ab003bc75f3a
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/blockchain-e-disintermediazione-ab003bc75f3a
 archive:
 ---
 

@@ -6,8 +6,8 @@ ref: senza-filtro
 categories: [publications, articles]
 tags: [social media, politics, society, italy, uk]
 image: /assets/images/2019-08-15-senza-filtro.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/senza-filtro-b34c81dfd2bd
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/senza-filtro-b34c81dfd2bd
 archive:
 ---
 

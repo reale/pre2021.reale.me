@@ -6,8 +6,8 @@ ref: a-blessing-in-disguise
 categories: [publications, articles]
 tags: [politics, europe, european union, poland]
 image: /assets/images/2020-07-13-a-blessing-in-disguise.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/a-blessing-in-disguise-4c8c68b8bb74
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/a-blessing-in-disguise-4c8c68b8bb74
 archive:
 ---
 

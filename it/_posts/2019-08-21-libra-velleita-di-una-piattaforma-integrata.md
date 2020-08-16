@@ -6,8 +6,8 @@ ref: libra-velleita-di-una-piattaforma-integrata
 categories: [publications, articles]
 tags: [blockchain, cryptocurrency, social media, facebook, fintech]
 image: /assets/images/2019-08-21-libra-velleita-di-una-piattaforma-integrata.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/libra-velleit%C3%A0-di-una-piattaforma-integrata-d0c4f68065e4
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/libra-velleit%C3%A0-di-una-piattaforma-integrata-d0c4f68065e4
 archive:
 ---
 

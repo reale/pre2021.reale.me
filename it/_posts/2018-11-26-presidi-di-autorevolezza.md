@@ -6,8 +6,8 @@ ref: presidi-di-autorevolezza
 categories: [publications, articles]
 tags: [society, people, science, social media, knowledge]
 image: /assets/images/2018-11-26-presidi-di-autorevolezza.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/presidi-di-autorevolezza-6a91a80411e4
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/presidi-di-autorevolezza-6a91a80411e4
 archive:
 ---
 

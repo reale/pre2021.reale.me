@@ -6,8 +6,8 @@ ref: primavera-di-praga
 categories: [publications, articles]
 tags: [history, prague, czech republic, europe, european union]
 image: /assets/images/2018-08-21-primavera-di-praga.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/primavera-di-praga-6fac7f243c70
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/primavera-di-praga-6fac7f243c70
 archive:
 ---
 

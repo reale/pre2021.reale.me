@@ -6,8 +6,8 @@ ref: earth-day-il-giorno-dopo
 categories: [publications, articles]
 tags: [covid-19, contact tracing]
 image: /assets/images/2020-04-23-earth-day-il-giorno-dopo.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/earth-day-il-giorno-dopo-6edbd1e019be
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/earth-day-il-giorno-dopo-6edbd1e019be
 archive:
 ---
 

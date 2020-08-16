@@ -6,8 +6,8 @@ ref: cina-verso-criptovalute-di-stato
 categories: [publications, articles]
 tags: [cryptocurrency, china, digital currency]
 image: /assets/images/2020-05-03-cina-verso-criptovalute-di-stato.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/cina-verso-criptovalute-di-stato-1bfd613635e6
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/cina-verso-criptovalute-di-stato-1bfd613635e6
 archive:
 ---
 

@@ -6,8 +6,8 @@ ref: twitter-cosa-e-successo
 categories: [publications, articles]
 tags: [twitter, cybersecurity, social media, cyberattack, bitcoin]
 image: /assets/images/2020-07-17-twitter-cosa-e-successo-1.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/twitter-cos%C3%A8-successo-419ac8f94e95
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/twitter-cos%C3%A8-successo-419ac8f94e95
 archive:
 ---
 

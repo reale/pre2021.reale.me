@@ -6,8 +6,8 @@ ref: nata-sotto-maligna-stella
 categories: [publications, articles]
 tags: [italy, politics, people, covid 19, github]
 image: /assets/images/2020-05-28-nata-sotto-maligna-stella.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/nata-sotto-cattiva-stella-50a2e34a0e85
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/nata-sotto-cattiva-stella-50a2e34a0e85
 archive:
 ---
 

@@ -6,8 +6,8 @@ ref: contact-tracing-la-via-francese
 categories: [publications, articles]
 tags: [france, italy, society, politics, covid 19]
 image: /assets/images/2020-06-05-immunizzarsi-o-indignarsi.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/contact-tracing-la-via-francese-f6e947c2413b
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/contact-tracing-la-via-francese-f6e947c2413b
 archive:
 ---
 

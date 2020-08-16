@@ -6,8 +6,8 @@ ref: masscult-e-midcult
 categories: [publications, articles]
 tags: [culture, people, society]
 image: /assets/images/2018-04-12-masscult-e-midcult.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/masscult-e-midcult-39bd91b672b3
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/masscult-e-midcult-39bd91b672b3
 archive:
 ---
 

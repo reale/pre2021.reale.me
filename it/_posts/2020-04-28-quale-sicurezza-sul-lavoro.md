@@ -6,8 +6,8 @@ ref: quale-sicurezza-sul-lavoro
 categories: [publications, articles]
 tags: [covid-19, italy]
 image: /assets/images/2020-04-28-quale-sicurezza-sul-lavoro.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/quale-sicurezza-sul-lavoro-e5638e7e9eb1
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/quale-sicurezza-sul-lavoro-e5638e7e9eb1
 archive:
 ---
 

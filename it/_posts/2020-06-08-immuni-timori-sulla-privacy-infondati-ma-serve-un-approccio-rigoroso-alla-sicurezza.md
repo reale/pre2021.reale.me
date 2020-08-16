@@ -6,8 +6,8 @@ ref: immuni-timori-sulla-privacy-infondati-ma-serve-un-approccio-rigoroso-alla-s
 categories: [publications, articles]
 tags: [covid 19, italy, politics, cybersecurity, privacy]
 image: /assets/images/2020-06-08-immuni-timori-sulla-privacy-infondati-ma-serve-un-approccio-rigoroso-alla-sicurezza.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/immuni-timori-sulla-privacy-infondati-ma-serve-un-approccio-rigoroso-alla-sicurezza-e19cd2e79072
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/immuni-timori-sulla-privacy-infondati-ma-serve-un-approccio-rigoroso-alla-sicurezza-e19cd2e79072
 archive:
 ---
 

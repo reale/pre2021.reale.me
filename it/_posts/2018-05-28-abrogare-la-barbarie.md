@@ -6,8 +6,8 @@ ref: abrogare-la-barbarie
 categories: [publications, articles]
 tags: [society, politics, ireland, democracy, people]
 image: /assets/images/2018-05-28-abrogare-la-barbarie.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/abrogare-la-barbarie-82013bbe1200
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/abrogare-la-barbarie-82013bbe1200
 archive:
 ---
 

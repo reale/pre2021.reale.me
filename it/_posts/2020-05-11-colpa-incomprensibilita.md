@@ -6,8 +6,8 @@ ref: colpa-incomprensibilita
 categories: [publications, articles]
 tags: [italy, 2020]
 image: /assets/images/2020-05-11-colpa-incomprensibilita.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/la-colpa-dellincomprensibilit%C3%A0-3e07c7b24aff
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/la-colpa-dellincomprensibilit%C3%A0-3e07c7b24aff
 archive:
 ---
 

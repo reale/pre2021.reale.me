@@ -6,8 +6,8 @@ ref: post-post-verita
 categories: [publications, articles]
 tags: [society, politics, media, platform, internet]
 image: /assets/images/2020-06-01-post-post-verita.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/post-post-verit%C3%A0-573878e83080
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/post-post-verit%C3%A0-573878e83080
 archive:
 ---
 

@@ -6,8 +6,8 @@ ref: rileggere-ortega-y-gasset
 categories: [publications, articles]
 tags: [politics, society]
 image: /assets/images/2019-08-24-rileggere-ortega-y-gasset.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/rileggere-ortega-y-gasset-a6f4464b013c
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/rileggere-ortega-y-gasset-a6f4464b013c
 archive:
 ---
 

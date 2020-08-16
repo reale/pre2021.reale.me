@@ -6,8 +6,8 @@ ref: amba-aradam
 categories: [publications, articles]
 tags: [italy, history]
 image: /assets/images/2020-06-20-amba-aradam.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/amba-aradam-4f37cdca123f
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/amba-aradam-4f37cdca123f
 archive:
 ---
 

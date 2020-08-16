@@ -6,8 +6,8 @@ ref: oltre-il-codice
 categories: [publications, articles]
 tags:
 image: /assets/images/2020-06-07-oltre-il-codice.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/oltre-il-codice-ebda2a5e233f
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/oltre-il-codice-ebda2a5e233f
 archive:
 ---
 

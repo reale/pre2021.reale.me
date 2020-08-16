@@ -6,8 +6,8 @@ ref: carbon-footprint-digitale
 categories: [publications, articles]
 tags:
 image: /assets/images/2019-10-03-carbon-footprint-digitale.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/cos-e-il-carbon-footprint-digitale-43d3cac7c5f9
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/cos-e-il-carbon-footprint-digitale-43d3cac7c5f9
 archive:
 ---
 

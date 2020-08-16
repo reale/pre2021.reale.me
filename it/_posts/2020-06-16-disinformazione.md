@@ -6,8 +6,8 @@ ref: disinformazione
 categories: [publications, articles]
 tags: [italy, people, society, covid 19]
 image: /assets/images/2020-06-16-disinformazione.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/disinformazione-7b36b571cb36
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/disinformazione-7b36b571cb36
 archive:
 ---
 

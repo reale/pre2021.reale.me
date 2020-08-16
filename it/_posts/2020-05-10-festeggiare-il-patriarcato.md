@@ -6,8 +6,8 @@ ref: festeggiare-il-patriarcato
 categories: [publications, articles]
 tags: [italy, women, feminism, gender equality, 2020]
 image: /assets/images/2020-05-10-festeggiare-il-patriarcato.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/festeggiare-il-patriarcato-7f23c67d37d4
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/festeggiare-il-patriarcato-7f23c67d37d4
 archive:
 ---
 

@@ -6,8 +6,8 @@ ref: https-questo-sconosciuto
 categories: [publications, articles]
 tags: [government, society, cybersecurity, https, internet]
 image: /assets/images/2020-05-14-https-questo-sconosciuto.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/https-questo-sconosciuto-2a6612aabded
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/https-questo-sconosciuto-2a6612aabded
 archive:
 ---
 

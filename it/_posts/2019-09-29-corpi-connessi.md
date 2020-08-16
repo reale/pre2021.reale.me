@@ -6,8 +6,8 @@ ref: corpi-connessi
 categories: [publications, articles]
 tags:
 image: /assets/images/2019-09-29-corpi-connessi.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/corpi-connessi-e8f0fea742de
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/corpi-connessi-e8f0fea742de
 archive:
 ---
 

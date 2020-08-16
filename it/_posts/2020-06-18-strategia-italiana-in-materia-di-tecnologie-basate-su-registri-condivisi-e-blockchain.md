@@ -6,8 +6,8 @@ ref: strategia-italiana-in-materia-di-tecnologie-basate-su-registri-condivisi-e-
 categories: [publications, articles]
 tags: [blockchain, italy, innovation, government, politics]
 image: /assets/images/2020-06-18-strategia-italiana-in-materia-di-tecnologie-basate-su-registri-condivisi-e-blockchain.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/strategia-italiana-in-materia-di-tecnologie-basate-su-registri-condivisi-e-blockchain-qualche-31dd01cb4c2
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/strategia-italiana-in-materia-di-tecnologie-basate-su-registri-condivisi-e-blockchain-qualche-31dd01cb4c2
 archive:
 ---
 

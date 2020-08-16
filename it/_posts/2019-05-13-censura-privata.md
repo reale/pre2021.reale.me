@@ -6,8 +6,8 @@ ref: censura-privata
 categories: [publications, articles]
 tags: [facebook, platform, society, politics, media]
 image: /assets/images/2019-05-13-censura-privata.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/censura-privata-7ddd1519d979
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/censura-privata-7ddd1519d979
 archive:
 ---
 

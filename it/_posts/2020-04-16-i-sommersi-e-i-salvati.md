@@ -6,8 +6,8 @@ ref: i-sommersi-e-i-salvati
 categories: [publications, articles]
 tags: []
 image: /assets/images/2020-04-16-i-sommersi-e-i-salvati.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/da-questa-crisi-mi-pare-ormai-evidente-che-ne-usciranno-bene-due-categorie-di-soggetti-quelli-che-b85b330abee6
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/da-questa-crisi-mi-pare-ormai-evidente-che-ne-usciranno-bene-due-categorie-di-soggetti-quelli-che-b85b330abee6
 archive:
 ---
 

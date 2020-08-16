@@ -6,8 +6,8 @@ ref: immuni-nessun-obbligo-per-chi-riceve-notifica
 categories: [publications, articles]
 tags: [italy, covid 19]
 image: /assets/images/2020-06-10-immuni-nessun-obbligo-per-chi-riceve-notifica.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/immuni-nessun-obbligo-per-chi-riceve-notifica-5d3f05bc0aa3
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/immuni-nessun-obbligo-per-chi-riceve-notifica-5d3f05bc0aa3
 archive:
 ---
 

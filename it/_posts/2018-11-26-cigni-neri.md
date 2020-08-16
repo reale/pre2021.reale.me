@@ -7,8 +7,8 @@ categories: [publications, articles]
 tags:
 image: /assets/images/2018-11-26-cigni-neri.jpg
 image_alt: "Andrea Familari, Francesca Pasquali, Carlotta Piccinini, 39000 LIGHT STRAWS, 2013, video frame"
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/cigni-neri-b8f3ab9a0679
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/cigni-neri-b8f3ab9a0679
 archive:
 ---
 

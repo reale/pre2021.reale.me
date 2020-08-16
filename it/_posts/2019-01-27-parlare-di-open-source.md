@@ -6,8 +6,8 @@ ref: parlare-di-open-source
 categories: [publications, articles]
 tags: [Open Source, Technology, Software, Trends, Innovation]
 image: /assets/images/2019-01-27-parlare-di-open-source.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/parlare-di-open-source-529bc2448ce8
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/parlare-di-open-source-529bc2448ce8
 archive:
 ---
 

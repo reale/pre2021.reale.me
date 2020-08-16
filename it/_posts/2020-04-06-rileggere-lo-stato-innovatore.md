@@ -6,8 +6,8 @@ ref: rileggere-lo-stato-innovatore
 categories: [publications, articles]
 tags: []
 image: /assets/images/2020-04-06-rileggere-lo-stato-innovatore.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/rileggere-lo-stato-innovatore-a8f08aa4dd88
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/rileggere-lo-stato-innovatore-a8f08aa4dd88
 archive:
 ---
 

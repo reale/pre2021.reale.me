@@ -6,8 +6,8 @@ ref: voto-ai-sedicenni
 categories: [publications, articles]
 tags:
 image: /assets/images/2019-09-30-voto-ai-sedicenni.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/voto-ai-sedicenni-79a887873dd1
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/voto-ai-sedicenni-79a887873dd1
 archive:
 ---
 

@@ -6,8 +6,8 @@ ref: politica-e-tecnocrazia
 categories: [publications, articles]
 tags: [italy, politics]
 image: /assets/images/2019-08-30-politica-e-tecnocrazia.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/politica-e-tecnocrazia-a4e4018f3ad9
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/politica-e-tecnocrazia-a4e4018f3ad9
 archive:
 ---
 

@@ -6,8 +6,8 @@ ref: perimetro-di-sicurezza-nazionale-cibernetica
 categories: [publications, articles]
 tags: [cybersecurity, italy]
 image: /assets/images/2019-07-19-perimetro-di-sicurezza-nazionale-cibernetica.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/perimetro-di-sicurezza-nazionale-cibernetica-d81a98589e1e
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/perimetro-di-sicurezza-nazionale-cibernetica-d81a98589e1e
 archive:
 ---
 

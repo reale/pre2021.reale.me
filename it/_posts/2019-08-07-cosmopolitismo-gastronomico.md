@@ -6,8 +6,8 @@ ref: cosmopolitismo-gastronomico
 categories: [publications, articles]
 tags: [london, food, culture, globalization, society]
 image: /assets/images/2019-08-07-cosmopolitismo-gastronomico.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/cosmopolitismo-gastronomico-d3e4b56b7441
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/cosmopolitismo-gastronomico-d3e4b56b7441
 archive:
 ---
 

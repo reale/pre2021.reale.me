@@ -6,8 +6,8 @@ ref: contaminarsi
 categories: [publications, articles]
 tags: [people, society]
 image: /assets/images/2018-04-19-contaminarsi.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/contaminarsi-a78dd6778aec
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/contaminarsi-a78dd6778aec
 archive:
 ---
 

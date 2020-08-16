@@ -6,8 +6,8 @@ ref: lavoro-agile-e-stato-solo-un-sogno
 categories: [publications, articles]
 tags: [covid-19, italy]
 image: /assets/images/2020-04-26-lavoro-agile-e-stato-solo-un-sogno.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/lavoro-agile-%C3%A8-stato-solo-un-sogno-4f919be951d7
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/lavoro-agile-%C3%A8-stato-solo-un-sogno-4f919be951d7
 archive:
 ---
 

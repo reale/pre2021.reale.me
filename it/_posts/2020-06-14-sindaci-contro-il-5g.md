@@ -6,8 +6,8 @@ ref: sindaci-contro-il-5g
 categories: [publications, articles]
 tags: [italy, politics, 5g]
 image: /assets/images/2020-06-14-sindaci-contro-il-5g.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/sindaci-contro-il-5g-5b18da4860c5
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/sindaci-contro-il-5g-5b18da4860c5
 archive:
 ---
 

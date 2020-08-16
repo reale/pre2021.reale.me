@@ -6,8 +6,8 @@ ref: danni-collaterali
 categories: [publications, articles]
 tags: [covid 19, italy, jobs, airbnb, platform economy]
 image: /assets/images/2020-05-06-danni-collaterali.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/danni-collaterali-42d939097364
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/danni-collaterali-42d939097364
 archive:
 ---
 

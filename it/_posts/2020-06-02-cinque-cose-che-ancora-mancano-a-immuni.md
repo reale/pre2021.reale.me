@@ -6,8 +6,8 @@ ref: cinque-cose-che-ancora-mancano-a-immuni
 categories: [publications, articles]
 tags: [italy, politics, society, covid 19, immuni]
 image: /assets/images/2020-06-02-cinque-cose-che-ancora-mancano-a-immuni.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/sei-cose-che-ancora-mancano-a-immuni-5e7a4da23fbc
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/sei-cose-che-ancora-mancano-a-immuni-5e7a4da23fbc
 archive:
 ---
 

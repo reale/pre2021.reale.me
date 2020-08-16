@@ -6,8 +6,8 @@ ref: casse-di-risonanza
 categories: [publications, articles]
 tags: [politics, people, society]
 image: /assets/images/2018-08-17-casse-di-risonanza.png
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/casse-di-risonanza-1dedf23badc7
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/casse-di-risonanza-1dedf23badc7
 archive:
 ---
 

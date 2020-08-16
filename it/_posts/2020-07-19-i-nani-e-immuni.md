@@ -6,8 +6,8 @@ ref: i-nani-e-immuni
 categories: [publications, articles]
 tags: [italy, covid-19]
 image: /assets/images/2020-07-19-i-nani-e-immuni.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/i-nani-di-immuni-dd1467bb1882
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/i-nani-di-immuni-dd1467bb1882
 archive:
 ---
 

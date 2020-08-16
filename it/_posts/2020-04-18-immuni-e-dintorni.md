@@ -6,8 +6,8 @@ ref: immuni-e-dintorni
 categories: [publications, articles]
 tags: [covid-19, contact tracing]
 image: /assets/images/2020-04-18-immuni-e-dintorni.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/immuni-e-dintorni-a257b524aff4
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/immuni-e-dintorni-a257b524aff4
 archive:
 ---
 

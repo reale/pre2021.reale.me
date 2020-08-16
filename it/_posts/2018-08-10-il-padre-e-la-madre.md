@@ -6,8 +6,8 @@ ref: il-padre-e-la-madre
 categories: [publications, articles]
 tags: [society, politics, italy]
 image: /assets/images/2018-08-10-il-padre-e-la-madre.jpg
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/il-padre-e-la-madre-eff570163ccb
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/il-padre-e-la-madre-eff570163ccb
 archive:
 ---
 

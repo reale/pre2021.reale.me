@@ -7,8 +7,8 @@ categories: [publications, articles]
 tags: [algorithms, ai, artificial intelligence, bias, machine learning]
 image: /assets/images/2018-08-10-humans-algorithms-decisions-bias.jpg
 image_alt: "Orlagh Murphy/Getty Images"
-publication: "Coerenza eventuale"
-canonical: https://medium.com/coerenza/umani-algoritmi-decisioni-bias-dd210adcddef
+publication: "Eventual Consistency"
+canonical: https://medium.com/reale/umani-algoritmi-decisioni-bias-dd210adcddef
 archive:
 ---
 
