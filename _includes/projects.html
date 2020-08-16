@@ -1,48 +1,7 @@
 <section>
-    <header class="major">
-        <h2><a id="egov">{{ site.data.labels.egov[page.lang] }}</a></h2>
-    </header>
     <div class="posts">
-        {% assign egov = site.categories.egov | where: "lang", page.lang | sort: "order" | reverse %}
-        {% for post in egov %}
-        <article>
-            <a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
-            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-            <p>{{ post.excerpt }}</p>
-            <ul class="actions">
-                <li><a href="{{ post.url }}" class="button">{{ site.data.labels.read-more[page.lang] }}</a></li>
-            </ul>
-        </article>
-        {% endfor %}
-    </div>
-</section>
-
-<section>
-    <header class="major">
-        <h2><a id="blockchain">{{ site.data.labels.blockchain[page.lang] }}</a></h2>
-    </header>
-    <div class="posts">
-        {% assign blockchain = site.categories.blockchain | where: "lang", page.lang | sort: "order" | reverse %}
-        {% for post in blockchain %}
-        <article>
-            <a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
-            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-            <p>{{ post.excerpt }}</p>
-            <ul class="actions">
-                <li><a href="{{ post.url }}" class="button">{{ site.data.labels.read-more[page.lang] }}</a></li>
-            </ul>
-        </article>
-        {% endfor %}
-    </div>
-</section>
-
-<section>
-    <header class="major">
-        <h2><a id="software">{{ site.data.labels.software[page.lang] }}</a></h2>
-    </header>
-    <div class="posts">
-        {% assign software = site.categories.software | where: "lang", page.lang | sort: "order" | reverse %}
-        {% for post in software %}
+        {% assign projects = site.categories.projects | where: "lang", page.lang | sort: "order" | reverse %}
+        {% for post in projects %}
         <article>
             <a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
             <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
