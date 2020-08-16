@@ -4,7 +4,7 @@ software:
       title: bashlets
       desc:
           en: An experiment in extending the command-line interface.
-      image: /assets/images/cover.jpg
+      image: /assets/images/bashlets.png
       url: https://bashlets.reale.me/
 
     - coreutils:
