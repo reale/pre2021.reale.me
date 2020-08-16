@@ -1,14 +1,11 @@
 <section>
     <div class="posts">
-        {% assign software = site.categories.software | where: "lang", page.lang | sort: "order" | reverse %}
-        {% for post in software %}
+        {% assign software = site.data.software %}
+        {% for item in software %}
         <article>
-            <a href="{{ site.baseurl }}{{ post.url }}" class="image"><img src="{{ post.image }}" alt="" /></a>
-            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-            <p>{{ post.excerpt }}</p>
-            <ul class="actions">
-                <li><a href="{{ post.url }}" class="button">{{ site.data.labels.read-more[page.lang] }}</a></li>
-            </ul>
+            <a href="{{ item.url }}" class="image"><img src="{{ item.image }}" alt="" /></a>
+            <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+            <p>{{ item.description[page.lang] }}</p>
         </article>
         {% endfor %}
     </div>
