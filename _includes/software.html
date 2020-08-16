@@ -1,11 +1,15 @@
 <section>
     <div class="posts">
-        {% assign software = site.data.software %}
+        {% assign software = site.data.software.software %}
         {% for item in software %}
         <article>
             <a href="{{ item.url }}" class="image"><img src="{{ item.image }}" alt="" /></a>
             <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
-            <p>{{ item.description[page.lang] }}</p>
+            {% if item.desc[page.lang] != nil and item.desc[page.lang] != "" %}
+            <p>{{ item.desc[page.lang] }}</p>
+            {% else %}
+            <p>{{ item.desc["en"] }}</p>
+            {% endif %}
         </article>
         {% endfor %}
     </div>
