@@ -3,7 +3,7 @@ layout: project
 title: "TimestamPy"
 lang: fr
 ref: timestampy
-categories: [projects, blockchain, focusprojects]
+categories: [software, blockchain, focusprojects]
 tags: []
 image: /assets/images/2018-01-01-timestampy.png
 icon: fa-signal

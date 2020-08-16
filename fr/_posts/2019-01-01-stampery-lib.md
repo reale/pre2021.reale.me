@@ -3,7 +3,7 @@ layout: project
 title: "stampery-lib"
 lang: fr
 ref: stampery-lib
-categories: [projects, blockchain]
+categories: [blockchain]
 tags: []
 image: /assets/images/2019-01-01-stampery-lib.jpg
 others:

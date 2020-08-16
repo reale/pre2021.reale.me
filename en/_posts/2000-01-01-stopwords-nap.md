@@ -3,7 +3,7 @@ layout: project
 title: "stopwords-nap"
 lang: en
 ref: stopwords-nap
-categories: [projects, linguistics]
+categories: [software, linguistics]
 tags: []
 image: /assets/images/cover.jpg
 canonical: https://github.com/reale/stopwords-nap
