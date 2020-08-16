@@ -8,7 +8,7 @@
                 <h2>Menu</h2>
             </header>
             <ul>
-                <li><a href="{{ '' | absolute_url }}">{{ site.data.labels.homepage[page.lang] }}</a></li>
+                <li><a href="{{ page.lang | append: '/' | absolute_url }}">{{ site.data.labels.homepage[page.lang] }}</a></li>
                 <li>
                     <span class="opener">{{ site.data.labels.who-i-am[page.lang] }}</span>
                     <ul>
