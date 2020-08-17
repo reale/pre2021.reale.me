@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Progetti
+title: Projets
 lang: fr
 ref: projects
 permalink: /fr/projects
