@@ -5,7 +5,7 @@ lang: it
 ref: polarizzazione
 categories: [publications, articles]
 tags: [politics, society, social media, people]
-image: /assets/images/
+image: /assets/images/2019-01-27-polarizzazione.jpg
 image_alt: "Jannis Kounellis, 12 Horses"
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/polarizzazione-c39069f1d6ee
