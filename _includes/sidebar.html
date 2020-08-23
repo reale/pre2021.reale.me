@@ -19,12 +19,7 @@
                         <li><a href="{{ page.lang | append: '/my-failures' | absolute_url }}">{{ site.data.labels.my-failures[page.lang] }}</a></li>
                     </ul>
                 </li>
-                <li>
-                    <span class="opener">{{ site.data.labels.blog[page.lang] }}</span>
-                    <ul>
-                        <li><a href="{{ page.lang | append: '/eventual-consistency' | absolute_url }}">Eventual Consistency</a></li>
-                    </ul>
-                </li>
+                <li><a href="{{ page.lang | append: '/eventual-consistency' | absolute_url }}">Eventual Consistency</a></li>
                 <li><a href="{{ page.lang | append: '/talks' | absolute_url }}">{{ site.data.labels.talks[page.lang] }}</a></li>
                 <li>
                     <span class="opener">{{ site.data.labels.publications[page.lang] }}</span>
