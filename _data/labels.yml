@@ -156,6 +156,14 @@ french:
     fr: "Français"
     it: "Francese"
     pl: "Francuski"
+german:
+    de: "Deutsche"
+    en: "German"
+    es: "Aleman"
+    fr: "Allemand"
+    it: "Tedesco"
+    pl: "Niemiecki"
+    ru: "Немецкий"
 homepage:
     en: "Homepage"
     es: "Página principal"
@@ -312,6 +320,14 @@ resume:
     fr: "Resume"
     it: "CV"
     pl: "Życiorys"
+russian:
+    de: "Russisch"
+    en: "Russian"
+    es: "Ruso"
+    fr: "Russe"
+    it: "Russo"
+    pl: "Rosyjski"
+    ru: "Русский"
 software:
     en: "Software"
     es: "Software"
