@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Homepage
-description: Homepage
-lang: en
+title: домашняя страница
+description: домашняя страница
+lang: ru
 ref: homepage
-permalink: /en/
+permalink: /ru/
 ---
