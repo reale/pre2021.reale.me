@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 #ruby RUBY_VERSION
 
-gem 'jekyll', '3.8.5'
+gem 'jekyll', '3.9.0'
+gem "kramdown", ">= 2.3.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
