@@ -10,7 +10,7 @@ publication: "Eventual Consistency"
 canonical: https://medium.com/reale/european-daydreaming-dc73d89a9860
 ---
 
-Travelling or relocating across our continent is the most direct way to realise that a united Europe, in the true meaning of the word, does not yet exist.
+Travelling or relocating across our continent is the most brutal way to realise that a united Europe, in the true meaning of the word, does not yet exist.
 
 National partisanships and chauvinisms aside, what we stumble into is a frightening mish-mash of inconsistentish (at the very least) regional regulations, political systems, welfare and healthcare structures, market rules and economic politics. Not a single thing stays the same as soon as you cross any border, notwithstanding that smorgasbord which we call the EU law. Even exchanging data and information amongst Member States is a digital nightmare: the complexity of frameworks such as PEPPOL (for public procurement) or eHealth (for healthcare) is so intimidating that their adoption is left as an exercise for the stalwart.
 
