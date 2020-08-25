@@ -12,7 +12,9 @@ permalink: /
 <body>
 <script>
     var lang = navigator.language || navigator.userLanguage;
-    if (lang.indexOf('es') == 0)
+    if (lang.indexOf('de') == 0)
+        window.location = '/de/';
+    else if (lang.indexOf('es') == 0)
         window.location = '/es/';
     else if (lang.indexOf('fr') == 0)
         window.location = '/fr/';
@@ -20,6 +22,8 @@ permalink: /
         window.location = '/it/';
     else if (lang.indexOf('pl') == 0)
         window.location = '/pl/';
+    else if (lang.indexOf('ru') == 0)
+        window.location = '/ru/';
     else
         window.location = '/en/';
 </script>
