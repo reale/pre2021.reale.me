@@ -5,7 +5,7 @@ lang: fr
 ref: age-de-vivaldi
 categories: [publications, articles, focus]
 tags: [belgium, politics, digital transformation, environment, europe]
-image: /assets/images/
+image: /assets/images/2020-09-30-age-de-vivaldi.jpg
 publication: "Eventual Consistency"
 canonical: https://medium.com/reale/age-de-vivaldi-4f82c8a33b41
 ---
