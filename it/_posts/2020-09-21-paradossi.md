@@ -1,0 +1,11 @@
+---
+layout: publication
+title: "Paradossi"
+lang: it
+ref: 
+categories: [publications, articles, focus]
+tags:
+image: /assets/images/
+publication: "Eventual Consistency"
+canonical:
+---
