@@ -1,6 +1,3 @@
-de:
-    label: German
-    icon: 🇩🇪
 en:
     label: English
     icon: 🇬🇧
@@ -13,9 +10,3 @@ fr:
 it:
     label: Italiano
     icon: 🇮🇹
-pl:
-    label: Polski
-    icon: 🇵🇱
-ru:
-    label: Russian
-    icon: 🇷🇺
