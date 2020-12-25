@@ -4,6 +4,9 @@ software:
       title: bashlets
       desc:
           en: An experiment in extending the command-line interface.
+          es: Un experimento para ampliar la interfaz de línea de comandos.
+          fr: Une expérience d'extension de l'interface de ligne de commande.
+          it: Un esperimento di estensione della riga di comando.
       image: /assets/images/bashlets.png
       url: https://bashlets.reale.me/
 
@@ -11,6 +14,9 @@ software:
       title: GNU Core Utilities
       desc:
           en: My patches to the GNU Core Utilities.
+          es: Mis parches para GNU Core Utilities.
+          fr: Mes correctifs pour les GNU Core Utilities.
+          it: Le mie patch per il progetto GNU Core Utilities.
       image: /assets/images/gnu-coreutils.png
       url: https://github.com/reale/coreutils
 
@@ -18,6 +24,9 @@ software:
       title: GNU Find Utilities
       desc:
           en: My patch to the GNU Find Utilities.
+          es: Mis parches para GNU Find Utilities.
+          fr: Mes correctifs pour les GNU Find Utilities.
+          it: Le mie patch per il progetto GNU Find Utilities.
       image: /assets/images/cover.jpg
       url: https://git.savannah.gnu.org/cgit/findutils.git/commit/?id=54723137491054781667e56533e2e0eb5186964b
 
@@ -25,6 +34,7 @@ software:
       title: gitty
       desc:
           en: A client for the GitHub REST API v3, written in Bash.
+          es: Un cliente para la API REST de GitHub v3, escrito en Bash.
           fr: Un client pour l'API REST GitHub v3, écrit en Bash.
           it: Un client per la API REST di GitHub REST, in Bash.
       image: /assets/images/gitty.png
@@ -34,6 +44,9 @@ software:
       title: RPNparser
       desc:
           en: A parser for reverse Polish notation, in various languages.
+          es: Un analizador para la notación polaca inversa, en varios idiomas.
+          fr: Un analyseur pour la notation polonaise inversée, dans différentes langues.
+          it: Un parser per la notazione polacca inversa, in vari linguaggi.
       image: /assets/images/cover.jpg
       url: https://github.com/reale/RPNparser
 
@@ -41,6 +54,9 @@ software:
       title: stopwords-nap
       desc:
           en: The most comprehensive collection of stopwords for the Neapolitan language.
+          es: La colección más completa de palabras vacías para el idioma napolitano.
+          fr: La collection la plus complète de mots vides pour la langue napolitaine.
+          it: La più completa raccolta di stopword per la lingua napoletana.
       image: /assets/images/cover.jpg
       url: https://github.com/reale/stopwords-nap
       tags: linguistics
@@ -49,6 +65,7 @@ software:
       title: TimestamPy
       desc:
           en: TimestamPy uses the blockchain, via the OpenTimestamps project, to automatically generate a timestamp every time any document is created, modified or moved into a local folder.
+          es: TimestamPy utiliza la cadena de bloques, a través del proyecto OpenTimestamps, para generar automáticamente una marca de tiempo cada vez que se crea, modifica o mueve un documento a una carpeta local.
           fr: TimestamPy utilise la blockchain, via le projet OpenTimestamps, pour générer automatiquement un horodatage chaque fois qu'un document est créé, modifié ou déplacé dans un dossier local.
           it: TimestamPy utilizza la blockchain, tramite il progetto OpenTimestamps, per generare automaticamente un timestamp ogni volta che un documento viene creato, modificato o spostato in una cartella locale.
       image: /assets/images/timestampy.png
@@ -59,5 +76,8 @@ software:
       title: wsync
       desc:
           en: A small Python utility for synchronizing a local folder with a remote web repository.
+          es: Una pequeña utilidad de Python para sincronizar una carpeta local con un repositorio web remoto.
+          fr: Un petit utilitaire Python pour synchroniser un dossier local avec un référentiel Web distant.
+          it: Una piccola utility Python per sincronizzare una cartella locale con un repository web remoto
       image: /assets/images/cover.jpg
       url: https://github.com/reale/wsync
