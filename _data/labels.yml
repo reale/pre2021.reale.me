@@ -180,11 +180,6 @@ misc:
     es: "Misc"
     fr: "Misc"
     it: "Misc"
-my-failures:
-    en: "My Failures"
-    es: "Mis fallas"
-    fr: "Mes échecs"
-    it: "I miei fallimenti"
 my-role:
     en: "My role"
     es: "Mi papel"
