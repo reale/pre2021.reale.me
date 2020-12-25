@@ -11,7 +11,7 @@ software:
       title: GNU Core Utilities
       desc:
           en: My patches to the GNU Core Utilities.
-      image: /assets/images/cover.jpg
+      image: /assets/images/gnu-coreutils.png
       url: https://github.com/reale/coreutils
 
     - findutils:
