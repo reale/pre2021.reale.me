@@ -5,6 +5,8 @@ gem 'jekyll', '3.9.0'
 gem "kramdown", ">= 2.3.0"
 gem "kramdown-parser-gfm"
 
+gem 'html-proofer', '~> 3.11'
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem 'jekyll-feed'
