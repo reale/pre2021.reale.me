@@ -79,5 +79,5 @@ software:
           es: Una pequeña utilidad de Python para sincronizar una carpeta local con un repositorio web remoto.
           fr: Un petit utilitaire Python pour synchroniser un dossier local avec un référentiel Web distant.
           it: Una piccola utility Python per sincronizzare una cartella locale con un repository web remoto
-      image: /assets/images/cover.jpg
+      image: /assets/images/wsync.png
       url: https://github.com/reale/wsync
