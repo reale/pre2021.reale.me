@@ -47,7 +47,7 @@ software:
           es: Un analizador para la notación polaca inversa, en varios idiomas.
           fr: Un analyseur pour la notation polonaise inversée, dans différentes langues.
           it: Un parser per la notazione polacca inversa, in vari linguaggi.
-      image: /assets/images/cover.jpg
+      image: /assets/images/rpn-calculator.jpg
       url: https://github.com/reale/RPNparser
 
     - stopwords-nap:
