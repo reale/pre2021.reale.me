@@ -57,7 +57,7 @@ software:
           es: La colección más completa de palabras vacías para el idioma napolitano.
           fr: La collection la plus complète de mots vides pour la langue napolitaine.
           it: La più completa raccolta di stopword per la lingua napoletana.
-      image: /assets/images/cover.jpg
+      image: /assets/images/stopwords-nap.png
       url: https://github.com/reale/stopwords-nap
       tags: linguistics
 
