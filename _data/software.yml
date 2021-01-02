@@ -27,7 +27,7 @@ software:
           es: Mis parches para GNU Find Utilities.
           fr: Mes correctifs pour les GNU Find Utilities.
           it: Le mie patch per il progetto GNU Find Utilities.
-      image: /assets/images/cover.jpg
+      image: /assets/images/gnu-findutils.png
       url: https://git.savannah.gnu.org/cgit/findutils.git/commit/?id=54723137491054781667e56533e2e0eb5186964b
 
     - gitty:
