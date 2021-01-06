@@ -4,6 +4,7 @@ source "https://rubygems.org"
 gem 'jekyll', '3.9.0'
 gem "kramdown", ">= 2.3.0"
 gem "kramdown-parser-gfm"
+gem "nokogiri", ">= 1.11.0.rc4"
 
 gem 'html-proofer', '~> 3.11'
 
