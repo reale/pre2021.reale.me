@@ -17,4 +17,4 @@ Je suis membre d'organismes de normalisation au niveau national et européen et 
 
 Fondateur d'<a href="https://eutopian.eu" target="_blank">Eutopian</a>, un think tank sur la citoyenneté numérique, je crois en la technologie en tant que catalyseur de la démocratie. Je suis également le fondateur et directeur général de <a href="https://tanglegence.com" target="_blank">Tanglegence</a>, une société basée à Dublin et à Londres dont l'objectif est de fournir aux organisations gouvernementales et aux entreprises les outils financiers et technologiques nécessaires pour mettre en œuvre l'innovation dans l'espace européen.
 
-Je vis à Bruxelles.
+Je vis à Rome et à Bruxelles.

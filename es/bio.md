@@ -17,4 +17,4 @@ Soy miembro de organismos de normalización a nivel nacional y de la UE y de var
 
 Como orgulloso fundador de <a href="https://eutopian.eu" target="_blank">Eutopian</a>, un grupo de expertos centrado en la ciudadanía digital, creo en la tecnología como facilitador de la democracia. También soy el fundador y director gerente de <a href="https://tanglegence.com" target="_blank">Tanglegence</a>, una compañía con sede en Dublín y Londres cuyo objetivo es proporcionar organizaciones gubernamentales y empresas con las herramientas financieras y tecnológicas necesarias para implementar la innovación en el espacio de la UE.
 
-Actualmente vivo en Bruselas.
+Actualmente vivo en Roma y Bruselas.

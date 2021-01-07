@@ -17,4 +17,4 @@ I am a member of standardisation bodies at the national and EU level and of seve
 
 As the proud founder of <a href="https://eutopian.eu" target="_blank">Eutopian</a>, a think tank focused on digital citizenship, I believe in technology as an enabler for democracy. I am also the founder and managing director of <a href="https://tanglegence.com" target="_blank">Tanglegence</a>, a Dublin- and London-based company whose goal is to provide governmental organisations and businesses with the financial e technological tools needed to implement innovation in the EU space.
 
-Currently based in Brussels, Belgium.
+Currently based in Rome, Italy, and Brussels, Belgium.

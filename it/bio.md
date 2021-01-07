@@ -17,4 +17,4 @@ Sono membro di organismi di standardizzazione a livello nazionale ed europeo e d
 
 Sono fondatore di <a href="https://eutopian.eu" target="_blank">Eutopian</a>, un think tank incentrato sulla cittadinanza digitale in quanto credo nella tecnologia come fattore abilitante per la democrazia.
 
-Attualmente vivo a Bruxelles.
+Vivo tra Roma e Bruxelles.
