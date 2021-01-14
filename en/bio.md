@@ -15,6 +15,6 @@ I build and develop strong relationships with regulators, SMEs, financial instit
 
 I am a member of standardisation bodies at the national and EU level and of several international and regional associations. I also research and teach on the organisational, economical and formal aspects of innovation and digital transformation. By delivering keynotes in conferences and meetings throughout Europe and by conducting an extensive communication campaign, I strive to be a thought leader on digital transformation and its impact on our society and culture.
 
-As the proud founder of <a href="https://eutopian.eu" target="_blank">Eutopian</a>, a think tank focused on digital citizenship, I believe in technology as an enabler for democracy. I am also the founder and managing director of <a href="https://tanglegence.com" target="_blank">Tanglegence</a>, a Dublin- and London-based company whose goal is to provide governmental organisations and businesses with the financial e technological tools needed to implement innovation in the EU space.
+As the proud founder of <a href="https://eutopian.eu" target="_blank">Eutopian</a>, a think tank focused on digital citizenship, I believe in technology as an enabler for democracy.
 
 Currently based in Rome, Italy, and Brussels, Belgium.

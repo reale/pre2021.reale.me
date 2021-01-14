@@ -15,6 +15,6 @@ Je construis et développe des relations solides avec les régulateurs, les PME,
 
 Je suis membre d'organismes de normalisation au niveau national et européen et de plusieurs associations internationales et régionales. Je recherche et enseigne également les aspects organisationnels, économiques et formels de l'innovation et de la transformation numérique. En prononçant des discours lors de conférences et de réunions à travers l'Europe et en menant une vaste campagne de communication, je m'efforce d'être un leader d'opinion sur la transformation numérique et son impact sur notre société et notre culture.
 
-Fondateur d'<a href="https://eutopian.eu" target="_blank">Eutopian</a>, un think tank sur la citoyenneté numérique, je crois en la technologie en tant que catalyseur de la démocratie. Je suis également le fondateur et directeur général de <a href="https://tanglegence.com" target="_blank">Tanglegence</a>, une société basée à Dublin et à Londres dont l'objectif est de fournir aux organisations gouvernementales et aux entreprises les outils financiers et technologiques nécessaires pour mettre en œuvre l'innovation dans l'espace européen.
+Fondateur d'<a href="https://eutopian.eu" target="_blank">Eutopian</a>, un think tank sur la citoyenneté numérique, je crois en la technologie en tant que catalyseur de la démocratie.
 
 Je vis à Rome et à Bruxelles.
