@@ -2,7 +2,7 @@
 layout: publication
 title: "Scuola: contaminare coding e humanities"
 lang: it
-ref: scuola-contaminare-coding-e-humanities`
+ref: scuola-contaminare-coding-e-humanities
 categories: [publications, articles, focus]
 tags: [culture, schools, software development, literacy, github]
 image: /assets/images/2021-02-07-scuola-contaminare-coding-e-humanities.png
