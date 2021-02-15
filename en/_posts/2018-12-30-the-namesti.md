@@ -7,7 +7,7 @@ tags: []
 image: /assets/images/2018-12-30-the-namesti.jpg
 image_alt: "Josef Sudek - Staroměstské náměstí"
 publication: "Write the City, issue 3 (Legends)"
-canonical: https://issuu.com/writethecity/docs/legends__wtc__3_
+canonical: https://issuu.com/writethecity/docs/legends__wtc__3_/81
 ---
 
 *“Have you ever seen the clock, at noon? Oh my.”*
