@@ -16,7 +16,7 @@ Nella migliore delle ipotesi, si ripete con ossessività il mantra del coding a 
 
 Contribuire alla costruzione di un ecosistema aperto, interoperabile e ben disegnato di dati e di relazioni tra dati, sapervi interagire, saperlo interrogare per ricavarne conoscenza: questo è vivere da contemporanei, è un modo di *esserci*. È il momento di scavalcare il paradigma computazionale, che comunque non si "smarca" mai da un quid di proceduralità anche nelle sue forme avanzate (funzionali, a oggetti) per abbracciare piuttosto un "paradigma semantico" o meglio un paradigma data-centrico, costruito sui dati e sulle loro relazioni.
 
-Poi è ovvio (se ci fosseancora bisogno di ribadirlo) che lo strumento cognitivo e anche operativo di elezione per interagire con un ecosistema di dati è il codice, attraverso interfacce programmabili, entry point SPARQL e chi più ne ha più ne metta.
+Poi è ovvio (se ci fosse ancora bisogno di ribadirlo) che lo strumento cognitivo e anche operativo di elezione per interagire con un ecosistema di dati è il codice, attraverso interfacce programmabili, entry point SPARQL e chi più ne ha più ne metta.
 
 Ma lasciatemi sognare un futuro in cui la scuola saprà fornire ai nostri figli gli strumenti critici e operativi per vivere con consapevolezza in un mondo in cui gli ecosistemi di dati e le loro relazioni sono i motori più potenti di produzione e trasmissione della conoscenza, di partecipazione alla vita civile e in ultima istanza anche di impegno politico.
 
