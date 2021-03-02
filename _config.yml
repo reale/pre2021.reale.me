@@ -6,7 +6,7 @@ email: roberto@reale.me
 pec: reale.roberto@pec.it
 description: "Roberto Reale's website"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://reale.me" # the base hostname & protocol for your site
+url: "https://pre2021.reale.me" # the base hostname & protocol for your site
 author: Roberto Reale
 street_address:
 city: Bruxelles
