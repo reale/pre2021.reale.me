@@ -2,11 +2,13 @@
 
 ![Uptime Robot](https://img.shields.io/uptimerobot/status/m780960492-c804829046b7e1c4637ce079)
 
-Source code of my personal website [pre2021.reale.me](https://pre2021.reale.me).
+Source code of my personal website [pre2021.reale.me](https://pre2021.reale.me) (pre-2021 version).
 
-The site is built upon [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).
+For my current website, please visit [reale.me](https://reale.me) or [this repository](https://github.com/reale/reale.me) on GitHub.
 
-Older iterations of the website design can be seen in the [Internet Archives](https://web.archive.org/web/*/https://reale.me/).
+This site is built upon [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).
+
+Older iterations of this website design can be seen in the [Internet Archives](https://web.archive.org/web/*/https://reale.me/).
 
 Web analytics is delivered by [Google Analytics](https://www.google.com/analytics/). Service availability is monitored by [UptimeRobot](https://uptimerobot.com/). See the [Privacy policy](https://www.iubenda.com/privacy-policy/20569279) for details.
 
